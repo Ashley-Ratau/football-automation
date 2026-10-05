@@ -27,7 +27,14 @@ mkdir -p ~/.config/yt-dlp
   echo "--js-runtimes node"
   echo "--remote-components ejs:github"
   if [ -n "${YOUTUBE_COOKIES:-}" ]; then
-    printf '%s\n' "$YOUTUBE_COOKIES" > ~/.config/yt-dlp/cookies.txt
+    # Accept the cookies.txt text as-is, or base64-encoded on one line.
+    if printf '%s' "$YOUTUBE_COOKIES" | grep -q 'youtube.com'; then
+      printf '%s\n' "$YOUTUBE_COOKIES" > ~/.config/yt-dlp/cookies.txt
+    else
+      printf '%s' "$YOUTUBE_COOKIES" | tr -d ' \r\n' | base64 -d > ~/.config/yt-dlp/cookies.txt 2>/dev/null || echo "WARN: YOUTUBE_COOKIES is neither cookies.txt text nor base64"
+    fi
+    # Some settings boxes turn tabs into spaces; cookies.txt needs tabs between its 7 fields.
+    sed -i -E '/^(#|$)/! s/ +/\t/g' ~/.config/yt-dlp/cookies.txt
     chmod 600 ~/.config/yt-dlp/cookies.txt
     echo "--cookies $HOME/.config/yt-dlp/cookies.txt"
   fi
