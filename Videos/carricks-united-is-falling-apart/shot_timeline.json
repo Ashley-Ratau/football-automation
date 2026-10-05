@@ -5,501 +5,501 @@
   "t": 0.0,
   "sec": "cold_open",
   "kind": "clip",
-  "dur": 3.0
+  "dur": 2.6
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 90,
-  "t": 2.99,
+  "t": 2.5934782608695657,
   "sec": "cold_open",
   "kind": "clip",
-  "dur": 4.533333333333333
+  "dur": 3.9666666666666663
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 270,
   "slow": true,
-  "t": 7.55,
+  "t": 6.558695652173913,
   "sec": "cold_open",
   "kind": "clip",
-  "dur": 2.5
+  "dur": 2.133333333333333
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 365,
-  "t": 10.03,
+  "t": 8.715217391304348,
   "sec": "cold_open",
   "kind": "clip",
-  "dur": 1.7666666666666675
+  "dur": 1.5333333333333332
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 535,
-  "t": 11.79,
+  "t": 10.245652173913044,
   "sec": "cold_open",
   "kind": "clip",
-  "dur": 2.666666666666666
+  "dur": 2.333333333333334
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 600,
-  "t": 14.469999999999999,
+  "t": 12.576086956521738,
   "sec": "cold_open",
   "kind": "clip",
-  "dur": 6.6
+  "dur": 5.733333333333334
  },
  {
   "file": "assets/clips/hd/Qiob0M7_kCI.mp4",
   "start": 3,
-  "t": 21.07,
+  "t": 18.315217391304348,
   "sec": "cold_open",
   "kind": "clip",
-  "dur": 4.333333333333332
+  "dur": 3.833333333333332
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/un8y4WoorNk.mp4",
   "start": 22.4,
-  "t": 25.39,
+  "t": 22.135011337868484,
   "sec": "q_cant_accept",
   "bw": false,
   "tag": "Michael Carrick \u00b7 16 Sep 2026 \u00b7 Sky Sports",
   "speaker": true,
-  "dur": 6.600000000000001
+  "dur": 6.633333333333333
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 32,
-  "t": 32.010000000000005,
+  "t": 28.755011337868485,
   "sec": "the_question",
   "kind": "clip",
-  "dur": 3.0
+  "dur": 2.5666666666666664
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 422,
   "slow": true,
-  "t": 35.00000000000001,
+  "t": 31.348489598738052,
   "sec": "the_question",
   "kind": "clip",
-  "dur": 5.266666666666666
+  "dur": 4.599999999999998
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 588,
   "bw": true,
-  "t": 40.28,
+  "t": 35.93979394656414,
   "sec": "the_question",
   "kind": "clip",
-  "dur": 6.0
+  "dur": 5.266666666666673
  },
  {
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 30,
-  "t": 46.28,
+  "t": 41.21637188208617,
   "sec": "the_rescue",
   "kind": "clip",
-  "dur": 1.6333333333333329
+  "dur": 1.43333333333333
  },
  {
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 33,
   "bw": true,
-  "t": 47.910000000000004,
+  "t": 42.62724144730356,
   "sec": "the_rescue",
   "kind": "clip",
-  "dur": 4.733333333333334
+  "dur": 4.100000000000001
  },
  {
   "file": "assets/clips/hd/c1_jF2ZwlfU.mp4",
   "start": 20,
-  "t": 52.63,
+  "t": 46.73158927339052,
   "sec": "the_rescue",
   "kind": "clip",
-  "dur": 5.799999999999997
+  "dur": 5.033333333333331
  },
  {
   "file": "assets/clips/hd/q98dtA1EFnY.mp4",
   "start": 5,
-  "t": 58.43,
+  "t": 51.77506753426009,
   "sec": "the_rescue",
   "kind": "clip",
-  "dur": 4.200000000000003
+  "dur": 3.700000000000003
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/q98dtA1EFnY.mp4",
   "start": 13.780000000000001,
-  "t": 62.63,
+  "t": 55.482290249433106,
   "sec": "q_keane",
   "bw": false,
   "tag": "Roy Keane \u00b7 January 2026 \u00b7 Sky Sports",
   "speaker": true,
-  "dur": 9.033333333333339
+  "dur": 9.033333333333331
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 18,
-  "t": 71.65,
+  "t": 64.5022902494331,
   "sec": "the_run",
   "kind": "clip",
-  "dur": 3.4666666666666686
+  "dur": 3.0
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 45,
-  "t": 75.12,
+  "t": 67.51315981465049,
   "sec": "the_run",
   "kind": "clip",
-  "dur": 6.133333333333326
+  "dur": 5.36666666666666
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 120,
-  "t": 81.28,
+  "t": 72.86968155378094,
   "sec": "the_run",
   "kind": "clip",
-  "dur": 4.266666666666666
+  "dur": 3.700000000000003
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 280,
-  "t": 85.52000000000001,
+  "t": 76.55663807552006,
   "sec": "the_run",
   "kind": "clip",
-  "dur": 3.5
+  "dur": 3.066666666666677
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 520,
-  "t": 89.04,
+  "t": 79.61750764073746,
   "sec": "the_run",
   "kind": "clip",
-  "dur": 3.933333333333337
+  "dur": 3.4666666666666544
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 38.620000000000005,
-  "t": 92.96000000000001,
+  "t": 83.08938775510204,
   "sec": "q_calm",
   "bw": false,
   "tag": "Sky Sports News \u00b7 May 2026",
   "speaker": true,
-  "dur": 7.299999999999997
+  "dur": 7.300000000000011
  },
  {
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 110,
-  "t": 100.26,
+  "t": 90.38938775510204,
   "sec": "the_deal",
   "kind": "clip",
-  "dur": 2.3333333333333286
+  "dur": 2.0333333333333314
  },
  {
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 116,
-  "t": 102.61,
+  "t": 92.42634427684116,
   "sec": "the_deal",
   "kind": "clip",
-  "dur": 3.3000000000000114
+  "dur": 2.8333333333333286
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 190,
   "slow": true,
-  "t": 105.89,
+  "t": 95.27851818988465,
   "sec": "the_deal",
   "kind": "clip",
-  "dur": 2.799999999999997
+  "dur": 2.433333333333337
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 300,
-  "t": 108.69,
+  "t": 97.71330079858029,
   "sec": "the_deal",
   "kind": "clip",
-  "dur": 7.666666666666657
+  "dur": 6.700000000000003
  },
  {
   "file": "assets/clips/hd/Qiob0M7_kCI.mp4",
   "start": 400,
-  "t": 116.37,
+  "t": 104.39156166814551,
   "sec": "the_deal",
   "kind": "clip",
-  "dur": 1.9333333333333371
+  "dur": 1.7333333333333343
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/Qiob0M7_kCI.mp4",
   "start": 407.71999999999997,
-  "t": 118.29,
+  "t": 106.12444444444444,
   "sec": "q_found_a_way",
   "bw": false,
   "tag": "Michael Carrick \u00b7 16 Sep 2026",
   "speaker": true,
-  "dur": 6.6000000000000085
+  "dur": 6.599999999999994
  },
  {
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 190,
-  "t": 124.91000000000003,
+  "t": 112.74444444444445,
   "sec": "the_summer",
   "kind": "clip",
-  "dur": 1.6333333333333258
+  "dur": 1.4333333333333371
  },
  {
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 194,
-  "t": 126.54000000000002,
+  "t": 114.15531400966185,
   "sec": "the_summer",
   "kind": "clip",
-  "dur": 4.400000000000006
+  "dur": 3.799999999999997
  },
  {
   "file": "assets/clips/hd/c1_jF2ZwlfU.mp4",
   "start": 300,
-  "t": 130.94000000000003,
+  "t": 117.98140096618359,
   "sec": "the_summer",
   "kind": "clip",
-  "dur": 4.73333333333332
+  "dur": 4.133333333333326
  },
  {
   "file": "assets/broll/hull.mp4",
   "start": 10,
-  "t": 135.66000000000003,
+  "t": 122.08574879227054,
   "sec": "the_summer",
   "kind": "clip",
-  "dur": 4.866666666666674
+  "dur": 4.233333333333334
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 30,
-  "t": 140.54000000000002,
+  "t": 126.3292270531401,
   "sec": "the_summer",
   "kind": "clip",
-  "dur": 3.6999999999999886
+  "dur": 3.2666666666666657
  },
  {
   "file": "assets/broll/hull.mp4",
   "start": 2,
-  "t": 144.22000000000003,
+  "t": 129.5960090702948,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 3.4666666666666686
+  "dur": 3.0
  },
  {
   "file": "assets/broll/hull.mp4",
   "start": 132,
-  "t": 147.69000000000003,
+  "t": 132.6068786355122,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 2.0666666666666913
+  "dur": 1.8000000000000114
  },
  {
   "file": "assets/broll/ipswich.mp4",
   "start": 60,
-  "t": 149.77000000000004,
+  "t": 134.4155742876861,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 5.299999999999983
+  "dur": 4.599999999999994
  },
  {
   "file": "assets/broll/ipswich.mp4",
   "start": 405,
-  "t": 155.05000000000004,
+  "t": 139.00687863551218,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 1.6666666666666572
+  "dur": 1.4666666666666686
  },
  {
   "file": "assets/broll/ipswich.mp4",
   "start": 630,
   "bw": true,
-  "t": 156.73000000000002,
+  "t": 140.46774820072957,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 1.1333333333333542
+  "dur": 0.9666666666666686
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 165,
-  "t": 157.85000000000002,
+  "t": 141.44166124420784,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 2.1333333333333258
+  "dur": 1.9000000000000057
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 2,
-  "t": 160.01000000000002,
+  "t": 143.31992211377306,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 2.73333333333332
+  "dur": 2.366666666666646
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 60,
-  "t": 162.73000000000002,
+  "t": 145.68513950507742,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 1.6333333333333542
+  "dur": 1.4000000000000057
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 375,
-  "t": 164.37000000000003,
+  "t": 147.11122646159913,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 4.033333333333331
+  "dur": 3.5333333333333314
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 380,
-  "t": 168.41000000000003,
+  "t": 150.62426993986003,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 2.0
+  "dur": 1.7333333333333485
  },
  {
   "file": "assets/broll/fulham.mp4",
   "start": 18,
-  "t": 170.41000000000003,
+  "t": 152.36340037464262,
   "sec": "the_slide",
   "kind": "clip",
-  "dur": 3.8666666666666742
+  "dur": 3.4000000000000057
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 600,
   "bw": true,
-  "t": 174.25000000000003,
+  "t": 155.75934240362812,
   "sec": "the_numbers",
   "kind": "clip",
-  "dur": 2.666666666666657
+  "dur": 2.299999999999983
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 60,
   "bw": true,
-  "t": 176.92000000000002,
+  "t": 158.07455979493247,
   "sec": "the_numbers",
   "kind": "clip",
-  "dur": 4.699999999999989
+  "dur": 4.099999999999994
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 540,
-  "t": 181.64000000000004,
+  "t": 162.17890762101942,
   "sec": "the_numbers",
   "kind": "clip",
-  "dur": 5.400000000000006
+  "dur": 4.700000000000017
  },
  {
   "file": "assets/broll/fulham.mp4",
   "start": 420,
-  "t": 187.04000000000002,
+  "t": 166.87455979493248,
   "sec": "the_numbers",
   "kind": "clip",
-  "dur": 3.8000000000000114
+  "dur": 3.366666666666646
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/lvvojsQOkCQ.mp4",
   "start": 148.07999999999998,
-  "t": 190.84000000000003,
+  "t": 170.24249433106576,
   "sec": "q_points",
   "bw": false,
   "tag": "Michael Carrick \u00b7 13 Sep 2026",
   "speaker": true,
-  "dur": 8.633333333333326
+  "dur": 8.633333333333354
  },
  {
   "file": "assets/clips/hd/c1_jF2ZwlfU.mp4",
   "start": 120,
-  "t": 199.46000000000004,
+  "t": 178.86249433106576,
   "sec": "the_why",
   "kind": "clip",
-  "dur": 1.9333333333333371
+  "dur": 1.6999999999999886
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 245,
-  "t": 201.41000000000003,
+  "t": 180.55162476584837,
   "sec": "the_why",
   "kind": "clip",
-  "dur": 4.400000000000006
+  "dur": 3.8000000000000114
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 300,
-  "t": 205.81000000000003,
+  "t": 184.37771172237012,
   "sec": "the_why",
   "kind": "clip",
-  "dur": 4.599999999999994
+  "dur": 4.0
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 225,
-  "t": 210.41000000000003,
+  "t": 188.37771172237012,
   "sec": "the_why",
   "kind": "clip",
-  "dur": 3.73333333333332
+  "dur": 3.23333333333332
  },
  {
   "file": "assets/broll/fulham.mp4",
   "start": 240,
-  "t": 214.13000000000002,
+  "t": 191.61249433106576,
   "sec": "the_why",
   "kind": "clip",
-  "dur": 5.76666666666668
+  "dur": 5.033333333333331
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 485,
-  "t": 219.89000000000004,
+  "t": 196.62118998323967,
   "sec": "the_why",
   "kind": "clip",
-  "dur": 3.3666666666666742
+  "dur": 2.9000000000000057
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 545,
-  "t": 223.25000000000003,
+  "t": 199.54292911367446,
   "sec": "the_why",
   "kind": "clip",
-  "dur": 4.299999999999983
+  "dur": 3.833333333333343
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 450,
-  "t": 227.57000000000005,
+  "t": 203.36331065759637,
   "sec": "the_crowd",
   "kind": "clip",
-  "dur": 2.0333333333333314
+  "dur": 1.7666666666666515
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 625,
   "bw": true,
-  "t": 229.60000000000005,
+  "t": 205.12200630977028,
   "sec": "the_crowd",
   "kind": "clip",
-  "dur": 4.166666666666686
+  "dur": 3.5999999999999943
  },
  {
   "file": "assets/clips/hd/un8y4WoorNk.mp4",
   "start": 190,
-  "t": 233.76000000000005,
+  "t": 208.7393976141181,
   "sec": "the_crowd",
   "kind": "clip",
-  "dur": 2.46666666666664
+  "dur": 2.2333333333333485
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/un8y4WoorNk.mp4",
   "start": 204.92,
-  "t": 236.24000000000004,
+  "t": 210.9549886621315,
   "sec": "q_on_me",
   "bw": false,
   "tag": "Michael Carrick \u00b7 16 Sep 2026 \u00b7 Sky Sports",
@@ -511,66 +511,66 @@
   "start": 625,
   "bw": true,
   "kind": "clip",
-  "t": 241.24000000000004,
+  "t": 215.9549886621315,
   "sec": "q_on_me",
-  "dur": 4.666666666666686
+  "dur": 4.633333333333326
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 590,
   "slow": true,
-  "t": 245.90000000000003,
+  "t": 220.6149886621315,
   "sec": "the_spiral",
   "kind": "clip",
-  "dur": 3.166666666666657
+  "dur": 2.7333333333333485
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 32,
-  "t": 249.05000000000004,
+  "t": 223.34759735778368,
   "sec": "the_spiral",
   "kind": "clip",
-  "dur": 3.26666666666668
+  "dur": 2.866666666666646
  },
  {
   "file": "assets/clips/hd/UFmtSYY2C3k.mp4",
   "start": 116,
-  "t": 252.33000000000004,
+  "t": 226.19977127082717,
   "sec": "the_spiral",
   "kind": "clip",
-  "dur": 1.5333333333333314
+  "dur": 1.3333333333333428
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 375,
   "bw": true,
-  "t": 253.85000000000002,
+  "t": 227.52151040126193,
   "sec": "the_spiral",
   "kind": "clip",
-  "dur": 3.8999999999999773
+  "dur": 3.4000000000000057
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 590,
   "bw": true,
-  "t": 257.77000000000004,
+  "t": 230.93020605343585,
   "sec": "the_spiral",
   "kind": "clip",
-  "dur": 5.53333333333336
+  "dur": 4.799999999999983
  },
  {
   "file": "assets/clips/hd/q98dtA1EFnY.mp4",
   "start": 40,
-  "t": 263.29,
+  "t": 235.73020605343586,
   "sec": "the_spiral",
   "kind": "clip",
-  "dur": 5.366666666666674
+  "dur": 4.7333333333333485
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/q98dtA1EFnY.mp4",
   "start": 296.6,
-  "t": 268.65000000000003,
+  "t": 240.45571428571427,
   "sec": "q_world_class",
   "bw": false,
   "tag": "Roy Keane \u00b7 January 2026 \u00b7 Sky Sports",
@@ -580,88 +580,88 @@
  {
   "file": "assets/broll/ipswich.mp4",
   "start": 160,
-  "t": 272.09,
+  "t": 243.8957142857142,
   "sec": "fair",
   "kind": "clip",
-  "dur": 3.533333333333303
+  "dur": 3.066666666666663
  },
  {
   "file": "assets/broll/ipswich.mp4",
   "start": 300,
-  "t": 275.64,
+  "t": 246.9761490683229,
   "sec": "fair",
   "kind": "clip",
-  "dur": 5.366666666666674
+  "dur": 4.666666666666657
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 400,
-  "t": 281.0,
+  "t": 251.6370186335403,
   "sec": "fair",
   "kind": "clip",
-  "dur": 5.133333333333326
+  "dur": 4.53333333333336
  },
  {
   "kind": "clip",
   "file": "assets/clips/hd/Qiob0M7_kCI.mp4",
   "start": 328.58,
-  "t": 286.11999999999995,
+  "t": 256.1575283446711,
   "sec": "q_direction",
   "bw": false,
   "tag": "Michael Carrick \u00b7 16 Sep 2026",
   "speaker": true,
-  "dur": 6.2333333333333485
+  "dur": 6.2666666666666515
  },
  {
   "file": "assets/broll/city.mp4",
   "start": 600,
-  "t": 292.37999999999994,
+  "t": 262.4175283446711,
   "sec": "ending",
   "kind": "clip",
-  "dur": 3.8666666666666742
+  "dur": 3.3333333333333144
  },
  {
   "file": "assets/broll/ipswich.mp4",
   "start": 180,
-  "t": 296.24999999999994,
+  "t": 265.77622399684503,
   "sec": "ending",
   "kind": "clip",
-  "dur": 2.7333333333332916
+  "dur": 2.3666666666666742
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 595,
   "bw": true,
-  "t": 298.9699999999999,
+  "t": 268.14144138814936,
   "sec": "ending",
   "kind": "clip",
-  "dur": 3.03333333333336
+  "dur": 2.6666666666666856
  },
  {
   "file": "assets/broll/liverpool.mp4",
   "start": 590,
-  "t": 302.00999999999993,
+  "t": 270.78491964901895,
   "sec": "ending",
   "kind": "clip",
-  "dur": 4.2333333333333485
+  "dur": 3.6666666666666288
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 422,
   "slow": true,
   "bw": true,
-  "t": 306.24999999999994,
+  "t": 274.47187617075804,
   "sec": "ending",
   "kind": "clip",
-  "dur": 2.2666666666666515
+  "dur": 2.03333333333336
  },
  {
   "file": "assets/broll/brighton.mp4",
   "start": 588,
   "slow": true,
-  "t": 308.48999999999995,
+  "t": 276.4863038548752,
   "sec": "outro",
   "kind": "clip",
-  "dur": 7.333333333333314
+  "dur": 6.566666666666663
  }
 ]
