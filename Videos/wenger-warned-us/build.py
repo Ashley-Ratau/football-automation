@@ -280,13 +280,17 @@ def music_bed(total, events):
     """Three incompetech cues: tension for the open, ambient bed for the story, sad cue for the ending."""
     def load(name):
         w = P/'_tmp'/f'm_{name}.wav'
-        if not w.exists(): subprocess.run([FF, '-y', '-i', str(P/'assets'/'music'/f'{name}.mp3'), '-ar', str(SR), '-ac', '2', str(w)], check=True, capture_output=True)
+        src = P/'assets'/'music'/f'{name}.mp3'
+        if not w.exists() and not src.exists(): return None  # music is optional
+        if not w.exists(): subprocess.run([FF, '-y', '-i', str(src), '-ar', str(SR), '-ac', '2', str(w)], check=True, capture_output=True)
         return wav_read(w)
     n = int(total * SR) + SR; bed = np.zeros((n, 2), np.float32)
     title_t = [e[1] for e in events if e[0] == 'title'][0]
     end_t = [e[1] for e in events if e[2] == 'fair'][0]
     def place(name, s, e, gain, fi=1.0, fo=2.5, offset=0):
-        a = load(name); a = a[int(offset * SR):]
+        a = load(name)
+        if a is None: return
+        a = a[int(offset * SR):]
         L = int((e - s) * SR)
         while len(a) < L: a = np.concatenate([a, a])
         a = a[:L].copy(); a[:int(fi * SR)] *= np.linspace(0, 1, int(fi * SR))[:, None]; a[-int(fo * SR):] *= np.linspace(1, 0, int(fo * SR))[:, None]
