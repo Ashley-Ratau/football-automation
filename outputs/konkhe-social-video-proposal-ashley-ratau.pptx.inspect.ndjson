@@ -1,0 +1,173 @@
+{"kind":"deck","id":"pr/ojpo66","name":"Deck"}
+{"kind":"layout","layoutId":"0eaf0845-5d45-46cc-a9a1-2dbd8bb2f07c","name":"Master","type":"master"}
+{"kind":"layout","layoutId":"3c4bd0e7-705f-4e6d-867b-2cbd49aba3c3","name":"Title Slide","type":"title"}
+{"kind":"slide","id":"sl/5xfncm","slide":1,"title":"KONKHE IN MOTION","textShapes":5}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":1,"bbox":[610,0,670,720]}
+{"kind":"textbox","id":"sh/4zidonyd","slide":1,"text":"KONKHE IN MOTION","textPreview":"KONKHE IN MOTION","textChars":16,"textLines":1,"bbox":[72,205,720,78]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":1,"text":"A short-form video proposal for\nInstagram Reels, Facebook Reels\nand TikTok Shorts.","textPreview":"A short-form video proposal for | Instagram Reels, Facebook Reels | and TikTok Shorts.","textChars":82,"textLines":3,"bbox":[76,302,500,98]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":1,"text":"Prepared by Ashley Ratau","textPreview":"Prepared by Ashley Ratau","textChars":24,"textLines":1,"bbox":[76,448,430,34]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":1,"text":"For Konkhe Kuhamba Kahle","textPreview":"For Konkhe Kuhamba Kahle","textChars":24,"textLines":1,"bbox":[76,486,430,28]}
+{"kind":"shape","id":"sh/83itgfml","slide":1,"bbox":[76,566,294,34]}
+{"kind":"textbox","id":"sh/xobm58z2","slide":1,"text":"SOCIAL MEDIA VIDEO GROWTH","textPreview":"SOCIAL MEDIA VIDEO GROWTH","textChars":25,"textLines":1,"bbox":[92,573,262,20]}
+{"kind":"image","id":"im/kzupwb2h","slide":1,"name":"","geometry":"rect","alt":"Konkhe campaign hero image","bbox":[610,0,670,720]}
+{"kind":"image","id":"im/2t83itgf","slide":1,"name":"","geometry":"rect","alt":"Konkhe logo","bbox":[72,68,160,78]}
+{"kind":"notes","id":"nt/5xfncm","slide":1,"text":""}
+{"kind":"slide","id":"sl/66nkil","slide":2,"title":"WHAT KONKHE ALREADY HAS","textShapes":10}
+{"kind":"textbox","id":"sh/47y1kre1","slide":2,"text":"WHAT KONKHE ALREADY HAS","textPreview":"WHAT KONKHE ALREADY HAS","textChars":23,"textLines":1,"bbox":[72,72,450,30]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":2,"text":"A strong product catalogue that can become daily content.","textPreview":"A strong product catalogue that can become daily content.","textChars":57,"textLines":1,"bbox":[72,122,760,136]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":2,"text":"The website already gives us the foundation: clear product categories, strong imagery, an online shop and social channels.","textPreview":"The website already gives us the foundation: clear product categories, strong imagery, an online shop and social channels.","textChars":122,"textLines":1,"bbox":[72,278,680,82]}
+{"kind":"shape","id":"sh/t83itgfm","slide":2,"bbox":[72,410,660,118]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":2,"text":"The opportunity is not to replace images.\nIt is to make the existing images move, sell the detail,\nand create more reasons for people to stop scrolling.","textPreview":"The opportunity is not to replace images. | It is to make the existing images move, sell the detail, | and create more reasons for people...","textChars":152,"textLines":3,"bbox":[104,433,600,76]}
+{"kind":"shape","id":"sh/u9knih4b","slide":2,"bbox":[72,558,116,34]}
+{"kind":"textbox","id":"sh/judg7ads","slide":2,"text":"Golfers","textPreview":"Golfers","textChars":7,"textLines":1,"bbox":[88,565,84,20]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":2,"bbox":[204,558,190,34]}
+{"kind":"textbox","id":"sh/1032lszq","slide":2,"text":"Oversized T-Shirts","textPreview":"Oversized T-Shirts","textChars":18,"textLines":1,"bbox":[220,565,158,20]}
+{"kind":"shape","id":"sh/u18jqh0f","slide":2,"bbox":[410,558,120,34]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":2,"text":"Sneakers","textPreview":"Sneakers","textChars":8,"textLines":1,"bbox":[426,565,88,20]}
+{"kind":"shape","id":"sh/c7u54zid","slide":2,"bbox":[546,558,150,34]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":2,"text":"New arrivals","textPreview":"New arrivals","textChars":12,"textLines":1,"bbox":[562,565,118,20]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":2,"text":"Proposal by Ashley Ratau","textPreview":"Proposal by Ashley Ratau","textChars":24,"textLines":1,"bbox":[72,666,320,24]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":2,"text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[1160,666,48,24]}
+{"kind":"image","id":"im/obm58z25","slide":2,"name":"","geometry":"roundRect","alt":"Konkhe golfer product","bbox":[820,70,220,220]}
+{"kind":"image","id":"im/hwfyxobm","slide":2,"name":"","geometry":"roundRect","alt":"Konkhe t-shirt product","bbox":[1035,135,185,235]}
+{"kind":"image","id":"im/65wjudg7","slide":2,"name":"","geometry":"roundRect","alt":"Konkhe oversized t-shirt product","bbox":[785,338,215,215]}
+{"kind":"image","id":"im/zqtcj6to","slide":2,"name":"","geometry":"roundRect","alt":"Konkhe sneaker product","bbox":[1008,414,210,160]}
+{"kind":"notes","id":"nt/66nkil","slide":2,"text":""}
+{"kind":"slide","id":"sl/n660v9","slide":3,"title":"The shift","textShapes":10}
+{"kind":"textbox","id":"sh/3m94fu18","slide":3,"text":"The shift","textPreview":"The shift","textChars":9,"textLines":1,"bbox":[72,70,220,34]}
+{"kind":"textbox","id":"sh/s72x4nap","slide":3,"text":"Images show the product. Short clips create the moment.","textPreview":"Images show the product. Short clips create the moment.","textChars":55,"textLines":1,"bbox":[72,124,760,120]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":3,"text":"Reels and TikTok reward quick, repeatable ideas: a detail shot, an outfit switch, a trending sound, a price reveal, a customer-style try-on, or a new drop teaser.","textPreview":"Reels and TikTok reward quick, repeatable ideas: a detail shot, an outfit switch, a trending sound, a price reveal, a customer-style try-...","textChars":162,"textLines":1,"bbox":[76,270,690,90]}
+{"kind":"shape","id":"sh/adsji5sn","slide":3,"bbox":[820,66,270,545]}
+{"kind":"shape","id":"sh/3ylc7u54","slide":3,"bbox":[842,96,226,485]}
+{"kind":"textbox","id":"sh/h4byhgn2","slide":3,"text":"NEW DROP","textPreview":"NEW DROP","textChars":8,"textLines":1,"bbox":[874,400,160,30]}
+{"kind":"textbox","id":"sh/ap4r65wj","slide":3,"text":"Tap to shop","textPreview":"Tap to shop","textChars":11,"textLines":1,"bbox":[890,446,128,28]}
+{"kind":"shape","id":"sh/za1gvy90","slide":3,"bbox":[932,554,42,6]}
+{"kind":"shape","id":"sh/z61032ls","slide":3,"bbox":[80,449,9,9]}
+{"kind":"textbox","id":"sh/al87ed8b","slide":3,"text":"More motion in the feed","textPreview":"More motion in the feed","textChars":23,"textLines":1,"bbox":[104,442,336,40]}
+{"kind":"shape","id":"sh/hcrmhk3q","slide":3,"bbox":[80,499,9,9]}
+{"kind":"textbox","id":"sh/orytsvu9","slide":3,"text":"More hooks around individual items","textPreview":"More hooks around individual items","textChars":34,"textLines":1,"bbox":[104,492,426,40]}
+{"kind":"shape","id":"sh/zupwb2hw","slide":3,"bbox":[80,549,9,9]}
+{"kind":"textbox","id":"sh/a9w3m94f","slide":3,"text":"More trend-led chances to be discovered","textPreview":"More trend-led chances to be discovered","textChars":39,"textLines":1,"bbox":[104,542,536,40]}
+{"kind":"textbox","id":"sh/h0fepkzu","slide":3,"text":"Proposal by Ashley Ratau","textPreview":"Proposal by Ashley Ratau","textChars":24,"textLines":1,"bbox":[72,666,320,24]}
+{"kind":"textbox","id":"sh/sfil0rqd","slide":3,"text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[1160,666,48,24]}
+{"kind":"image","id":"im/hk3q5o7q","slide":3,"name":"","geometry":"roundRect","alt":"Konkhe sneaker in reel mockup","bbox":[858,120,194,258]}
+{"kind":"notes","id":"nt/n660v9","slide":3,"text":""}
+{"kind":"slide","id":"sl/3biavp","slide":4,"title":"PHASE 1","textShapes":14}
+{"kind":"textbox","id":"sh/x4nap4r6","slide":4,"text":"PHASE 1","textPreview":"PHASE 1","textChars":7,"textLines":1,"bbox":[72,72,450,30]}
+{"kind":"textbox","id":"sh/qd4vmtwr","slide":4,"text":"Turn the existing catalogue into posting-ready shorts.","textPreview":"Turn the existing catalogue into posting-ready shorts.","textChars":54,"textLines":1,"bbox":[72,122,760,136]}
+{"kind":"textbox","id":"sh/fyxobm58","slide":4,"text":"I will start by taking product images Konkhe already has and converting them into short clips for Reels and TikTok.","textPreview":"I will start by taking product images Konkhe already has and converting them into short clips for Reels and TikTok.","textChars":115,"textLines":1,"bbox":[72,278,680,82]}
+{"kind":"shape","id":"sh/8v6psfil","slide":4,"bbox":[76,388,520,55]}
+{"kind":"textbox","id":"sh/xczed8v6","slide":4,"text":"Motion edits","textPreview":"Motion edits","textChars":12,"textLines":1,"bbox":[102,399,170,25]}
+{"kind":"textbox","id":"sh/qpg3ex0n","slide":4,"text":"Zooms, pans, cuts and text overlays that make static images feel alive.","textPreview":"Zooms, pans, cuts and text overlays that make static images feel alive.","textChars":71,"textLines":1,"bbox":[284,398,286,34]}
+{"kind":"shape","id":"sh/fa9w3m94","slide":4,"bbox":[76,452,520,55]}
+{"kind":"textbox","id":"sh/8z25kb6x","slide":4,"text":"Product spotlights","textPreview":"Product spotlights","textChars":18,"textLines":1,"bbox":[102,463,170,25]}
+{"kind":"textbox","id":"sh/1gvy90je","slide":4,"text":"One item at a time: colour, fit, price, size range and shop CTA.","textPreview":"One item at a time: colour, fit, price, size range and shop CTA.","textChars":64,"textLines":1,"bbox":[284,462,286,34]}
+{"kind":"shape","id":"sh/pg3ex0nu","slide":4,"bbox":[76,516,520,55]}
+{"kind":"textbox","id":"sh/wval87ed","slide":4,"text":"Trend formats","textPreview":"Trend formats","textChars":13,"textLines":1,"bbox":[102,527,170,25]}
+{"kind":"textbox","id":"sh/7adsji5s","slide":4,"text":"Fast adaptations of sounds, captions and visual formats already working on social.","textPreview":"Fast adaptations of sounds, captions and visual formats already working on social.","textChars":82,"textLines":1,"bbox":[284,526,286,34]}
+{"kind":"shape","id":"sh/epkzupwb","slide":4,"bbox":[76,580,520,55]}
+{"kind":"textbox","id":"sh/psfil0rq","slide":4,"text":"Launch packages","textPreview":"Launch packages","textChars":15,"textLines":1,"bbox":[102,591,170,25]}
+{"kind":"textbox","id":"sh/w7mp0bi9","slide":4,"text":"Mini batches for drops, sales, restocks and best sellers.","textPreview":"Mini batches for drops, sales, restocks and best sellers.","textChars":57,"textLines":1,"bbox":[284,590,286,34]}
+{"kind":"shape","id":"sh/e1w7mp0b","slide":4,"bbox":[720,455,430,92]}
+{"kind":"textbox","id":"sh/l0rqd4vm","slide":4,"text":"Before we film new content, the catalogue can already start working harder.","textPreview":"Before we film new content, the catalogue can already start working harder.","textChars":75,"textLines":1,"bbox":[748,480,372,42]}
+{"kind":"textbox","id":"sh/wfyxobm5","slide":4,"text":"Proposal by Ashley Ratau","textPreview":"Proposal by Ashley Ratau","textChars":24,"textLines":1,"bbox":[72,666,320,24]}
+{"kind":"textbox","id":"sh/svu9knih","slide":4,"text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[1160,666,48,24]}
+{"kind":"image","id":"im/sji5snel","slide":4,"name":"","geometry":"roundRect","alt":"Konkhe classic t-shirt product","bbox":[756,98,360,470]}
+{"kind":"notes","id":"nt/3biavp","slide":4,"text":""}
+{"kind":"slide","id":"sl/yiahmk","slide":5,"title":"Phase 2","textShapes":10}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":5,"text":"Phase 2","textPreview":"Phase 2","textChars":7,"textLines":1,"bbox":[72,70,160,30]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":5,"text":"Monthly store content days\ncreate a fresh video bank.","textPreview":"Monthly store content days | create a fresh video bank.","textChars":53,"textLines":2,"bbox":[72,124,710,116]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":5,"text":"Once or twice a month, I will come to one of the stores and capture enough video content to be edited into short clips posted throughout the week.","textPreview":"Once or twice a month, I will come to one of the stores and capture enough video content to be edited into short clips posted throughout ...","textChars":146,"textLines":1,"bbox":[76,280,650,86]}
+{"kind":"shape","id":"sh/xkf6dcbu","slide":5,"bbox":[76,424,610,38]}
+{"kind":"textbox","id":"sh/qxs72x4n","slide":5,"text":"Try-on clips and outfit combinations","textPreview":"Try-on clips and outfit combinations","textChars":36,"textLines":1,"bbox":[104,432,548,22]}
+{"kind":"shape","id":"sh/fil0rqd4","slide":5,"bbox":[76,470,610,38]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":5,"text":"Close-ups of stitching, logos and textures","textPreview":"Close-ups of stitching, logos and textures","textChars":42,"textLines":1,"bbox":[104,478,548,22]}
+{"kind":"shape","id":"sh/mtwra5gb","slide":5,"bbox":[76,516,610,38]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":5,"text":"Shelf, rack and store walk-through shots","textPreview":"Shelf, rack and store walk-through shots","textChars":40,"textLines":1,"bbox":[104,524,548,22]}
+{"kind":"shape","id":"sh/4zidonyd","slide":5,"bbox":[76,562,610,38]}
+{"kind":"textbox","id":"sh/f6dcbulw","slide":5,"text":"Drop announcements, restocks and sale hooks","textPreview":"Drop announcements, restocks and sale hooks","textChars":43,"textLines":1,"bbox":[104,570,548,22]}
+{"kind":"shape","id":"sh/mlkjm1cf","slide":5,"bbox":[76,608,610,38]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":5,"text":"Quick staff-led recommendations","textPreview":"Quick staff-led recommendations","textChars":31,"textLines":1,"bbox":[104,616,548,22]}
+{"kind":"textbox","id":"sh/4r65wjud","slide":5,"text":"Proposal by Ashley Ratau","textPreview":"Proposal by Ashley Ratau","textChars":24,"textLines":1,"bbox":[72,666,320,24]}
+{"kind":"textbox","id":"sh/fu18jqh0","slide":5,"text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[1160,666,48,24]}
+{"kind":"image","id":"im/r2p8nqxs","slide":5,"name":"","geometry":"roundRect","alt":"Konkhe brand campaign image","bbox":[840,60,330,270]}
+{"kind":"image","id":"im/2hwfyxob","slide":5,"name":"","geometry":"roundRect","alt":"Konkhe golfer product","bbox":[785,358,190,205]}
+{"kind":"image","id":"im/94fu18jq","slide":5,"name":"","geometry":"roundRect","alt":"Konkhe sneaker product","bbox":[996,386,205,168]}
+{"kind":"notes","id":"nt/yiahmk","slide":5,"text":""}
+{"kind":"slide","id":"sl/luw9yc","slide":6,"title":"CONTENT RHYTHM","textShapes":18}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":6,"text":"CONTENT RHYTHM","textPreview":"CONTENT RHYTHM","textChars":14,"textLines":1,"bbox":[72,72,450,30]}
+{"kind":"textbox","id":"sh/kb6xkf6d","slide":6,"text":"A weekly posting system, not random uploads.","textPreview":"A weekly posting system, not random uploads.","textChars":44,"textLines":1,"bbox":[72,122,760,136]}
+{"kind":"textbox","id":"sh/9w3m94fu","slide":6,"text":"The goal is to build a repeatable flow: film in batches, edit into short clips, then post consistently across Instagram, Facebook and TikTok.","textPreview":"The goal is to build a repeatable flow: film in batches, edit into short clips, then post consistently across Instagram, Facebook and Tik...","textChars":141,"textLines":1,"bbox":[72,278,680,82]}
+{"kind":"shape","id":"sh/2t83itgf","slide":6,"bbox":[76,410,172,132]}
+{"kind":"textbox","id":"sh/re1w7mp0","slide":6,"text":"Mon","textPreview":"Mon","textChars":3,"textLines":1,"bbox":[94,428,136,28]}
+{"kind":"textbox","id":"sh/kzupwb2h","slide":6,"text":"Item spotlight","textPreview":"Item spotlight","textChars":14,"textLines":1,"bbox":[94,473,136,40]}
+{"kind":"shape","id":"sh/9knih4by","slide":6,"bbox":[260,410,172,132]}
+{"kind":"textbox","id":"sh/2p8nqxs7","slide":6,"text":"Tue","textPreview":"Tue","textChars":3,"textLines":1,"bbox":[278,428,136,28]}
+{"kind":"textbox","id":"sh/ra5gbq1o","slide":6,"text":"Trend / sound","textPreview":"Trend / sound","textChars":13,"textLines":1,"bbox":[278,473,136,40]}
+{"kind":"shape","id":"sh/3m94fu18","slide":6,"bbox":[444,410,172,132]}
+{"kind":"textbox","id":"sh/a5gbq1or","slide":6,"text":"Wed","textPreview":"Wed","textChars":3,"textLines":1,"bbox":[462,428,136,28]}
+{"kind":"textbox","id":"sh/lszqtcj6","slide":6,"text":"Outfit combo","textPreview":"Outfit combo","textChars":12,"textLines":1,"bbox":[462,473,136,40]}
+{"kind":"shape","id":"sh/s72x4nap","slide":6,"bbox":[628,410,172,132]}
+{"kind":"textbox","id":"sh/3ylc7u54","slide":6,"text":"Thu","textPreview":"Thu","textChars":3,"textLines":1,"bbox":[646,428,136,28]}
+{"kind":"textbox","id":"sh/adsji5sn","slide":6,"text":"Detail close-up","textPreview":"Detail close-up","textChars":15,"textLines":1,"bbox":[646,473,136,40]}
+{"kind":"shape","id":"sh/h4byhgn2","slide":6,"bbox":[812,410,172,132]}
+{"kind":"textbox","id":"sh/sji5snel","slide":6,"text":"Fri","textPreview":"Fri","textChars":3,"textLines":1,"bbox":[830,428,136,28]}
+{"kind":"textbox","id":"sh/za1gvy90","slide":6,"text":"Drop or sale","textPreview":"Drop or sale","textChars":12,"textLines":1,"bbox":[830,473,136,40]}
+{"kind":"shape","id":"sh/ap4r65wj","slide":6,"bbox":[996,410,172,132]}
+{"kind":"textbox","id":"sh/yd0z6103","slide":6,"text":"Weekend","textPreview":"Weekend","textChars":7,"textLines":1,"bbox":[1014,428,136,28]}
+{"kind":"textbox","id":"sh/rytsvu9k","slide":6,"text":"Store vibe / recap","textPreview":"Store vibe / recap","textChars":18,"textLines":1,"bbox":[1014,473,136,40]}
+{"kind":"textbox","id":"sh/gfmlkjm1","slide":6,"text":"Each batch can be cut into multiple versions: 9:16 vertical video, caption-first versions, TikTok-style hooks, and product-specific calls to action.","textPreview":"Each batch can be cut into multiple versions: 9:16 vertical video, caption-first versions, TikTok-style hooks, and product-specific calls...","textChars":148,"textLines":1,"bbox":[128,586,1024,48]}
+{"kind":"textbox","id":"sh/90je9cvi","slide":6,"text":"Proposal by Ashley Ratau","textPreview":"Proposal by Ashley Ratau","textChars":24,"textLines":1,"bbox":[72,666,320,24]}
+{"kind":"textbox","id":"sh/y1kre1w7","slide":6,"text":"06","textPreview":"06","textChars":2,"textLines":1,"bbox":[1160,666,48,24]}
+{"kind":"notes","id":"nt/luw9yc","slide":6,"text":""}
+{"kind":"slide","id":"sl/mrp1qv","slide":7,"title":"What I will bring","textShapes":15}
+{"kind":"textbox","id":"sh/nap4r65w","slide":7,"text":"What I will bring","textPreview":"What I will bring","textChars":17,"textLines":1,"bbox":[72,70,260,30]}
+{"kind":"textbox","id":"sh/cvixczed","slide":7,"text":"Video skills turned into a simple growth service.","textPreview":"Video skills turned into a simple growth service.","textChars":49,"textLines":1,"bbox":[72,122,740,110]}
+{"kind":"shape","id":"sh/5gbq1ory","slide":7,"bbox":[76,292,500,92]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":7,"text":"Creative direction","textPreview":"Creative direction","textChars":18,"textLines":1,"bbox":[100,307,210,25]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":7,"text":"Short ideas, hooks, captions and trend selection.","textPreview":"Short ideas, hooks, captions and trend selection.","textChars":49,"textLines":1,"bbox":[100,337,438,38]}
+{"kind":"shape","id":"sh/cj6tovah","slide":7,"bbox":[670,292,500,92]}
+{"kind":"textbox","id":"sh/54zidony","slide":7,"text":"Filming","textPreview":"Filming","textChars":7,"textLines":1,"bbox":[694,307,210,25]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":7,"text":"Store visits once or twice a month to capture bulk content.","textPreview":"Store visits once or twice a month to capture bulk content.","textChars":59,"textLines":1,"bbox":[694,337,438,38]}
+{"kind":"shape","id":"sh/judg7ads","slide":7,"bbox":[76,400,500,92]}
+{"kind":"textbox","id":"sh/nyd0z610","slide":7,"text":"Editing","textPreview":"Editing","textChars":7,"textLines":1,"bbox":[100,415,210,25]}
+{"kind":"textbox","id":"sh/udg7adsj","slide":7,"text":"Fast cuts, captions, transitions, product text and music-ready versions.","textPreview":"Fast cuts, captions, transitions, product text and music-ready versions.","textChars":72,"textLines":1,"bbox":[100,445,438,38]}
+{"kind":"shape","id":"sh/54zidony","slide":7,"bbox":[670,400,500,92]}
+{"kind":"textbox","id":"sh/cj6tovah","slide":7,"text":"Posting pack","textPreview":"Posting pack","textChars":12,"textLines":1,"bbox":[694,415,210,25]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":7,"text":"Files prepared for Instagram/Facebook Reels and TikTok Shorts.","textPreview":"Files prepared for Instagram/Facebook Reels and TikTok Shorts.","textChars":62,"textLines":1,"bbox":[694,445,438,38]}
+{"kind":"shape","id":"sh/upwb2hwf","slide":7,"bbox":[76,508,500,92]}
+{"kind":"textbox","id":"sh/5gbq1ory","slide":7,"text":"Learning loop","textPreview":"Learning loop","textChars":13,"textLines":1,"bbox":[100,523,210,25]}
+{"kind":"textbox","id":"sh/cvixczed","slide":7,"text":"Monthly review of what performs best, then improve the next batch.","textPreview":"Monthly review of what performs best, then improve the next batch.","textChars":66,"textLines":1,"bbox":[100,553,438,38]}
+{"kind":"shape","id":"sh/jm1cfa9w","slide":7,"bbox":[420,618,440,34]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":7,"text":"Built for consistent weekly visibility","textPreview":"Built for consistent weekly visibility","textChars":38,"textLines":1,"bbox":[436,625,408,20]}
+{"kind":"textbox","id":"sh/25kb6xkf","slide":7,"text":"Proposal by Ashley Ratau","textPreview":"Proposal by Ashley Ratau","textChars":24,"textLines":1,"bbox":[72,666,320,24]}
+{"kind":"textbox","id":"sh/rqd4vmtw","slide":7,"text":"07","textPreview":"07","textChars":2,"textLines":1,"bbox":[1160,666,48,24]}
+{"kind":"notes","id":"nt/mrp1qv","slide":7,"text":""}
+{"kind":"slide","id":"sl/rficpn","slide":8,"title":"THE FUNNEL","textShapes":20}
+{"kind":"textbox","id":"sh/47y1kre1","slide":8,"text":"THE FUNNEL","textPreview":"THE FUNNEL","textChars":10,"textLines":1,"bbox":[72,72,450,30]}
+{"kind":"textbox","id":"sh/bm58z25k","slide":8,"text":"Short clips should drive traffic back to the online store.","textPreview":"Short clips should drive traffic back to the online store.","textChars":58,"textLines":1,"bbox":[72,122,760,136]}
+{"kind":"textbox","id":"sh/m1cfa9w3","slide":8,"text":"Every video has a job: stop the scroll, create interest in one item, move the viewer to the profile or link, and bring them closer to buying.","textPreview":"Every video has a job: stop the scroll, create interest in one item, move the viewer to the profile or link, and bring them closer to buy...","textChars":141,"textLines":1,"bbox":[72,278,680,82]}
+{"kind":"shape","id":"sh/tgfmlkjm","slide":8,"bbox":[70,405,176,112]}
+{"kind":"textbox","id":"sh/4vmtwra5","slide":8,"text":"Short clips","textPreview":"Short clips","textChars":11,"textLines":1,"bbox":[84,427,148,34]}
+{"kind":"textbox","id":"sh/bat47y1k","slide":8,"text":"Reels + TikTok","textPreview":"Reels + TikTok","textChars":14,"textLines":1,"bbox":[84,467,148,32]}
+{"kind":"textbox","id":"sh/mp0bi9s3","slide":8,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[257,440,28,40]}
+{"kind":"shape","id":"sh/t83itgfm","slide":8,"bbox":[290,405,176,112]}
+{"kind":"textbox","id":"sh/4nap4r65","slide":8,"text":"Attention","textPreview":"Attention","textChars":9,"textLines":1,"bbox":[304,427,148,34]}
+{"kind":"textbox","id":"sh/u9knih4b","slide":8,"text":"Views + saves","textPreview":"Views + saves","textChars":13,"textLines":1,"bbox":[304,467,148,32]}
+{"kind":"textbox","id":"sh/judg7ads","slide":8,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[477,440,28,40]}
+{"kind":"shape","id":"sh/cfa9w3m9","slide":8,"bbox":[510,405,176,112]}
+{"kind":"textbox","id":"sh/1032lszq","slide":8,"text":"Profile visits","textPreview":"Profile visits","textChars":14,"textLines":1,"bbox":[524,427,148,34]}
+{"kind":"textbox","id":"sh/u18jqh0f","slide":8,"text":"Trust + curiosity","textPreview":"Trust + curiosity","textChars":17,"textLines":1,"bbox":[524,467,148,32]}
+{"kind":"textbox","id":"sh/jm1cfa9w","slide":8,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[697,440,28,40]}
+{"kind":"shape","id":"sh/c7u54zid","slide":8,"bbox":[730,405,176,112]}
+{"kind":"textbox","id":"sh/1orytsvu","slide":8,"text":"Online store","textPreview":"Online store","textChars":12,"textLines":1,"bbox":[744,427,148,34]}
+{"kind":"textbox","id":"sh/upwb2hwf","slide":8,"text":"Product page traffic","textPreview":"Product page traffic","textChars":20,"textLines":1,"bbox":[744,467,148,32]}
+{"kind":"textbox","id":"sh/nap4r65w","slide":8,"text":">","textPreview":">","textChars":1,"textLines":1,"bbox":[917,440,28,40]}
+{"kind":"shape","id":"sh/f6dcbulw","slide":8,"bbox":[950,405,226,112]}
+{"kind":"textbox","id":"sh/mlkjm1cf","slide":8,"text":"Sales + repeat interest","textPreview":"Sales + repeat interest","textChars":23,"textLines":1,"bbox":[964,427,198,34]}
+{"kind":"textbox","id":"sh/xc3ylc7u","slide":8,"text":"Checkout, retargeting, community","textPreview":"Checkout, retargeting, community","textChars":32,"textLines":1,"bbox":[964,467,198,32]}
+{"kind":"shape","id":"sh/4r65wjud","slide":8,"bbox":[176,562,928,48]}
+{"kind":"textbox","id":"sh/fepkzupw","slide":8,"text":"More short-form content -> more discovery -> more store traffic -> stronger chance of sales.","textPreview":"More short-form content -> more discovery -> more store traffic -> stronger chance of sales.","textChars":92,"textLines":1,"bbox":[194,575,892,22]}
+{"kind":"textbox","id":"sh/mtwra5gb","slide":8,"text":"Proposal by Ashley Ratau","textPreview":"Proposal by Ashley Ratau","textChars":24,"textLines":1,"bbox":[72,666,320,24]}
+{"kind":"textbox","id":"sh/xkf6dcbu","slide":8,"text":"08","textPreview":"08","textChars":2,"textLines":1,"bbox":[1160,666,48,24]}
+{"kind":"notes","id":"nt/rficpn","slide":8,"text":""}

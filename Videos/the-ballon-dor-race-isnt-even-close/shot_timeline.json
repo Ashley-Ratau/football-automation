@@ -1,0 +1,807 @@
+[
+ {
+  "kind": "gfx",
+  "file": "kane_36_goals.mp4",
+  "start": 49,
+  "sfx": "hit",
+  "t": 0,
+  "sec": "cold_open",
+  "dur": 1.4666666666666666
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 129,
+  "t": 1.4789999999999999,
+  "sec": "cold_open",
+  "dur": 1.1333333333333335
+ },
+ {
+  "kind": "clip",
+  "file": "kane_pokal_final.mp4",
+  "start": 106,
+  "t": 2.593,
+  "sec": "cold_open",
+  "dur": 1.4333333333333331
+ },
+ {
+  "kind": "clip",
+  "file": "kane_pokal_final.mp4",
+  "start": 283,
+  "t": 4.021,
+  "sec": "cold_open",
+  "dur": 1.6333333333333337
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 54.5,
+  "t": 5.670000000000001,
+  "sec": "cold_open",
+  "dur": 1.5333333333333332
+ },
+ {
+  "kind": "clip",
+  "file": "wc_final.mp4",
+  "start": 8.6,
+  "t": 7.214,
+  "sec": "cold_open",
+  "dur": 2.3666666666666663
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_final.mp4",
+  "start": 10.5,
+  "sfx": "hit",
+  "t": 9.581999999999999,
+  "sec": "cold_open",
+  "dur": 0.8666666666666671
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_qf_belgium.mp4",
+  "start": 10,
+  "sfx": "hit",
+  "t": 10.418,
+  "sec": "cold_open",
+  "dur": 1.166666666666666
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_saudi.mp4",
+  "start": 16,
+  "sfx": "hit",
+  "t": 11.591,
+  "sec": "cold_open",
+  "dur": 1.0333333333333332
+ },
+ {
+  "kind": "gfx",
+  "file": "kane_36_goals.mp4",
+  "start": 95,
+  "sfx": "whoosh",
+  "t": 12.623999999999999,
+  "sec": "cold_open",
+  "dur": 5.5
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 322,
+  "t": 18.128,
+  "sec": "cold_open",
+  "dur": 1.1999999999999993
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 381.5,
+  "slow": true,
+  "t": 19.323,
+  "sec": "cold_open",
+  "dur": 2.633333333333333
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_trophy.mp4",
+  "start": 386,
+  "sfx": "hit",
+  "t": 21.973038548752836,
+  "sec": "title",
+  "dur": 3.400000000000002
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 14,
+  "t": 25.373038548752834,
+  "sec": "the_rules",
+  "dur": 2.7666666666666657
+ },
+ {
+  "kind": "clip",
+  "file": "mbappe_golden_boot.mp4",
+  "start": 0.5,
+  "t": 28.146038548752834,
+  "sec": "the_rules",
+  "dur": 1.4666666666666686
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 41,
+  "t": 29.585038548752834,
+  "sec": "the_rules",
+  "dur": 1.6333333333333329
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_trophy.mp4",
+  "start": 464,
+  "sfx": "whoosh",
+  "t": 31.222038548752835,
+  "sec": "the_rules",
+  "dur": 8.600000000000001
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 8,
+  "t": 39.83703854875283,
+  "sec": "the_rules",
+  "dur": 3.7666666666666657
+ },
+ {
+  "kind": "clip",
+  "file": "wc_final.mp4",
+  "start": 1,
+  "t": 43.59903854875284,
+  "sec": "the_rules",
+  "dur": 2.566666666666663
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 58,
+  "t": 46.176038548752835,
+  "sec": "the_rules",
+  "dur": 3.5
+ },
+ {
+  "kind": "clip",
+  "file": "wc_final.mp4",
+  "start": 82.5,
+  "t": 49.65903854875283,
+  "sec": "the_rules",
+  "dur": 3.0333333333333385
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 202,
+  "t": 52.69003854875284,
+  "sec": "the_rules",
+  "dur": 3.2666666666666657
+ },
+ {
+  "kind": "gfx",
+  "file": "barca_villarreal_hattrick.mp4",
+  "start": 14,
+  "sfx": "stamp",
+  "t": 55.98034013605442,
+  "sec": "exhibit_a",
+  "dur": 2.066666666666663
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 108,
+  "t": 58.02134013605442,
+  "sec": "exhibit_a",
+  "dur": 2.7333333333333343
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 298,
+  "t": 60.77334013605442,
+  "sec": "exhibit_a",
+  "dur": 2.3999999999999986
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 68,
+  "t": 63.17634013605442,
+  "sec": "exhibit_a",
+  "dur": 3.8999999999999986
+ },
+ {
+  "kind": "clip",
+  "file": "barca_villarreal_hattrick.mp4",
+  "start": 133.5,
+  "t": 67.05434013605442,
+  "sec": "exhibit_a",
+  "dur": 3.200000000000003
+ },
+ {
+  "kind": "clip",
+  "file": "barca_villarreal_hattrick.mp4",
+  "start": 39.5,
+  "t": 70.27034013605441,
+  "sec": "exhibit_a",
+  "dur": 1.2000000000000028
+ },
+ {
+  "kind": "clip",
+  "file": "barca_parade.mp4",
+  "start": 202,
+  "t": 71.47734013605442,
+  "sec": "exhibit_a",
+  "dur": 2.566666666666663
+ },
+ {
+  "kind": "clip",
+  "file": "barca_parade.mp4",
+  "start": 92,
+  "t": 74.04434013605442,
+  "sec": "exhibit_a",
+  "dur": 4.366666666666674
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 138,
+  "t": 78.40934013605442,
+  "sec": "exhibit_a",
+  "dur": 2.3333333333333286
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 186,
+  "t": 80.71934013605443,
+  "sec": "exhibit_a",
+  "dur": 3.566666666666663
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 460,
+  "t": 84.30734013605442,
+  "sec": "exhibit_a",
+  "dur": 1.4333333333333371
+ },
+ {
+  "kind": "clip",
+  "file": "barca_villarreal_hattrick.mp4",
+  "start": 55.5,
+  "t": 85.74634013605443,
+  "sec": "exhibit_a",
+  "dur": 2.566666666666663
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 386,
+  "t": 88.28934013605442,
+  "sec": "exhibit_a",
+  "dur": 2.7666666666666657
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 706,
+  "t": 91.06434013605443,
+  "sec": "exhibit_a",
+  "dur": 2.13333333333334
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 139,
+  "bw": true,
+  "t": 93.21234013605442,
+  "sec": "exhibit_a",
+  "dur": 1.4333333333333371
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 422,
+  "t": 94.62834013605442,
+  "sec": "exhibit_a",
+  "dur": 2.8333333333333286
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 328,
+  "t": 97.4545804988662,
+  "sec": "the_gravity",
+  "dur": 2.2333333333333343
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 552,
+  "t": 99.71658049886621,
+  "sec": "the_gravity",
+  "dur": 1.7999999999999972
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 9.5,
+  "t": 101.5165804988662,
+  "sec": "the_gravity",
+  "dur": 3.7333333333333343
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 75.5,
+  "t": 105.21958049886621,
+  "sec": "the_gravity",
+  "dur": 2.933333333333337
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_qf_belgium.mp4",
+  "start": 46,
+  "sfx": "whoosh",
+  "t": 108.1565804988662,
+  "sec": "the_gravity",
+  "dur": 14.833333333333329
+ },
+ {
+  "kind": "clip",
+  "file": "barca_villarreal_hattrick.mp4",
+  "start": 103.5,
+  "t": 122.99458049886621,
+  "sec": "the_gravity",
+  "dur": 3.299999999999997
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 262,
+  "t": 126.29158049886621,
+  "sec": "the_gravity",
+  "dur": 2.000000000000014
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 488,
+  "t": 128.3005804988662,
+  "sec": "the_gravity",
+  "dur": 3.1333333333333258
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_trophy.mp4",
+  "start": 32,
+  "sfx": "stamp",
+  "t": 131.441156462585,
+  "sec": "exhibit_b",
+  "dur": 1.9666666666666686
+ },
+ {
+  "kind": "clip",
+  "file": "wc_saudi.mp4",
+  "start": 16,
+  "t": 133.39015646258503,
+  "sec": "exhibit_b",
+  "dur": 1.3333333333333144
+ },
+ {
+  "kind": "clip",
+  "file": "wc_saudi.mp4",
+  "start": 28,
+  "t": 134.748156462585,
+  "sec": "exhibit_b",
+  "dur": 1.0666666666666913
+ },
+ {
+  "kind": "clip",
+  "file": "wc_saudi.mp4",
+  "start": 33.5,
+  "t": 135.816156462585,
+  "sec": "exhibit_b",
+  "dur": 0.7333333333333201
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 50,
+  "bw": true,
+  "t": 136.524156462585,
+  "sec": "exhibit_b",
+  "dur": 2.8666666666666742
+ },
+ {
+  "kind": "clip",
+  "file": "wc_semi_france.mp4",
+  "start": 25.5,
+  "bw": true,
+  "t": 139.392156462585,
+  "sec": "exhibit_b",
+  "dur": 3.0
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 13,
+  "t": 142.387156462585,
+  "sec": "exhibit_b",
+  "dur": 2.799999999999983
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_skill.mp4",
+  "start": 0,
+  "t": 145.209156462585,
+  "sec": "exhibit_b",
+  "dur": 1.9666666666666686
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 112,
+  "t": 147.171156462585,
+  "sec": "exhibit_b",
+  "dur": 2.4666666666666686
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 45.5,
+  "t": 149.63215646258502,
+  "sec": "exhibit_b",
+  "dur": 1.8666666666666742
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 40,
+  "t": 151.50215646258502,
+  "sec": "exhibit_b",
+  "dur": 3.23333333333332
+ },
+ {
+  "kind": "clip",
+  "file": "wc_qf_belgium.mp4",
+  "start": 56,
+  "t": 154.718156462585,
+  "sec": "exhibit_b",
+  "dur": 2.633333333333354
+ },
+ {
+  "kind": "clip",
+  "file": "wc_semi_france.mp4",
+  "start": 112,
+  "t": 157.37615646258502,
+  "sec": "exhibit_b",
+  "dur": 2.2666666666666515
+ },
+ {
+  "kind": "clip",
+  "file": "wc_final.mp4",
+  "start": 9,
+  "t": 159.62815646258503,
+  "sec": "exhibit_b",
+  "dur": 1.2333333333333485
+ },
+ {
+  "kind": "clip",
+  "file": "wc_final.mp4",
+  "start": 60.5,
+  "t": 160.88215646258502,
+  "sec": "exhibit_b",
+  "dur": 4.133333333333326
+ },
+ {
+  "kind": "clip",
+  "file": "wc_final.mp4",
+  "start": 43,
+  "t": 165.01515646258503,
+  "sec": "exhibit_b",
+  "dur": 3.9000000000000057
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 182,
+  "t": 168.893156462585,
+  "sec": "exhibit_b",
+  "dur": 3.4666666666666686
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 382,
+  "t": 172.36515646258502,
+  "sec": "exhibit_b",
+  "dur": 3.433333333333337
+ },
+ {
+  "kind": "insert",
+  "file": "assets/pundits/burley.mp4",
+  "start": 20.45,
+  "name": "STEWART ROBSON",
+  "role": "Former Arsenal midfielder · ESPN FC",
+  "t": 175.79467120181403,
+  "sec": "insert",
+  "dur": 8.899999999999977
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 129,
+  "t": 184.69467120181403,
+  "sec": "the_kane_case",
+  "dur": 2.76666666666668
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 5,
+  "t": 187.46767120181403,
+  "sec": "the_kane_case",
+  "dur": 1.5999999999999943
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 25,
+  "t": 189.08167120181403,
+  "sec": "the_kane_case",
+  "dur": 1.8000000000000114
+ },
+ {
+  "kind": "clip",
+  "file": "kane_pokal_final.mp4",
+  "start": 106,
+  "t": 190.88067120181404,
+  "sec": "the_kane_case",
+  "dur": 1.6666666666666572
+ },
+ {
+  "kind": "clip",
+  "file": "kane_pokal_final.mp4",
+  "start": 278,
+  "t": 192.51767120181404,
+  "sec": "the_kane_case",
+  "dur": 4.133333333333326
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 175,
+  "bw": true,
+  "t": 196.67467120181402,
+  "sec": "the_kane_case",
+  "dur": 1.8666666666666742
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 95,
+  "bw": true,
+  "t": 198.53167120181402,
+  "sec": "the_kane_case",
+  "dur": 3.5999999999999943
+ },
+ {
+  "kind": "clip",
+  "file": "kane_pokal_final.mp4",
+  "start": 70,
+  "bw": true,
+  "t": 202.11867120181404,
+  "sec": "the_kane_case",
+  "dur": 5.0
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_trophy.mp4",
+  "start": 464,
+  "sfx": "whoosh",
+  "t": 207.13467120181403,
+  "sec": "the_kane_case",
+  "dur": 6.200000000000017
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 386,
+  "t": 213.32267120181405,
+  "sec": "the_kane_case",
+  "dur": 2.23333333333332
+ },
+ {
+  "kind": "clip",
+  "file": "mbappe_golden_boot.mp4",
+  "start": 1,
+  "t": 215.56977324263033,
+  "sec": "the_others",
+  "dur": 1.1333333333333258
+ },
+ {
+  "kind": "clip",
+  "file": "mbappe_golden_boot.mp4",
+  "start": 13,
+  "t": 216.70577324263033,
+  "sec": "the_others",
+  "dur": 3.3000000000000114
+ },
+ {
+  "kind": "clip",
+  "file": "mbappe_golden_boot.mp4",
+  "start": 27,
+  "t": 220.01477324263033,
+  "sec": "the_others",
+  "dur": 0.9333333333333371
+ },
+ {
+  "kind": "clip",
+  "file": "mbappe_golden_boot.mp4",
+  "start": 39,
+  "bw": true,
+  "t": 220.91977324263033,
+  "sec": "the_others",
+  "dur": 1.2666666666666515
+ },
+ {
+  "kind": "clip",
+  "file": "wc_semi_france.mp4",
+  "start": 104,
+  "bw": true,
+  "t": 222.20877324263034,
+  "sec": "the_others",
+  "dur": 1.6000000000000227
+ },
+ {
+  "kind": "clip",
+  "file": "wc_semi_france.mp4",
+  "start": 2,
+  "t": 223.81077324263032,
+  "sec": "the_others",
+  "dur": 3.73333333333332
+ },
+ {
+  "kind": "clip",
+  "file": "wc_semi_france.mp4",
+  "start": 30,
+  "t": 227.54977324263032,
+  "sec": "the_others",
+  "dur": 4.366666666666674
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_trophy.mp4",
+  "start": 464,
+  "sfx": "whoosh",
+  "t": 231.91477324263033,
+  "sec": "the_others",
+  "dur": 6.099999999999994
+ },
+ {
+  "kind": "insert",
+  "file": "assets/pundits/golazo.mp4",
+  "start": 27.9,
+  "name": "CBS SPORTS GOLAZO",
+  "role": "Who should win the Ballon d'Or?",
+  "t": 238.00365079365073,
+  "sec": "insert",
+  "dur": 18.0
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 538,
+  "t": 256.00365079365076,
+  "sec": "the_verdict",
+  "dur": 1.2333333333333485
+ },
+ {
+  "kind": "clip",
+  "file": "kane_36_goals.mp4",
+  "start": 89,
+  "bw": true,
+  "t": 257.22065079365075,
+  "sec": "the_verdict",
+  "dur": 1.8333333333333144
+ },
+ {
+  "kind": "clip",
+  "file": "mbappe_golden_boot.mp4",
+  "start": 3,
+  "bw": true,
+  "t": 259.07865079365075,
+  "sec": "the_verdict",
+  "dur": 2.933333333333337
+ },
+ {
+  "kind": "clip",
+  "file": "yamal_best_2526.mp4",
+  "start": 242,
+  "t": 262.01565079365076,
+  "sec": "the_verdict",
+  "dur": 3.1666666666666856
+ },
+ {
+  "kind": "clip",
+  "file": "wc_final.mp4",
+  "start": 11,
+  "t": 265.1616507936508,
+  "sec": "the_verdict",
+  "dur": 3.2333333333332916
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 202,
+  "t": 268.3896507936508,
+  "sec": "the_verdict",
+  "dur": 1.966666666666697
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_trophy.mp4",
+  "start": 322,
+  "sfx": "hit",
+  "t": 270.36265079365074,
+  "sec": "the_verdict",
+  "dur": 5.2666666666666515
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 548,
+  "t": 275.63365079365076,
+  "sec": "the_verdict",
+  "dur": 1.9333333333333371
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 556,
+  "t": 277.5606507936508,
+  "sec": "the_verdict",
+  "dur": 2.1000000000000227
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 202.5,
+  "t": 279.65065079365075,
+  "sec": "the_verdict",
+  "dur": 3.3333333333333144
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 382,
+  "t": 282.99465079365075,
+  "sec": "the_verdict",
+  "dur": 1.7666666666666515
+ },
+ {
+  "kind": "clip",
+  "file": "wc_trophy.mp4",
+  "start": 386,
+  "t": 284.75965079365074,
+  "sec": "the_verdict",
+  "dur": 2.03333333333336
+ },
+ {
+  "kind": "gfx",
+  "file": "wc_trophy.mp4",
+  "start": 470,
+  "sfx": null,
+  "t": 286.80265079365074,
+  "sec": "the_verdict",
+  "dur": 9.533333333333303
+ }
+]

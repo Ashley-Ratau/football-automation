@@ -1,0 +1,1070 @@
+{
+  "schema_version": 1,
+  "title": "The Raphinha Problem No One Has Solved",
+  "output_filename": "the-raphinha-problem-no-one-has-solved.mp4",
+  "thumbnail": "assets/thumbnail/thumbnail_primary.png",
+  "music_bed": "assets/music_bed.mp3",
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice_speed": 1.0,
+    "voice_gain_db": 16.0,
+    "broll_clip_max_seconds": 4.0,
+    "insert_fade_seconds": 0.8,
+    "music_volume_db": -35.0,
+    "audio_rate": 44100,
+    "audio_channels": 2,
+    "min_duration_seconds": 510,
+    "max_duration_seconds": 540
+  },
+  "upload": {
+    "title": "The Raphinha Problem No One Has Solved",
+    "description": "Raphinha’s two consecutive hat-tricks have made Barcelona’s perfect start impossible to ignore. This original analysis follows the Sevilla comeback, his movement as a central striker, the Lamine Yamal connection, and the question European opponents now face. Research current through 20 September 2026. Short third-party match and studio excerpts are used for analysis; rights and Content ID remain subject to review.",
+    "tags": [
+      "Raphinha",
+      "Barcelona",
+      "Lamine Yamal",
+      "Hansi Flick",
+      "football analysis",
+      "Champions League"
+    ],
+    "category": "17",
+    "privacy": "private"
+  },
+  "captions": {
+    "enabled": false,
+    "fontname": "Arial Black",
+    "font_size": 72,
+    "primary_color": "&H0000E6FF",
+    "outline_color": "&H00000000",
+    "back_color": "&H96000000",
+    "outline": 8,
+    "shadow": 4,
+    "alignment": 2,
+    "margin_l": 60,
+    "margin_r": 60,
+    "margin_v": 110,
+    "group_size": 2
+  },
+  "sound_effects": [],
+  "research_checks": {
+    "scoreline_verified": true,
+    "match_number_verified": true,
+    "records_verified": true,
+    "availability_verified": true,
+    "source_urls_recorded": true
+  },
+  "sections": [
+    {
+      "type": "vo",
+      "name": "cold_open",
+      "text": "Sevilla score first. Their stadium explodes. And for a few minutes, it looks as if someone has finally interrupted Barcelona's perfect start. Then Raphinha appears between two defenders. One touch to shift the angle. One finish into the corner. By the end of the night he has three goals, Barcelona have three points, and the question is bigger than another hat-trick. How do you defend a player who is no longer where the old scouting report says he should be? The goals are spectacular. The movement behind them is the real problem. And across Europe, that distinction is about to matter.",
+      "broll": [
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 30,
+          "duration": 3.7,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 60,
+          "duration": 3.7,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "cold_open_02"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 65,
+          "duration": 3.7,
+          "label": "cold_open_03"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 18,
+          "duration": 3.7,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 108,
+          "duration": 3.7,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 151,
+          "duration": 3.7,
+          "label": "cold_open_06"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "cold_open_07"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 156,
+          "duration": 3.7,
+          "label": "cold_open_08"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 28,
+          "duration": 3.7,
+          "label": "cold_open_09"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 69,
+          "duration": 3.7,
+          "label": "cold_open_10"
+        },
+        {
+          "file": "assets/broll/tactics_inside_runner.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 162,
+          "duration": 3.7,
+          "label": "cold_open_12"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 41,
+          "duration": 3.7,
+          "label": "cold_open_13"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 174,
+          "duration": 3.7,
+          "label": "cold_open_14"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "cbs_hot_take",
+      "file": "assets/broll/cbs_sevilla.mp4",
+      "start": 185.8,
+      "end": 192.0
+    },
+    {
+      "type": "insert",
+      "name": "sevilla_equalizer_sound",
+      "file": "assets/broll/sevilla_3_1.mp4",
+      "start": 52.0,
+      "end": 68.0
+    },
+    {
+      "type": "vo",
+      "name": "scoreboard_vs_question",
+      "text": "Before Sevilla, Raphinha had already scored a hat-trick against Racing Santander. After Sevilla, it was twelve league goals in seven matches. Barcelona had won all seven league games and their opening Champions League match against Feyenoord. Those numbers earn the headlines, but Sevilla gives us a more revealing sequence. The home side pressed aggressively and took the lead. Barcelona did not simply pile on goals from the opening whistle. They had to find a way through an opponent prepared to disturb them. On the equalizer, Christensen sends a pass through the center. Raphinha does not wait in the old winger's lane. He runs directly at the gap, shifts past his marker, and finishes. The goal starts before the shot, when the back line is forced to decide who owns the space he has entered. It is worth watching the defenders rather than the celebration on this replay. As the pass travels, the nearest man turns toward goal; that half-second of uncertainty is precisely the space Raphinha wants.",
+      "broll": [
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 25,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_00"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 140,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_01"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 170,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_02"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 30,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_03"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 18,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_04"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 32,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_05"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 54,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_06"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 57,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_07"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 61,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_08"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 64,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_09"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 67,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_10"
+        },
+        {
+          "file": "assets/broll/tactics_inside_runner.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_11"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 73,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_12"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_13"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 75,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_14"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 61,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_15"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 52,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_16"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 68,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_17"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 83,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_18"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 63,
+          "duration": 3.7,
+          "label": "scoreboard_vs_question_19"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "new_nine",
+      "text": "Flick has made that question harder by using Raphinha as the central forward. It sounds like a simple positional switch. It is not. A conventional nine often gives defenders a reference point: the striker in front of them, the winger outside them. Raphinha blurs both references. He can start between the center backs, dart across one shoulder, drift away to combine, then arrive in the box as the last man defenders expect to meet. He has the acceleration of a wide attacker and the urgency of a striker hunting the finish. Against Feyenoord, Pedri's pass released one of those central runs. Against Sevilla, Christensen's pass found another. These are different games, but the same defensive hesitation: step out early and leave space behind; wait, and Raphinha is already moving through it. That is why the new role changes more than his personal scoring column. He also brings an old winger instinct to this central job. He likes arriving at speed rather than standing still, so an apparently quiet spell can end with one movement that changes the geometry of the box.",
+      "broll": [
+        {
+          "file": "assets/broll/tactics_inside_runner.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "new_nine_00"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "new_nine_01"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 108,
+          "duration": 3.7,
+          "label": "new_nine_02"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 48,
+          "duration": 3.7,
+          "label": "new_nine_03"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 54,
+          "duration": 3.7,
+          "label": "new_nine_04"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 60,
+          "duration": 3.7,
+          "label": "new_nine_05"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 110,
+          "duration": 3.7,
+          "label": "new_nine_06"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 63,
+          "duration": 3.7,
+          "label": "new_nine_07"
+        },
+        {
+          "file": "assets/broll/tactics_wide_overload.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "new_nine_08"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 58,
+          "duration": 3.7,
+          "label": "new_nine_09"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 64,
+          "duration": 3.7,
+          "label": "new_nine_10"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 132,
+          "duration": 3.7,
+          "label": "new_nine_11"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 94,
+          "duration": 3.7,
+          "label": "new_nine_12"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 64,
+          "duration": 3.7,
+          "label": "new_nine_13"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 142,
+          "duration": 3.7,
+          "label": "new_nine_14"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "new_nine_15"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 99,
+          "duration": 3.7,
+          "label": "new_nine_16"
+        },
+        {
+          "file": "assets/broll/tactics_coordinated_shift.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "new_nine_17"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 70,
+          "duration": 3.7,
+          "label": "new_nine_18"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 158,
+          "duration": 3.7,
+          "label": "new_nine_19"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "cbs_movement_press",
+      "file": "assets/broll/cbs_sevilla.mp4",
+      "start": 129.2,
+      "end": 140.5
+    },
+    {
+      "type": "vo",
+      "name": "pressing_nine",
+      "text": "That last part of the studio's observation is easy to miss: the pressing. Barcelona's center forward is also the first defender. When Raphinha curves a run toward the player on the ball, the back pass can look safe until the passing lane disappears. His teammates can then close the next receiver. We should not pretend every regain is his alone, or attach a pressing statistic we cannot verify. Watch the collective timing instead. The front line moves as a unit, and the first pressure is central. If opponents rush a clearance, Barcelona can attack again before the shape has reset. If they try to play through, they risk giving the ball away in the most dangerous part of the pitch. The nine is no longer only waiting for service. He is helping create the next attack. This matters because Barcelona already have so many players who can hurt a settled defense. Winning the ball while that defense is still turning makes those same players even more difficult to assign and contain.",
+      "broll": [
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 183,
+          "duration": 3.7,
+          "label": "pressing_nine_00"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 169,
+          "duration": 3.7,
+          "label": "pressing_nine_01"
+        },
+        {
+          "file": "assets/broll/tactics_coordinated_shift.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "pressing_nine_02"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 10,
+          "duration": 3.7,
+          "label": "pressing_nine_03"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 205,
+          "duration": 3.7,
+          "label": "pressing_nine_04"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 90,
+          "duration": 3.7,
+          "label": "pressing_nine_05"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 198,
+          "duration": 3.7,
+          "label": "pressing_nine_06"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 66,
+          "duration": 3.7,
+          "label": "pressing_nine_07"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 224,
+          "duration": 3.7,
+          "label": "pressing_nine_08"
+        },
+        {
+          "file": "assets/broll/tactics_inside_runner.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "pressing_nine_09"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 97,
+          "duration": 3.7,
+          "label": "pressing_nine_10"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 228,
+          "duration": 3.7,
+          "label": "pressing_nine_11"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 104,
+          "duration": 3.7,
+          "label": "pressing_nine_12"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 242,
+          "duration": 3.7,
+          "label": "pressing_nine_13"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 129,
+          "duration": 3.7,
+          "label": "pressing_nine_14"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 255,
+          "duration": 3.7,
+          "label": "pressing_nine_15"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 75,
+          "duration": 3.7,
+          "label": "pressing_nine_16"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 265,
+          "duration": 3.7,
+          "label": "pressing_nine_17"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 84,
+          "duration": 3.7,
+          "label": "pressing_nine_18"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "lamine_connection",
+      "text": "Then there is Lamine Yamal. A defense already has a problem on Barcelona's right: give him a one-on-one and he can beat his man; send help and the rest of the pitch changes shape. Sevilla shows the second consequence. For Raphinha's header, Yamal collects the ball and lifts it into the area. Raphinha attacks the delivery like a striker. Later, Rodri finds Yamal's run. Yamal slips the pass through, and Raphinha clips his finish over the keeper. Two different assists, two different finishes, and neither requires Yamal to score himself. This is the trap for a European back line. You can spend the evening preparing for Lamine's dribble, only to discover that your center backs are now dealing with Raphinha arriving on their blind side. Double one threat, and the other can become cleaner. Their partnership is not one rehearsed trick. The cross asks for a different defensive response from the through ball, and the speed of the next decision leaves little time to switch from one answer to the other.",
+      "broll": [
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "lamine_connection_00"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 104,
+          "duration": 3.7,
+          "label": "lamine_connection_01"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 108,
+          "duration": 3.7,
+          "label": "lamine_connection_02"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 112,
+          "duration": 3.7,
+          "label": "lamine_connection_03"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 116,
+          "duration": 3.7,
+          "label": "lamine_connection_04"
+        },
+        {
+          "file": "assets/broll/tactics_wide_overload.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "lamine_connection_05"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 145,
+          "duration": 3.7,
+          "label": "lamine_connection_06"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 150,
+          "duration": 3.7,
+          "label": "lamine_connection_07"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 154,
+          "duration": 3.7,
+          "label": "lamine_connection_08"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 158,
+          "duration": 3.7,
+          "label": "lamine_connection_09"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "lamine_connection_10"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 291,
+          "duration": 3.7,
+          "label": "lamine_connection_11"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 120,
+          "duration": 3.7,
+          "label": "lamine_connection_12"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 283,
+          "duration": 3.7,
+          "label": "lamine_connection_13"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 162,
+          "duration": 3.7,
+          "label": "lamine_connection_14"
+        },
+        {
+          "file": "assets/broll/tactics_inside_runner.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "lamine_connection_15"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 103,
+          "duration": 3.7,
+          "label": "lamine_connection_16"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 320,
+          "duration": 3.7,
+          "label": "lamine_connection_17"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 152,
+          "duration": 3.7,
+          "label": "lamine_connection_18"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 160,
+          "duration": 3.7,
+          "label": "lamine_connection_19"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "sevilla_header_sound",
+      "file": "assets/broll/sevilla_3_1.mp4",
+      "start": 102.0,
+      "end": 121.0
+    },
+    {
+      "type": "vo",
+      "name": "wider_system",
+      "text": "And this is why Raphinha's move matters to more than a partnership. Pedri can find the runner from deep. Rodri can stabilize the midfield and release the next pass. Yamal can create or finish. The defenders cannot assign all their attention to one channel because Barcelona can begin an attack in another. Even the scoreline at Sevilla tells an incomplete story. It was their lowest league goal total of the season to that point, yet they still made the decisive moments look different: a run through the middle, a header from the right, and a finish after a threaded pass. The value is variation. Flick does not need the same combination to work three times. He needs the opponent to keep adjusting until one of those routes opens. And in Europe, that repeated decision-making can be exhausting.",
+      "broll": [
+        {
+          "file": "assets/broll/portrait_rodri.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "wider_system_00"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 310,
+          "duration": 3.7,
+          "label": "wider_system_01"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 95,
+          "duration": 3.7,
+          "label": "wider_system_02"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 64,
+          "duration": 3.7,
+          "label": "wider_system_03"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 347,
+          "duration": 3.7,
+          "label": "wider_system_04"
+        },
+        {
+          "file": "assets/broll/tactics_wide_overload.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "wider_system_05"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 110,
+          "duration": 3.7,
+          "label": "wider_system_06"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 350,
+          "duration": 3.7,
+          "label": "wider_system_07"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 152,
+          "duration": 3.7,
+          "label": "wider_system_08"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "wider_system_09"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 62,
+          "duration": 3.7,
+          "label": "wider_system_10"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 112,
+          "duration": 3.7,
+          "label": "wider_system_11"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 154,
+          "duration": 3.7,
+          "label": "wider_system_12"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 381,
+          "duration": 3.7,
+          "label": "wider_system_13"
+        },
+        {
+          "file": "assets/broll/tactics_inside_runner.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "wider_system_14"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 120,
+          "duration": 3.7,
+          "label": "wider_system_15"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 171,
+          "duration": 3.7,
+          "label": "wider_system_16"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 382,
+          "duration": 3.7,
+          "label": "wider_system_17"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 77,
+          "duration": 3.7,
+          "label": "wider_system_18"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "sevilla_third_sound",
+      "file": "assets/broll/sevilla_3_1.mp4",
+      "start": 134.0,
+      "end": 153.0
+    },
+    {
+      "type": "vo",
+      "name": "real_vulnerability",
+      "text": "There is a real reason to pause before calling this inevitable. Sevilla's first-half pressure made Barcelona work, and the home side scored first. Levante nearly turned a three-goal deficit into a result late in their match with Barcelona. This team can lose control for spells; a stronger European opponent may punish those spells more severely. In the Sevilla studio discussion, the defensive transition question was raised for exactly that reason. But notice what the comeback also proved. Barcelona did not need a comfortable game to win it. Raphinha's movement gave them a route back, and Yamal's deliveries gave them two more ways through. The weakness matters. It does not erase the attacking question. It makes it sharper: can an opponent pressure Barcelona for ninety minutes while also tracking all the ways this new front line can hurt them? That is the honest version of the story. A perfect start proves Barcelona can keep winning; it does not prove no one can exploit their open spaces. The coming matches will tell us how well they manage that trade-off.",
+      "broll": [
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 25,
+          "duration": 3.7,
+          "label": "real_vulnerability_00"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 34,
+          "duration": 3.7,
+          "label": "real_vulnerability_01"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 131,
+          "duration": 3.7,
+          "label": "real_vulnerability_02"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 153,
+          "duration": 3.7,
+          "label": "real_vulnerability_03"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 410,
+          "duration": 3.7,
+          "label": "real_vulnerability_04"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 29,
+          "duration": 3.7,
+          "label": "real_vulnerability_05"
+        },
+        {
+          "file": "assets/broll/tactics_coordinated_shift.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "real_vulnerability_06"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 61,
+          "duration": 3.7,
+          "label": "real_vulnerability_07"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 108,
+          "duration": 3.7,
+          "label": "real_vulnerability_08"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 405,
+          "duration": 3.7,
+          "label": "real_vulnerability_09"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 150,
+          "duration": 3.7,
+          "label": "real_vulnerability_10"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "real_vulnerability_11"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 439,
+          "duration": 3.7,
+          "label": "real_vulnerability_12"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 117,
+          "duration": 3.7,
+          "label": "real_vulnerability_13"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 174,
+          "duration": 3.7,
+          "label": "real_vulnerability_14"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 156,
+          "duration": 3.7,
+          "label": "real_vulnerability_15"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 430,
+          "duration": 3.7,
+          "label": "real_vulnerability_16"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 72,
+          "duration": 3.7,
+          "label": "real_vulnerability_17"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 395,
+          "duration": 3.7,
+          "label": "real_vulnerability_18"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "cbs_european_caveat",
+      "file": "assets/broll/cbs_sevilla.mp4",
+      "start": 422.6,
+      "end": 431.0
+    },
+    {
+      "type": "vo",
+      "name": "europe_payoff",
+      "text": "The next question belongs to Europe. There are bigger nights ahead, with opponents who can press better, recover faster, and make a lost ball feel fatal. Barcelona will have to prove that their control can match their attacking ambition. But the scouting problem is already here. If the center backs hold their line, Raphinha can attack the gap. If they follow him, somebody else can run beyond. If the defense leans toward Yamal, he can deliver the ball where Raphinha has just arrived. And if the opposition escapes the first wave, it must still survive Barcelona's pressure to stop the next one. That is what the Sevilla comeback showed beneath the hat-trick. Flick has turned a devastating winger into a central question with more than one answer. Europe may find a way to contain it. Until then, every attempt to solve Raphinha threatens to create another Barcelona problem. That is why this is a question for any club drawn against them, not just a Barcelona highlight package. The opposition may arrive with a plan for Yamal. It still needs one for the striker who is never quite standing where he was expected.",
+      "broll": [
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 62,
+          "duration": 3.7,
+          "label": "europe_payoff_00"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 450,
+          "duration": 3.7,
+          "label": "europe_payoff_01"
+        },
+        {
+          "file": "assets/broll/tactics_inside_runner.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "europe_payoff_02"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 110,
+          "duration": 3.7,
+          "label": "europe_payoff_03"
+        },
+        {
+          "file": "assets/broll/tactics_wide_overload.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "europe_payoff_04"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 140,
+          "duration": 3.7,
+          "label": "europe_payoff_05"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 370,
+          "duration": 3.7,
+          "label": "europe_payoff_06"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 70,
+          "duration": 3.7,
+          "label": "europe_payoff_07"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "europe_payoff_08"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 70,
+          "duration": 3.7,
+          "label": "europe_payoff_09"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 478,
+          "duration": 3.7,
+          "label": "europe_payoff_10"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 147,
+          "duration": 3.7,
+          "label": "europe_payoff_11"
+        },
+        {
+          "file": "assets/broll/tactics_coordinated_shift.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "europe_payoff_12"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 117,
+          "duration": 3.7,
+          "label": "europe_payoff_13"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 0,
+          "duration": 3.7,
+          "label": "europe_payoff_14"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 151,
+          "duration": 3.7,
+          "label": "europe_payoff_15"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 425,
+          "duration": 3.7,
+          "label": "europe_payoff_16"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 172,
+          "duration": 3.7,
+          "label": "europe_payoff_17"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 140,
+          "duration": 3.7,
+          "label": "europe_payoff_18"
+        },
+        {
+          "file": "assets/broll/sevilla_3_1.mp4",
+          "start": 176,
+          "duration": 3.7,
+          "label": "europe_payoff_19"
+        }
+      ]
+    }
+  ]
+}

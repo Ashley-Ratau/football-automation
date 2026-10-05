@@ -1,0 +1,907 @@
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs\concat_list.txt':
+  Duration: N/A, start: -0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs\voiceover_elevenlabs_full.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp, 128 kb/s
+Press [q] to stop, [?] for help
+[out#0/mp3 @ 0000027093dccbc0] video:0KiB audio:388KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.115981%
+size=     389KiB time=00:00:24.84 bitrate= 128.1kbits/s speed=1.39e+03x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs\elevenlabs_part_01.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:00:09.25, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_01.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 0000016d238b2b00] video:0KiB audio:87KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.254797%
+size=      87KiB time=00:00:07.67 bitrate=  92.7kbits/s speed=45.7x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs\elevenlabs_part_02.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:00:10.11, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_02.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 0000018a23382b00] video:0KiB audio:100KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.221590%
+size=     100KiB time=00:00:08.40 bitrate=  97.3kbits/s speed=87.5x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs\elevenlabs_part_03.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:00:05.49, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_03.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 000001e946c92b00] video:0KiB audio:56KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.397460%
+size=      56KiB time=00:00:04.53 bitrate= 100.6kbits/s speed=57.4x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs\voiceover_elevenlabs_full.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:24.84, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs_1p2x\voiceover_elevenlabs_full_1p2x.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 0000023c1a232b40] video:0KiB audio:240KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.091818%
+size=     241KiB time=00:00:20.67 bitrate=  95.3kbits/s speed=82.5x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000026f493646c0] using SAR=1/1
+[libx264 @ 0000026f493646c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000026f493646c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000026f493646c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_1_still_01.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   29 fps=0.0 q=26.0 size=       0KiB time=00:00:00.90 bitrate=   0.4kbits/s dup=11 drop=0 speed=1.74x    [mp4 @ 0000026f49c7ea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000026f49c7e040] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.65x    
+[libx264 @ 0000026f493646c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000026f493646c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 0000026f493646c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 0000026f493646c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 0000026f493646c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000026f493646c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000026f493646c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000026f493646c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000026f493646c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000026f493646c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000026f493646c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000026f493646c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000026f493646c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000026f493646c0] kb/s:36.67
+[aac @ 0000026f49c97240] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000275da0946c0] using SAR=1/1
+[libx264 @ 00000275da0946c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000275da0946c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000275da0946c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_1_still_02.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   19 fps=0.0 q=26.0 size=       0KiB time=00:00:00.56 bitrate=   0.7kbits/s dup=9 drop=0 speed=1.12x    [mp4 @ 00000275daa6ea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000275daa6e040] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.22x    
+[libx264 @ 00000275da0946c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000275da0946c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 00000275da0946c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 00000275da0946c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 00000275da0946c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000275da0946c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000275da0946c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000275da0946c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000275da0946c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000275da0946c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000275da0946c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000275da0946c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000275da0946c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000275da0946c0] kb/s:36.67
+[aac @ 00000275daa87440] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 000001fadb3946c0] using SAR=1/1
+[libx264 @ 000001fadb3946c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000001fadb3946c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000001fadb3946c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_1_still_03.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   30 fps=0.0 q=26.0 size=       0KiB time=N/A bitrate=N/A dup=9 drop=0 speed=N/A    [mp4 @ 000001fadbc9ea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001fadbc9e040] video:11KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 26.807919%
+frame=   51 fps=0.0 q=-1.0 Lsize=      15KiB time=00:00:01.63 bitrate=  75.9kbits/s dup=9 drop=0 speed=2.88x    
+[libx264 @ 000001fadb3946c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 000001fadb3946c0] frame P:13    Avg QP:12.26  size:    85
+[libx264 @ 000001fadb3946c0] frame B:37    Avg QP:14.35  size:    68
+[libx264 @ 000001fadb3946c0] consecutive B-frames:  2.0%  3.9%  0.0% 94.1%
+[libx264 @ 000001fadb3946c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 000001fadb3946c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 000001fadb3946c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 000001fadb3946c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 000001fadb3946c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 000001fadb3946c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 000001fadb3946c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 000001fadb3946c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 000001fadb3946c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000001fadb3946c0] kb/s:52.08
+[aac @ 000001fadbcb71c0] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000022fc758b340] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 40 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_1_visual.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000022fc7646500] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 0000022fc7592d00] Non-monotonic DTS; previous: 133120, current: 132300; changing to 133121. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000022fc7646500] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 0000022fc7592d00] Non-monotonic DTS; previous: 265420, current: 264600; changing to 265421. This may result in incorrect timestamps in the output file.
+[mp4 @ 0000022fc7845780] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000022fc75c0900] video:40KiB audio:2KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 22.972216%
+frame=  231 fps=0.0 q=-1.0 Lsize=      51KiB time=00:00:07.65 bitrate=  55.0kbits/s speed= 227x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_1_visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:07.73, start: 0.000000, bitrate: 54 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 42 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_01.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:07.71, start: 0.025057, bitrate: 92 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 92 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (mp3 (mp3float) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_1_voice.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 42 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 160 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 00000251042c1840] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000251042c1740] video:40KiB audio:150KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.998766%
+frame=  229 fps=0.0 q=-1.0 Lsize=     199KiB time=00:00:07.65 bitrate= 213.4kbits/s speed=20.5x    
+[aac @ 0000025104302280] Qavg: 412.556
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_2.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000120707546c0] using SAR=1/1
+[libx264 @ 00000120707546c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000120707546c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000120707546c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_2_still_01.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   32 fps=0.0 q=26.0 size=       0KiB time=00:00:01.00 bitrate=   0.4kbits/s dup=11 drop=0 speed= 1.9x    [mp4 @ 000001207106ea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001207106e040] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.72x    
+[libx264 @ 00000120707546c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000120707546c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 00000120707546c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 00000120707546c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 00000120707546c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000120707546c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000120707546c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000120707546c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000120707546c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000120707546c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000120707546c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000120707546c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000120707546c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000120707546c0] kb/s:36.67
+[aac @ 0000012071087440] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_2.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000235510046c0] using SAR=1/1
+[libx264 @ 00000235510046c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000235510046c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000235510046c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_2_still_02.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   35 fps=0.0 q=26.0 size=       0KiB time=00:00:01.06 bitrate=   0.4kbits/s dup=12 drop=0 speed=2.06x    [mp4 @ 000002355190ea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000002355190e040] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.83x    
+[libx264 @ 00000235510046c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000235510046c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 00000235510046c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 00000235510046c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 00000235510046c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000235510046c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000235510046c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000235510046c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000235510046c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000235510046c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000235510046c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000235510046c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000235510046c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000235510046c0] kb/s:36.67
+[aac @ 0000023551928200] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_2.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000020966bd46c0] using SAR=1/1
+[libx264 @ 0000020966bd46c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000020966bd46c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000020966bd46c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_2_still_03.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   35 fps=0.0 q=26.0 size=       0KiB time=00:00:01.10 bitrate=   0.3kbits/s dup=12 drop=0 speed=2.11x    [mp4 @ 00000209674eea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000209674ee040] video:13KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 29.241825%
+frame=   73 fps=0.0 q=-1.0 Lsize=      18KiB time=00:00:02.36 bitrate=  60.8kbits/s dup=12 drop=0 speed=3.67x    
+[libx264 @ 0000020966bd46c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000020966bd46c0] frame P:18    Avg QP:11.86  size:    81
+[libx264 @ 0000020966bd46c0] frame B:54    Avg QP:14.33  size:    68
+[libx264 @ 0000020966bd46c0] consecutive B-frames:  1.4%  0.0%  0.0% 98.6%
+[libx264 @ 0000020966bd46c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000020966bd46c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000020966bd46c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000020966bd46c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000020966bd46c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000020966bd46c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000020966bd46c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000020966bd46c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000020966bd46c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000020966bd46c0] kb/s:41.36
+[aac @ 0000020967507540] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002503b20b340] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 40 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_2_visual.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002503b2c6500] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 000002503b212d00] Non-monotonic DTS; previous: 133120, current: 132300; changing to 133121. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002503b2c6500] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 000002503b212d00] Non-monotonic DTS; previous: 265420, current: 264600; changing to 265421. This may result in incorrect timestamps in the output file.
+[mp4 @ 000002503b4c5780] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000002503b240900] video:41KiB audio:2KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 23.896588%
+frame=  253 fps=0.0 q=-1.0 Lsize=      54KiB time=00:00:08.38 bitrate=  52.6kbits/s speed= 170x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_2_visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:08.46, start: 0.000000, bitrate: 52 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 40 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_02.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:08.44, start: 0.025057, bitrate: 96 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 96 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (mp3 (mp3float) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_2_voice.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 40 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 160 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 000002595ff100c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000259604aaec0] video:41KiB audio:164KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.975971%
+frame=  249 fps=0.0 q=-1.0 Lsize=     216KiB time=00:00:08.38 bitrate= 210.6kbits/s speed=18.6x    
+[aac @ 000002595ff0e640] Qavg: 383.264
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_3.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 000001da7e1a46c0] using SAR=1/1
+[libx264 @ 000001da7e1a46c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000001da7e1a46c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000001da7e1a46c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_3_still_01.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   32 fps=0.0 q=26.0 size=       0KiB time=00:00:01.00 bitrate=   0.4kbits/s dup=11 drop=0 speed=1.93x    [mp4 @ 000001da7eabea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001da7eabe040] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.73x    
+[libx264 @ 000001da7e1a46c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 000001da7e1a46c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 000001da7e1a46c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 000001da7e1a46c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 000001da7e1a46c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 000001da7e1a46c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 000001da7e1a46c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 000001da7e1a46c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 000001da7e1a46c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 000001da7e1a46c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 000001da7e1a46c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 000001da7e1a46c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 000001da7e1a46c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000001da7e1a46c0] kb/s:36.67
+[aac @ 000001da7eadb4c0] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\placeholder_3.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000023e3d9d46c0] using SAR=1/1
+[libx264 @ 0000023e3d9d46c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000023e3d9d46c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000023e3d9d46c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_3_still_02.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 0000023e3e2dea00] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000023e3e2de040] video:11KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 26.245066%
+frame=   47 fps=0.0 q=-1.0 Lsize=      15KiB time=00:00:01.50 bitrate=  80.2kbits/s dup=8 drop=0 speed=3.16x    
+[libx264 @ 0000023e3d9d46c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000023e3d9d46c0] frame P:12    Avg QP:12.37  size:    86
+[libx264 @ 0000023e3d9d46c0] frame B:34    Avg QP:14.35  size:    68
+[libx264 @ 0000023e3d9d46c0] consecutive B-frames:  2.1%  4.3%  0.0% 93.6%
+[libx264 @ 0000023e3d9d46c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000023e3d9d46c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000023e3d9d46c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000023e3d9d46c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000023e3d9d46c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000023e3d9d46c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000023e3d9d46c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000023e3d9d46c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000023e3d9d46c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000023e3d9d46c0] kb/s:55.11
+[aac @ 0000023e3e2f6fc0] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000022d3e39b1c0] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 40 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_3_visual.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000022d3e457040] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 0000022d3e655ac0] Non-monotonic DTS; previous: 133120, current: 132300; changing to 133121. This may result in incorrect timestamps in the output file.
+[mp4 @ 0000022d3e455fc0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000022d3e392040] video:25KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 23.554903%
+frame=  137 fps=0.0 q=-1.0 Lsize=      33KiB time=00:00:04.52 bitrate=  59.5kbits/s speed= 322x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_3_visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:04.59, start: 0.000000, bitrate: 58 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 45 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_03.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:04.57, start: 0.025057, bitrate: 99 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 99 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (mp3 (mp3float) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\_tmp\section_3_voice.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 45 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 160 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 0000020f46f2b240] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000020f47216ec0] video:25KiB audio:89KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 5.410344%
+frame=  135 fps=0.0 q=-1.0 Lsize=     121KiB time=00:00:04.52 bitrate= 218.3kbits/s speed=19.9x    
+[aac @ 0000020f46f96e40] Qavg: 379.419
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000017b2cfcb340] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\final video\capcut export\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 202 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 42 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 159 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 019 - Why a World Cup is the biggest event on planet Earth\final video\capcut export\why-a-world-cup-is-the-biggest-event-on-planet-earth.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 42 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 159 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000017b2cfe0ec0] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 0000017b2cfe0380] Non-monotonic DTS; previous: 338944, current: 338512; changing to 338945. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0000017b2cfe0ec0] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 0000017b2cfe0380] Non-monotonic DTS; previous: 710224, current: 709217; changing to 710225. This may result in incorrect timestamps in the output file.
+[mp4 @ 0000017b2d08ecc0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000017b2d000c80] video:106KiB audio:404KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.552490%
+frame=  613 fps=0.0 q=-1.0 Lsize=     533KiB time=00:00:20.56 bitrate= 212.4kbits/s speed= 544x    

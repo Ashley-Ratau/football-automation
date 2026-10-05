@@ -1,0 +1,2 @@
+file 'C:/Users/Wendy/Documents/Football Channel/Video 002 - Norway Problem Short Rebuild/assets/voiceover/elevenlabs/elevenlabs_part_01.mp3'
+file 'C:/Users/Wendy/Documents/Football Channel/Video 002 - Norway Problem Short Rebuild/assets/voiceover/elevenlabs/elevenlabs_part_02.mp3'

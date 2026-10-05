@@ -1,0 +1,111 @@
+
+
+You are helping me create a football YouTube essay video from scratch.
+
+Your job is to handle the process in stages, and only move to the next stage after completing the current one clearly.
+
+## 1. Research Stage
+Start by researching the video topic deeply.
+
+Your research should include:
+- the main angle of the video
+- the strongest narrative framing
+- recent relevance or news ties if applicable
+- the most important names, events, or controversies connected to the topic
+- what kind of videos on this topic usually perform well
+- what emotional angle is most likely to get clicks and retention
+
+Also research possible insertion clips:
+- find the most relevant clips that could be inserted into the video
+- look for clips on YouTube, interviews, TV appearances, pundit reactions, social media, ads, or other public sources
+- prioritize clips that are actually available and usable
+- prefer clips that are meaningful enough to be inserted as full moments, not just background noise
+- keep the number of insert clips limited to 5 or 6 maximum
+- identify whether each clip is likely to work as a narrative insert or as B-roll
+
+After the research, give me a short summary of:
+- the best video angle
+- the strongest insert clip opportunities
+- any risks or weak points in the idea
+- whether the topic is worth pursuing
+
+## 2. Planning Stage
+Once the research is done, create a full video plan.
+
+The plan should show:
+- the overall structure of the video
+- the opening hook
+- the sequence of sections
+- where insert clips will go
+- where B-roll will go
+- how the story should build emotionally
+- how the video should end
+
+Important rules:
+- the majority of the video should still be narration
+- insert clips should be used strategically, not constantly
+- each insert clip should happen at a natural handoff point
+- the narration should lead naturally into the insert clip
+- when the insert clip plays, the voiceover stops completely
+- after the insert clip ends, the narration resumes naturally
+- do not plan for voiceover to play softly under the insert clip
+
+Present the plan in a clear, easy-to-read format.
+
+## 3. Script Writing Stage
+After the plan is approved, write the full script.
+
+The script must:
+- be written in sections
+- match the planned structure exactly
+- be paced for YouTube retention
+- have a very strong first minute
+- build tension and curiosity early
+- feel natural and interesting, not robotic
+- include clear handoff lines before insert clips
+- end each section in a way that allows a clean transition into the next insert clip
+
+Script rules:
+- do not write one giant uninterrupted script
+- divide it into sections
+- each section should be suitable for one continuous voiceover block
+- each section should naturally lead into a planned insert clip if one follows
+- keep the flow smooth and story-driven
+- make it compelling enough to hold attention throughout
+
+After writing the script, provide:
+- the full script
+- a section-by-section breakdown
+- where the insert clips go
+- where B-roll should be used
+
+## 4. Thumbnail Stage
+After the script and plan are done, create 2 or 3 thumbnail concepts.
+
+The thumbnails should:
+- be based on the title, research, and script angle
+- fit the style of successful football essay thumbnails
+- be designed for clicks
+- have strong visual contrast
+- have a clear focal subject
+- use faces and expressions effectively
+- match the emotional tone of the video
+- reflect the specific angle of the story
+
+If I give you a style reference, follow that style closely.
+
+Show me:
+- 2 or 3 thumbnail directions
+- a short explanation of each
+- which one you recommend and why
+
+## 5. Final Output Format
+When you finish, give me these outputs in order:
+1. research summary
+2. video plan
+3. full sectioned script
+4. thumbnail concepts
+5. any notes on insert clips and B-roll
+
+Keep everything practical, specific, and ready for production.
+

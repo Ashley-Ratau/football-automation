@@ -1,0 +1,765 @@
+[
+  {
+    "file": "01_hook_raw.wav",
+    "transcript": "You prepare to stop Barcelona's wingers, and then their most dangerous winger turns up between your centre backs. Against Sevilla, Rafina scored three times. A turn inside the box, a header, then a run behind the defence. Three different problems. One player. Hansi Flick has moved him into the middle, and the consequences are getting ridiculous. Fourteen goals in eight competitive games. But this is bigger than a hot streak. It is about the decision Barcelona now force every defender to make. After the Sevilla game, Shaka Hislup picked out what makes this role so difficult.",
+    "differences": [
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "hislop",
+        "heard": "hislup"
+      }
+    ],
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.0,
+        "text": " You prepare to stop Barcelona's wingers, and then their most dangerous winger turns"
+      },
+      {
+        "start": 4.0,
+        "end": 6.16,
+        "text": " up between your centre backs."
+      },
+      {
+        "start": 6.16,
+        "end": 8.72,
+        "text": " Against Sevilla, Rafina scored three times."
+      },
+      {
+        "start": 8.72,
+        "end": 12.76,
+        "text": " A turn inside the box, a header, then a run behind the defence."
+      },
+      {
+        "start": 12.76,
+        "end": 14.08,
+        "text": " Three different problems."
+      },
+      {
+        "start": 14.08,
+        "end": 15.08,
+        "text": " One player."
+      },
+      {
+        "start": 15.08,
+        "end": 19.88,
+        "text": " Hansi Flick has moved him into the middle, and the consequences are getting ridiculous."
+      },
+      {
+        "start": 19.88,
+        "end": 22.6,
+        "text": " Fourteen goals in eight competitive games."
+      },
+      {
+        "start": 22.6,
+        "end": 24.240000000000002,
+        "text": " But this is bigger than a hot streak."
+      },
+      {
+        "start": 24.240000000000002,
+        "end": 28.68,
+        "text": " It is about the decision Barcelona now force every defender to make."
+      },
+      {
+        "start": 28.68,
+        "end": 32.68,
+        "text": " After the Sevilla game, Shaka Hislup picked out what makes this role so difficult."
+      }
+    ]
+  },
+  {
+    "file": "03_role_raw.wav",
+    "transcript": "The important word here is movement. Playing centrally does not mean Raffina has to stand still and wrestle with two center backs for 90 minutes. It gives him a starting point from which he can ask different questions. Come towards the ball, pin a defender for a moment, then disappear behind his shoulder. Those movements draw on his experience of understanding the game from wide areas. He can recognize the moment a defender turns to look at the ball. That is the moment a run can begin. Think about the difference. Out wide, an attacker often has to beat the defender in front of him before he can threaten the goal. Through the middle, one well-timed movement can put him on the other side of the entire line. Flick has not discovered that Raffina is a good footballer. We already knew that. He is changing where those qualities hurt you. And that distinction matters. This is a mobile central forward, not a tactical label that explains itself. Watch what he does after taking up the position.",
+    "differences": [
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "raffina"
+      },
+      {
+        "operation": "replace",
+        "expected": "centre",
+        "heard": "center"
+      },
+      {
+        "operation": "replace",
+        "expected": "ninety",
+        "heard": "90"
+      },
+      {
+        "operation": "replace",
+        "expected": "recognise",
+        "heard": "recognize"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "raffina"
+      }
+    ],
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 3.88,
+        "text": " The important word here is movement."
+      },
+      {
+        "start": 3.88,
+        "end": 6.88,
+        "text": " Playing centrally does not mean Raffina has to stand still"
+      },
+      {
+        "start": 6.88,
+        "end": 9.6,
+        "text": " and wrestle with two center backs for 90 minutes."
+      },
+      {
+        "start": 9.6,
+        "end": 10.86,
+        "text": " It gives him a starting point"
+      },
+      {
+        "start": 10.86,
+        "end": 13.44,
+        "text": " from which he can ask different questions."
+      },
+      {
+        "start": 13.44,
+        "end": 16.3,
+        "text": " Come towards the ball, pin a defender for a moment,"
+      },
+      {
+        "start": 16.3,
+        "end": 18.5,
+        "text": " then disappear behind his shoulder."
+      },
+      {
+        "start": 18.5,
+        "end": 20.080000000000002,
+        "text": " Those movements draw on his experience"
+      },
+      {
+        "start": 20.080000000000002,
+        "end": 22.44,
+        "text": " of understanding the game from wide areas."
+      },
+      {
+        "start": 22.44,
+        "end": 24.36,
+        "text": " He can recognize the moment a defender turns"
+      },
+      {
+        "start": 24.36,
+        "end": 25.68,
+        "text": " to look at the ball."
+      },
+      {
+        "start": 25.68,
+        "end": 27.6,
+        "text": " That is the moment a run can begin."
+      },
+      {
+        "start": 27.6,
+        "end": 29.400000000000002,
+        "text": " Think about the difference."
+      },
+      {
+        "start": 29.48,
+        "end": 32.400000000000006,
+        "text": " Out wide, an attacker often has to beat the defender"
+      },
+      {
+        "start": 32.400000000000006,
+        "end": 34.68,
+        "text": " in front of him before he can threaten the goal."
+      },
+      {
+        "start": 34.68,
+        "end": 37.0,
+        "text": " Through the middle, one well-timed movement"
+      },
+      {
+        "start": 37.0,
+        "end": 39.800000000000004,
+        "text": " can put him on the other side of the entire line."
+      },
+      {
+        "start": 39.800000000000004,
+        "end": 42.760000000000005,
+        "text": " Flick has not discovered that Raffina is a good footballer."
+      },
+      {
+        "start": 42.760000000000005,
+        "end": 43.760000000000005,
+        "text": " We already knew that."
+      },
+      {
+        "start": 43.760000000000005,
+        "end": 46.0,
+        "text": " He is changing where those qualities hurt you."
+      },
+      {
+        "start": 46.0,
+        "end": 47.660000000000004,
+        "text": " And that distinction matters."
+      },
+      {
+        "start": 47.660000000000004,
+        "end": 49.7,
+        "text": " This is a mobile central forward,"
+      },
+      {
+        "start": 49.7,
+        "end": 52.0,
+        "text": " not a tactical label that explains itself."
+      },
+      {
+        "start": 52.0,
+        "end": 54.400000000000006,
+        "text": " Watch what he does after taking up the position."
+      }
+    ]
+  },
+  {
+    "file": "04_dilemma_raw.wav",
+    "transcript": "Imagine you are the center back, Rafina comes short, follow him and you may open a channel behind you, hold your position and he may receive with enough room to connect the attack. Neither decision is automatically wrong. The problem is making it while other players are moving around you. Now put Lamine Yamal on the right. If your team sends another defender towards him, an inside space can open. Rafina can attack that space before the defense reconnects. If you protect the middle instead, Yamal gets more freedom to choose the delivery. Barcelona do not need the same pass every time. Pedri can find the run from midfield. Yamal can release it from the flank. A combination can change the angle just as the defender thinks he has closed the lane. That is why the partnership matters more than the formation on the team sheet. The runner needs someone who sees him. The passer needs someone who moves before the opening becomes obvious. When those two decisions happen together, a tiny gap becomes a clear chance. Earlier in September, Alejandro Moreno had already spotted the same problem.",
+    "differences": [
+      {
+        "operation": "replace",
+        "expected": "centre",
+        "heard": "center"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "defence",
+        "heard": "defense"
+      }
+    ],
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 9.0,
+        "text": " Imagine you are the center back, Rafina comes short, follow him and you may open a channel behind you, hold your position and he may receive with enough room to connect the attack."
+      },
+      {
+        "start": 9.0,
+        "end": 15.0,
+        "text": " Neither decision is automatically wrong. The problem is making it while other players are moving around you."
+      },
+      {
+        "start": 15.0,
+        "end": 21.0,
+        "text": " Now put Lamine Yamal on the right. If your team sends another defender towards him, an inside space can open."
+      },
+      {
+        "start": 21.0,
+        "end": 29.0,
+        "text": " Rafina can attack that space before the defense reconnects. If you protect the middle instead, Yamal gets more freedom to choose the delivery."
+      },
+      {
+        "start": 29.0,
+        "end": 35.0,
+        "text": " Barcelona do not need the same pass every time. Pedri can find the run from midfield. Yamal can release it from the flank."
+      },
+      {
+        "start": 35.0,
+        "end": 40.0,
+        "text": " A combination can change the angle just as the defender thinks he has closed the lane."
+      },
+      {
+        "start": 40.0,
+        "end": 45.0,
+        "text": " That is why the partnership matters more than the formation on the team sheet. The runner needs someone who sees him."
+      },
+      {
+        "start": 45.0,
+        "end": 49.0,
+        "text": " The passer needs someone who moves before the opening becomes obvious."
+      },
+      {
+        "start": 49.0,
+        "end": 54.0,
+        "text": " When those two decisions happen together, a tiny gap becomes a clear chance."
+      },
+      {
+        "start": 54.0,
+        "end": 59.0,
+        "text": " Earlier in September, Alejandro Moreno had already spotted the same problem."
+      }
+    ]
+  },
+  {
+    "file": "06_sevilla_raw.wav",
+    "transcript": "Sevilla gave us the clearest demonstration, and it started with Barcelona in trouble. The home side scored first. Their pressure disrupted Barcelona, and the opening half was a contest. Then Rafina answered from inside the penalty area. Kristensen found him, he escaped his marker with a clever turn, and finished. That is one version of the central role. Receive under pressure and create the shooting angle yourself. After the break came a different answer. Jamal delivered, and Rafina got to the cross ahead of the defender to head Barcelona in front. This time, the decisive skill was arriving at the destination first. For the third, the attack moved through Rodri to Jamal. Rafina ran beyond, received the through ball, and lifted the finish. Receive and turn, attack the delivery, run behind. It is tempting to describe all three as simply putting a winger up front. But that misses the variety. The defender has to solve a different problem each time, and Rafina does not need to dominate every second of the match to decide it. He needs to recognize the seconds that matter.",
+    "differences": [
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "christensen",
+        "heard": "kristensen"
+      },
+      {
+        "operation": "replace",
+        "expected": "yamal",
+        "heard": "jamal"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "yamal raphinha",
+        "heard": "jamal rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "recognise",
+        "heard": "recognize"
+      }
+    ],
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 4.72,
+        "text": " Sevilla gave us the clearest demonstration, and it started with Barcelona in trouble."
+      },
+      {
+        "start": 4.72,
+        "end": 6.48,
+        "text": " The home side scored first."
+      },
+      {
+        "start": 6.48,
+        "end": 10.48,
+        "text": " Their pressure disrupted Barcelona, and the opening half was a contest."
+      },
+      {
+        "start": 10.48,
+        "end": 13.72,
+        "text": " Then Rafina answered from inside the penalty area."
+      },
+      {
+        "start": 13.72,
+        "end": 18.36,
+        "text": " Kristensen found him, he escaped his marker with a clever turn, and finished."
+      },
+      {
+        "start": 18.36,
+        "end": 20.88,
+        "text": " That is one version of the central role."
+      },
+      {
+        "start": 20.88,
+        "end": 24.6,
+        "text": " Receive under pressure and create the shooting angle yourself."
+      },
+      {
+        "start": 24.6,
+        "end": 26.76,
+        "text": " After the break came a different answer."
+      },
+      {
+        "start": 26.76,
+        "end": 31.720000000000002,
+        "text": " Jamal delivered, and Rafina got to the cross ahead of the defender to head Barcelona in"
+      },
+      {
+        "start": 31.720000000000002,
+        "end": 32.72,
+        "text": " front."
+      },
+      {
+        "start": 32.72,
+        "end": 36.84,
+        "text": " This time, the decisive skill was arriving at the destination first."
+      },
+      {
+        "start": 36.84,
+        "end": 40.56,
+        "text": " For the third, the attack moved through Rodri to Jamal."
+      },
+      {
+        "start": 40.56,
+        "end": 45.6,
+        "text": " Rafina ran beyond, received the through ball, and lifted the finish."
+      },
+      {
+        "start": 45.6,
+        "end": 49.400000000000006,
+        "text": " Receive and turn, attack the delivery, run behind."
+      },
+      {
+        "start": 49.400000000000006,
+        "end": 53.480000000000004,
+        "text": " It is tempting to describe all three as simply putting a winger up front."
+      },
+      {
+        "start": 53.480000000000004,
+        "end": 55.32000000000001,
+        "text": " But that misses the variety."
+      },
+      {
+        "start": 55.32,
+        "end": 59.88,
+        "text": " The defender has to solve a different problem each time, and Rafina does not need to dominate"
+      },
+      {
+        "start": 59.88,
+        "end": 62.36,
+        "text": " every second of the match to decide it."
+      },
+      {
+        "start": 62.36,
+        "end": 64.44,
+        "text": " He needs to recognize the seconds that matter."
+      }
+    ]
+  },
+  {
+    "file": "07_league_raw.wav",
+    "transcript": "After that win, Barcelona had taken all 21 available league points, 31 goals in seven games. Rafina had 12 of them. That is an extraordinary start, but the total needs context. Three of his league goals were penalties. A scoring rate like this should not be stretched across an entire season and treated as a promise. The stronger argument is the range of chances this role can produce. You can have an average finishing day and still make the same intelligent run. You can miss one delivery and attack the next. That is the part opponents have to prepare for. And for Real Madrid, the challenge has two sides. Keep collecting points because Barcelona are setting a fierce pace. Then find a way to defend the runner without releasing the players supplying him. Madrid had won five of their opening six league games. So this is not a race we can declare finished. It is pressure. Every Barcelona win makes the next dropped point more expensive. Every different route to Rafina makes the defensive preparation more complicated. And earlier this month, Hercules Gomez put the challenge for the rest of the league in blunt terms.",
+    "differences": [
+      {
+        "operation": "replace",
+        "expected": "twenty one",
+        "heard": "21"
+      },
+      {
+        "operation": "replace",
+        "expected": "thirty one",
+        "heard": "31"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "twelve",
+        "heard": "12"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "herculez",
+        "heard": "hercules"
+      }
+    ],
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.96,
+        "text": " After that win, Barcelona had taken"
+      },
+      {
+        "start": 1.96,
+        "end": 6.24,
+        "text": " all 21 available league points, 31 goals in seven games."
+      },
+      {
+        "start": 6.24,
+        "end": 8.22,
+        "text": " Rafina had 12 of them."
+      },
+      {
+        "start": 8.22,
+        "end": 9.76,
+        "text": " That is an extraordinary start,"
+      },
+      {
+        "start": 9.76,
+        "end": 11.44,
+        "text": " but the total needs context."
+      },
+      {
+        "start": 11.44,
+        "end": 13.6,
+        "text": " Three of his league goals were penalties."
+      },
+      {
+        "start": 13.6,
+        "end": 16.0,
+        "text": " A scoring rate like this should not be stretched"
+      },
+      {
+        "start": 16.0,
+        "end": 19.16,
+        "text": " across an entire season and treated as a promise."
+      },
+      {
+        "start": 19.16,
+        "end": 21.32,
+        "text": " The stronger argument is the range"
+      },
+      {
+        "start": 21.32,
+        "end": 23.48,
+        "text": " of chances this role can produce."
+      },
+      {
+        "start": 23.48,
+        "end": 25.28,
+        "text": " You can have an average finishing day"
+      },
+      {
+        "start": 25.28,
+        "end": 28.060000000000002,
+        "text": " and still make the same intelligent run."
+      },
+      {
+        "start": 28.060000000000002,
+        "end": 30.800000000000004,
+        "text": " You can miss one delivery and attack the next."
+      },
+      {
+        "start": 30.800000000000004,
+        "end": 33.1,
+        "text": " That is the part opponents have to prepare for."
+      },
+      {
+        "start": 33.1,
+        "end": 35.940000000000005,
+        "text": " And for Real Madrid, the challenge has two sides."
+      },
+      {
+        "start": 35.940000000000005,
+        "end": 38.02,
+        "text": " Keep collecting points because Barcelona"
+      },
+      {
+        "start": 38.02,
+        "end": 39.46,
+        "text": " are setting a fierce pace."
+      },
+      {
+        "start": 39.46,
+        "end": 40.82,
+        "text": " Then find a way to defend the runner"
+      },
+      {
+        "start": 40.82,
+        "end": 42.800000000000004,
+        "text": " without releasing the players supplying him."
+      },
+      {
+        "start": 42.800000000000004,
+        "end": 45.980000000000004,
+        "text": " Madrid had won five of their opening six league games."
+      },
+      {
+        "start": 45.980000000000004,
+        "end": 48.36,
+        "text": " So this is not a race we can declare finished."
+      },
+      {
+        "start": 48.36,
+        "end": 49.38,
+        "text": " It is pressure."
+      },
+      {
+        "start": 49.38,
+        "end": 51.260000000000005,
+        "text": " Every Barcelona win makes the next"
+      },
+      {
+        "start": 51.260000000000005,
+        "end": 52.82000000000001,
+        "text": " dropped point more expensive."
+      },
+      {
+        "start": 52.82000000000001,
+        "end": 54.52,
+        "text": " Every different route to Rafina makes"
+      },
+      {
+        "start": 54.52,
+        "end": 56.86,
+        "text": " the defensive preparation more complicated."
+      },
+      {
+        "start": 56.86,
+        "end": 59.86,
+        "text": " And earlier this month, Hercules Gomez put the challenge"
+      },
+      {
+        "start": 59.86,
+        "end": 62.14,
+        "text": " for the rest of the league in blunt terms."
+      }
+    ]
+  },
+  {
+    "file": "09_limits_payoff_raw.wav",
+    "transcript": "There are answers. Keep the distances between midfield and defense tight. Pressure the passer before the run starts. Pass runners between defenders instead of chasing them blindly. And when Barcelona commit players forward, use the space they leave on a turnover. Sevilla's first half showed that this team can be disrupted. The experiment still has to survive fatigue, tighter opponents, and days when the finishing stops looking effortless. But that is what makes it worth watching. Rafina is giving Barcelona more ways to punish the same defensive hesitation. Whether this breaks La Liga will be decided over the season. Right now, though, Flick has put an exceptional mover where one step can change a match. So when the next center back checks over his shoulder, the question is simple. Does he follow Rafina or protect the space Rafina is about to attack?",
+    "differences": [
+      {
+        "operation": "replace",
+        "expected": "defence",
+        "heard": "defense"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "centre",
+        "heard": "center"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      },
+      {
+        "operation": "replace",
+        "expected": "raphinha",
+        "heard": "rafina"
+      }
+    ],
+    "segments": [
+      {
+        "start": 0.0,
+        "end": 1.2,
+        "text": " There are answers."
+      },
+      {
+        "start": 1.2,
+        "end": 4.64,
+        "text": " Keep the distances between midfield and defense tight."
+      },
+      {
+        "start": 4.64,
+        "end": 7.6000000000000005,
+        "text": " Pressure the passer before the run starts."
+      },
+      {
+        "start": 7.6000000000000005,
+        "end": 9.28,
+        "text": " Pass runners between defenders"
+      },
+      {
+        "start": 9.28,
+        "end": 11.36,
+        "text": " instead of chasing them blindly."
+      },
+      {
+        "start": 11.36,
+        "end": 13.74,
+        "text": " And when Barcelona commit players forward,"
+      },
+      {
+        "start": 13.74,
+        "end": 16.2,
+        "text": " use the space they leave on a turnover."
+      },
+      {
+        "start": 16.2,
+        "end": 17.68,
+        "text": " Sevilla's first half showed"
+      },
+      {
+        "start": 17.68,
+        "end": 19.66,
+        "text": " that this team can be disrupted."
+      },
+      {
+        "start": 19.66,
+        "end": 21.96,
+        "text": " The experiment still has to survive fatigue,"
+      },
+      {
+        "start": 21.96,
+        "end": 24.560000000000002,
+        "text": " tighter opponents, and days when the finishing stops"
+      },
+      {
+        "start": 24.560000000000002,
+        "end": 26.18,
+        "text": " looking effortless."
+      },
+      {
+        "start": 26.18,
+        "end": 28.86,
+        "text": " But that is what makes it worth watching."
+      },
+      {
+        "start": 28.9,
+        "end": 31.46,
+        "text": " Rafina is giving Barcelona more ways"
+      },
+      {
+        "start": 31.46,
+        "end": 34.04,
+        "text": " to punish the same defensive hesitation."
+      },
+      {
+        "start": 34.04,
+        "end": 37.4,
+        "text": " Whether this breaks La Liga will be decided over the season."
+      },
+      {
+        "start": 37.4,
+        "end": 40.86,
+        "text": " Right now, though, Flick has put an exceptional mover"
+      },
+      {
+        "start": 40.86,
+        "end": 43.22,
+        "text": " where one step can change a match."
+      },
+      {
+        "start": 43.22,
+        "end": 45.3,
+        "text": " So when the next center back checks over his shoulder,"
+      },
+      {
+        "start": 45.3,
+        "end": 46.7,
+        "text": " the question is simple."
+      },
+      {
+        "start": 46.7,
+        "end": 48.1,
+        "text": " Does he follow Rafina"
+      },
+      {
+        "start": 48.1,
+        "end": 50.86,
+        "text": " or protect the space Rafina is about to attack?"
+      }
+    ]
+  }
+]

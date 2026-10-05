@@ -1,0 +1,30 @@
+{
+  "video": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\barcelona-are-more-dangerous-than-you-think\\final video\\barcelona-user-edited.mp4",
+  "thumbnail_jpeg": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\barcelona-are-more-dangerous-than-you-think\\final video\\thumbnail\\user_upscaled.jpg",
+  "thumbnail_bytes": 1493636,
+  "upload_command": [
+    "C:\\Users\\Wendy\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "C:\\Users\\Wendy\\Documents\\Football Channel\\work\\youtube_oauth_tool.py",
+    "upload",
+    "--file",
+    "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\barcelona-are-more-dangerous-than-you-think\\final video\\barcelona-user-edited.mp4",
+    "--title",
+    "Barcelona are more dangerous than you think..",
+    "--description",
+    "Barcelona are more dangerous than you think..\n\nAn original analysis of Barcelona's opening seven competitive matches of 2026/27, through the Racing game on 16 September 2026. Researched 19 September.\n\nSources and full research dossier are supplied with the local project.\nNarration: ElevenLabs Liam. No captions.",
+    "--privacy",
+    "private",
+    "--category",
+    "17",
+    "--tags",
+    "football",
+    "football analysis",
+    "soccer"
+  ],
+  "privacy": "private",
+  "next_steps": [
+    "Run the upload only after reviewing every QC frame and VO check file.",
+    "Set the returned video ID thumbnail with youtube_oauth_tool.py thumbnail.",
+    "Review the YouTube copyright screen before changing privacy to public."
+  ]
+}

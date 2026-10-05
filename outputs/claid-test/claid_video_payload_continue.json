@@ -1,0 +1,9 @@
+﻿{
+    "input":  "https://drive.google.com/uc?export=download\u0026id=1odKlDVSTRd5ztxX_wGoARM9LhvZwr8Ju",
+    "options":  {
+                    "duration":  5,
+                    "guidance_scale":  0.55,
+                    "prompt":  "Continue the exact scene from this frame. Start with the same framing and pose, then slowly zoom the camera out over 5 seconds while keeping the subject centered. Maintain realistic studio lighting and preserve the exact face, glasses, hair, shirt design, text, fabric, colors, body proportions, and background. Near the final second, have the subject turn very slightly to their left in a natural subtle pose shift, with no change to the shirt graphic or lettering.",
+                    "negative_prompt":  "blur, distortion, warped face, warped glasses, changing shirt text, changing graphic, extra limbs, extra fingers, low quality, flicker, jitter, morphing, deformed body, deformed clothing, changing identity, new background objects"
+                }
+}

@@ -1,0 +1,252 @@
+[
+ {
+  "type": "quote",
+  "name": "q_open",
+  "clip": "62zh2Vb5AZg",
+  "from": "So nobody can compete",
+  "to": "not possible, not possible",
+  "card": "Jürgen Klopp · October 2022"
+ },
+ {
+  "type": "vo",
+  "name": "cold_open",
+  "text": "On the twenty-ninth of September, an independent commission found Manchester City guilty of using sham sponsorship deals to inflate their finances by more than nine hundred million pounds. But there was another finding. From December twenty eighteen, while the Premier League tried to investigate, the commission said City made concerted efforts to stop and frustrate it. December twenty eighteen. Liverpool were top of the league. And for the next four years, the man trying to beat City kept telling us the same thing."
+ },
+ {
+  "type": "vo",
+  "name": "dortmund",
+  "text": "Jürgen Klopp built his career beating money with ideas. At Borussia Dortmund, he won two league titles against Bayern Munich, a club that could outspend him every single summer. When he arrived at Liverpool in October twenty fifteen, that was the plan again. Build a team. Develop players. Spend what you earn. By twenty eighteen, it was working. Liverpool reached a Champions League final, and in the league, only one team stood in their way."
+ },
+ {
+  "type": "vo",
+  "name": "ninety_seven",
+  "text": "The twenty eighteen nineteen season was the greatest title race the Premier League had seen. Liverpool lost one game all season. They finished with ninety-seven points. City finished with ninety-eight."
+ },
+ {
+  "type": "quote",
+  "name": "q_97",
+  "clip": "uh9mCg8qPKg",
+  "from": "97 points is incredible",
+  "to": "easily enough",
+  "card": "Jürgen Klopp · May 2019"
+ },
+ {
+  "type": "vo",
+  "name": "pep_2019",
+  "text": "Three months later, Klopp said Liverpool were not in a position to keep spending like some other clubs. Pep Guardiola was asked about it."
+ },
+ {
+  "type": "quote",
+  "name": "q_pep_bother",
+  "clip": "oxFG8jM4Bug",
+  "from": "Of course you bother me",
+  "to": "That is not true",
+  "card": "Pep Guardiola · August 2019"
+ },
+ {
+  "type": "quote",
+  "name": "q_pep_punished",
+  "clip": "oxFG8jM4Bug",
+  "from": "that's why the financial",
+  "to": "will be punished",
+  "card": null,
+  "fix": {
+   "for": "fair"
+  }
+ },
+ {
+  "type": "vo",
+  "name": "pep_2019_b",
+  "text": "When something is wrong, the club will be punished. Remember that line."
+ },
+ {
+  "type": "vo",
+  "name": "ban",
+  "text": "Liverpool won the league the following season, by eighteen points. But in February twenty twenty, UEFA banned Manchester City from the Champions League for two seasons for breaking financial fair play rules. Klopp's first reaction was not to celebrate."
+ },
+ {
+  "type": "quote",
+  "name": "q_feel_pep",
+  "clip": "AFxTfoxe410",
+  "from": "I feel for Pep",
+  "to": "sensational football",
+  "card": "Jürgen Klopp · February 2020"
+ },
+ {
+  "type": "quote",
+  "name": "q_rules",
+  "clip": "AFxTfoxe410",
+  "from": "but then in the end",
+  "to": "if they did or not",
+  "card": null
+ },
+ {
+  "type": "vo",
+  "name": "cas",
+  "text": "Five months later, the Court of Arbitration for Sport overturned the ban. Some allegations were not proven. Others were too old to judge. Klopp was asked about it the next day."
+ },
+ {
+  "type": "quote",
+  "name": "q_cas",
+  "clip": "F6mP5r32HK8",
+  "from": "I don't think it was a good day",
+  "to": "protecting the competition",
+  "card": "Jürgen Klopp · July 2020"
+ },
+ {
+  "type": "quote",
+  "name": "q_germany",
+  "clip": "F6mP5r32HK8",
+  "from": "I come from Germany",
+  "to": "owner based system",
+  "card": null
+ },
+ {
+  "type": "quote",
+  "name": "q_money",
+  "clip": "F6mP5r32HK8",
+  "from": "It's just clear where you get",
+  "to": "where you get the money from",
+  "card": null
+ },
+ {
+  "type": "vo",
+  "name": "surprised",
+  "text": "Where you get the money from. A year later, City had just paid a British record fee for Jack Grealish. Klopp was asked if their spending surprised him."
+ },
+ {
+  "type": "quote",
+  "name": "q_surprised",
+  "clip": "jPAPgMJH36c",
+  "from": "I'm never surprised",
+  "to": "these kinds of things",
+  "card": "Jürgen Klopp · August 2021"
+ },
+ {
+  "type": "vo",
+  "name": "ninety_two",
+  "text": "Twenty twenty-two. Another title race, decided on the final day. Liverpool ninety-two points. City ninety-three. One point. Again."
+ },
+ {
+  "type": "quote",
+  "name": "q_win_big",
+  "clip": "IXux9uW0Zzk",
+  "from": "If you want to win big",
+  "to": "to lose big",
+  "card": "Jürgen Klopp · May 2022"
+ },
+ {
+  "type": "quote",
+  "name": "q_wire",
+  "clip": "IXux9uW0Zzk",
+  "from": "we chased probably",
+  "to": "really to the wire",
+  "card": null
+ },
+ {
+  "type": "vo",
+  "name": "haaland",
+  "text": "That summer, City signed Erling Haaland. In October, before Liverpool played them, Klopp was asked about it. This is the press conference that opened this video, and this is how it ended."
+ },
+ {
+  "type": "quote",
+  "name": "q_three",
+  "clip": "62zh2Vb5AZg",
+  "from": "There are three clubs",
+  "to": "they can do what they want",
+  "card": "Jürgen Klopp · October 2022",
+  "fix": {
+   "illegal": "legal"
+  }
+ },
+ {
+  "type": "vo",
+  "name": "legal",
+  "text": "Notice what he said. It's legal and everything is fine. Klopp never accused City of cheating. He just kept saying that the money was different. Four months later, the Premier League charged City with a hundred and fifteen breaches of its rules. Pep Guardiola came out fighting."
+ },
+ {
+  "type": "quote",
+  "name": "q_condemned",
+  "clip": "4F7psFr__rk",
+  "from": "we are already being condemned",
+  "to": "happened in the WEFA",
+  "card": "Pep Guardiola · February 2023",
+  "fix": {
+   "wefa": "UEFA",
+   "WEFA": "UEFA",
+   "WEFA.": "UEFA."
+  }
+ },
+ {
+  "type": "vo",
+  "name": "silent",
+  "text": "And Klopp, the man who had complained about City's money for years? When the charges landed, he was asked about them. This was his answer."
+ },
+ {
+  "type": "quote",
+  "name": "q_nocomment",
+  "clip": "vht4LI9yXw",
+  "from": "I've absolutely nothing to say",
+  "to": "nothing to say about it",
+  "card": "Jürgen Klopp · February 2023"
+ },
+ {
+  "type": "vo",
+  "name": "beer",
+  "text": "Klopp left Liverpool in twenty twenty-four. In January twenty twenty-five, he was asked what he would do if City were found guilty and Liverpool were handed a title."
+ },
+ {
+  "type": "quote",
+  "name": "q_beer",
+  "clip": "rxxnEI9zKh8",
+  "from": "I told all the people",
+  "to": "parade in my garden",
+  "card": "Jürgen Klopp · January 2025"
+ },
+ {
+  "type": "vo",
+  "name": "verdict",
+  "text": "On the twenty-ninth of September, twenty twenty-six, the commission delivered its verdict. Guilty on almost all of the charges. Sham contracts with commercial partners. More than nine hundred million pounds. And three of the four charges of failing to cooperate, upheld. By then, Klopp was the head coach of Germany. He was asked about it at a press conference."
+ },
+ {
+  "type": "quote",
+  "name": "q_de1",
+  "clip": "96tsDiDPot0",
+  "start": 27.6,
+  "end": 38.3,
+  "card": "Jürgen Klopp · 30 September 2026 · in German",
+  "nocap": true
+ },
+ {
+  "type": "quote",
+  "name": "q_de2",
+  "clip": "96tsDiDPot0",
+  "start": 77.6,
+  "end": 89.6,
+  "card": null,
+  "nocap": true
+ },
+ {
+  "type": "vo",
+  "name": "fair",
+  "text": "And to be fair, the financial breaches the commission found ran from two thousand and nine to twenty eighteen, before Klopp's two title races with City. City deny all wrongdoing, and they have already lodged an appeal. The punishment has not been decided. Klopp does not want a trophy from a courtroom. He never asked for one."
+ },
+ {
+  "type": "vo",
+  "name": "ending",
+  "text": "What he did, for years, was describe the problem. Out loud. To anyone who asked. City's money was different. The competition was not the same. Someone should check where the money comes from. He was told it was an excuse. That he was bitter. That Liverpool should just spend more. Now, a commission has looked at where City's money came from."
+ },
+ {
+  "type": "quote",
+  "name": "q_end",
+  "clip": "62zh2Vb5AZg",
+  "from": "We cannot act like them",
+  "to": "not possible, not possible",
+  "card": null
+ },
+ {
+  "type": "vo",
+  "name": "outro",
+  "text": "Jürgen Klopp was right."
+ }
+]

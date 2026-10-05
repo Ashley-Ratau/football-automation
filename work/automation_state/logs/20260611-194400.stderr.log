@@ -1,0 +1,32 @@
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[concat @ 000002af03a12840] Impossible to open 'C:/Users/Wendy/Documents/Football Channel/Video 018 - FIFA World Cup 2026 Stats and records from the mens'
+[in#0 @ 000002af03a12440] Error opening input: No such file or directory
+Error opening input file C:\Users\Wendy\Documents\Football Channel\Video 018 - FIFA World Cup 2026 Stats and records from the men's footbal\assets\voiceover\elevenlabs\concat_list.txt.
+Error opening input files: No such file or directory
+ERROR: Command '['C:\\Users\\Wendy\\AppData\\Roaming\\Python\\Python312\\site-packages\\imageio_ffmpeg\\binaries\\ffmpeg-win-x86_64-v7.1.exe', '-y', '-f', 'concat', '-safe', '0', '-i', "C:\\Users\\Wendy\\Documents\\Football Channel\\Video 018 - FIFA World Cup 2026 Stats and records from the men's footbal\\assets\\voiceover\\elevenlabs\\concat_list.txt", '-c', 'copy', "C:\\Users\\Wendy\\Documents\\Football Channel\\Video 018 - FIFA World Cup 2026 Stats and records from the men's footbal\\assets\\voiceover\\elevenlabs\\voiceover_elevenlabs_full.mp3"]' returned non-zero exit status 4294967294.
+Traceback (most recent call last):
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1329, in <module>
+    main()
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1322, in main
+    summary = run_once(privacy=args.privacy)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1272, in run_once
+    generate_voiceover(project, voice_id or None)
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1022, in generate_voiceover
+    run(cmd)
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 148, in run
+    return subprocess.run(
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\Wendy\.cache\codex-runtimes\codex-primary-runtime\dependencies\python\Lib\subprocess.py", line 571, in run
+    raise CalledProcessError(retcode, process.args,
+subprocess.CalledProcessError: Command '['C:\\Users\\Wendy\\.cache\\codex-runtimes\\codex-primary-runtime\\dependencies\\python\\python.exe', 'C:\\Users\\Wendy\\Documents\\Football Channel\\work\\generate_elevenlabs_voiceover.py', 'generate', '--project', "C:\\Users\\Wendy\\Documents\\Football Channel\\Video 018 - FIFA World Cup 2026 Stats and records from the men's footbal", '--voice-id', 'bu5eKETbFKC8G702EAU4', '--split-paragraphs']' returned non-zero exit status 1.

@@ -1,0 +1,14 @@
+[0:v]trim=start=0:end=139.73,setpts=PTS-STARTPTS[v0];[0:a]atrim=start=0:end=139.73,asetpts=PTS-STARTPTS[a0];
+[0:v]trim=start=155.73:end=237.75,setpts=PTS-STARTPTS[v1];[0:a]atrim=start=155.73:end=237.75,asetpts=PTS-STARTPTS[a1];
+[0:v]trim=start=252.75,setpts=PTS-STARTPTS[v2];[0:a]atrim=start=252.75,asetpts=PTS-STARTPTS[a2];
+[v0][a0][v1][a1][v2][a2]concat=n=3:v=1:a=1[cutv][a];
+[cutv]hflip=enable='between(t,12,18)+between(t,68,74)+between(t,112,118)+between(t,149,155)+between(t,189,195)+between(t,229,235)+between(t,274,280)',split=3[base][tl][tr];
+[tl]crop=320:180:0:0,boxblur=14:9[tlb];[tr]crop=320:180:1600:0,boxblur=14:9[trb];
+[base][tlb]overlay=0:0:enable='between(t,0,35.3)+between(t,59.54,308.2)'[b1];
+[b1][trb]overlay=1600:0:enable='between(t,0,35.3)+between(t,59.54,308.2)',
+drawtext=fontfile='C\:/Windows/Fonts/arialbd.ttf':text='THE RESCUE WAS REAL':fontsize=54:fontcolor=white:borderw=4:bordercolor=black:x=(w-text_w)/2:y=h-130:enable='between(t,59.54,62.3)',
+drawtext=fontfile='C\:/Windows/Fonts/arialbd.ttf':text='WHERE IT BREAKS':fontsize=54:fontcolor=white:borderw=4:bordercolor=black:x=(w-text_w)/2:y=h-130:enable='between(t,101.75,104.5)',
+drawtext=fontfile='C\:/Windows/Fonts/arialbd.ttf':text='FOUR TESTS FAILED':fontsize=54:fontcolor=white:borderw=4:bordercolor=black:x=(w-text_w)/2:y=h-130:enable='between(t,139.73,142.5)',
+drawtext=fontfile='C\:/Windows/Fonts/arialbd.ttf':text='NO PERFECT SHAPE':fontsize=54:fontcolor=white:borderw=4:bordercolor=black:x=(w-text_w)/2:y=h-130:enable='between(t,179.88,182.6)',
+drawtext=fontfile='C\:/Windows/Fonts/arialbd.ttf':text='THE CLUB OWNS THIS':fontsize=54:fontcolor=white:borderw=4:bordercolor=black:x=(w-text_w)/2:y=h-130:enable='between(t,221.75,224.5)',
+drawtext=fontfile='C\:/Windows/Fonts/arialbd.ttf':text='CLARITY IS NOT IDENTITY':fontsize=54:fontcolor=white:borderw=4:bordercolor=black:x=(w-text_w)/2:y=h-130:enable='between(t,262.05,264.8)'[v]

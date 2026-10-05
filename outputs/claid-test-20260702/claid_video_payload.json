@@ -1,0 +1,9 @@
+﻿{
+    "input":  "https://drive.google.com/uc?export=download\u0026id=1zhotYwL2EZVUBan7ZxtiqSWCtKbqACN_",
+    "options":  {
+                    "duration":  5,
+                    "guidance_scale":  0.35,
+                    "prompt":  "Create a realistic 5-second fashion photoshoot animation from this exact studio image. Preserve the same two models, their faces, skin tones, hairstyles, smiles, body proportions, poses, matching patterned cardigans, red trim, maroon trousers, shoes, and plain gray studio background. Use a slow premium camera push-in with a very gentle parallax shift and subtle studio light movement. Add only natural micro-movements such as slight breathing, tiny posture settling, and realistic fabric texture movement. Keep both people centered and recognizable. The motion should feel like a high-end clothing brand ad, polished and minimal.",
+                    "negative_prompt":  "different people, changed faces, changed gender, changed age, changed clothing, changed cardigan pattern, changed text, warped hands, extra fingers, extra limbs, distorted bodies, distorted faces, morphing, flicker, jitter, blur, low quality, new background, new objects, cropped heads, cropped feet"
+                }
+}

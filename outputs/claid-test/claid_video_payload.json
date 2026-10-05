@@ -1,0 +1,12 @@
+﻿{
+    "input":  "https://drive.google.com/uc?export=download\u0026id=1bdZokiK6OvQB0MgM1VFTPZ64z7jIsMy4",
+    "options":  {
+                    "duration":  5,
+                    "guidance_scale":  0.5,
+                    "prompt":  {
+                                   "generate":  true,
+                                   "guidelines":  "Create a realistic 5-second product photoshoot animation. Use a slow cinematic camera push-in with a very gentle left-to-right orbit and subtle studio light movement. Keep the product centered, preserve the exact product shape, packaging, labels, texture, shadows, and proportions. Make the motion premium and minimal, suitable for an ecommerce product ad."
+                               },
+                    "negative_prompt":  "blur, distortion, warped product, changing labels, changing logo, extra objects, low quality, flicker, jitter, melting, morphing, deformed packaging"
+                }
+}

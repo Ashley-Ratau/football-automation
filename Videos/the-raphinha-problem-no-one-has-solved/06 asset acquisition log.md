@@ -1,0 +1,3 @@
+# Asset acquisition log
+
+20 Sep 2026: yt-dlp fetched official FC Barcelona Sevilla highlight d43_hiFvuGs and CBS Sports Golazo ZHpl1ctjX4Y at format 18, with audio and H.264. Captions for CBS downloaded to _tmp/cbs_ZHpl1ctjX4Y.en.vtt and exact studio times marked in research dossier. Supporting b-roll, music and tactical animations copied from prior local Barcelona project. Thumbnail generated with built-in imagegen from prior thumbnail as layout reference; final asset saved to assets/thumbnail/thumbnail_primary.png. All files remain local. The prior image is a style reference, not a claim that the exact pictured kit was worn in Sevilla.

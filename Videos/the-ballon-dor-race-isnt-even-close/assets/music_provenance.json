@@ -1,0 +1,16 @@
+{
+  "provider": "ElevenLabs Music + Sound Effects",
+  "music": {
+    "music_tension": "Instrumental cinematic underscore for a football debate video, cold open. 90 BPM. Ticking muted percussion, low sub pulse, dark suspenseful synth drones, sparse piano stabs, building tension, room for a male narrator. No vocals, no crowd. Original composition.",
+    "music_case": "Instrumental confident hip-hop influenced football documentary underscore. 96 BPM. Punchy restrained drums, warm deep bass, modern Spanish guitar flourishes, dark synth pads, driving and assertive, room for a narrator. No vocals, no crowd. Original composition.",
+    "music_verdict": "Instrumental triumphant cinematic finale for a football analysis video. 100 BPM. Rising strings, big but restrained percussion, warm brass swells, emotional and victorious, room for a narrator, clean resolved ending. No vocals, no crowd. Original composition."
+  },
+  "sfx": {
+    "hit": "Deep cinematic impact boom hit, short, punchy, for a stat appearing on screen",
+    "whoosh": "Fast clean cinematic whoosh transition, short",
+    "riser": "Short tense cinematic riser building for two seconds, ending abruptly",
+    "stamp": "Heavy rubber stamp slamming on paper desk, single hit, crisp",
+    "tick": "Single clean mechanical ticker counter click",
+    "crowd": "Distant football stadium crowd roar swelling then fading"
+  }
+}

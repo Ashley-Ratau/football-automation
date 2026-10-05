@@ -1,0 +1,235 @@
+{
+  "schema_version": 1,
+  "title": "Klopp Warned Us About Manchester City",
+  "output_filename": "klopp-warned-us-about-manchester-city.mp4",
+  "thumbnail": "assets/thumbnail/thumbnail_primary.png",
+  "music_bed": "",
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice_speed": 1.15,
+    "voice_gain_db": 0,
+    "broll_clip_max_seconds": 600,
+    "insert_fade_seconds": 0.12,
+    "music_volume_db": -35.0,
+    "audio_rate": 44100,
+    "audio_channels": 2,
+    "min_duration_seconds": 280,
+    "max_duration_seconds": 600
+  },
+  "upload": {
+    "title": "Klopp Warned Us About Manchester City",
+    "description": "Jurgen Klopp challenged Manchester City on the pitch and questioned the financial system around the rivalry. This video follows his public warnings, the 2020 CAS decision, and the Premier League findings published on 29 September 2026. Manchester City disputes those findings and lodged an appeal on 1 October; sanctions remain a separate stage. Facts checked 3 October 2026.\n\nSources: Premier League, CAS, UEFA, Liverpool FC, Manchester City, ESPN and Associated Press. Original interview excerpts: This Is Anfield and ESPN UK. Full source links are included in the project research dossier.",
+    "tags": [
+      "Jurgen Klopp",
+      "Manchester City",
+      "Liverpool",
+      "football analysis",
+      "financial fair play"
+    ],
+    "category": "17",
+    "privacy": "private"
+  },
+  "captions": {
+    "enabled": false,
+    "fontname": "Arial Black",
+    "font_size": 72,
+    "primary_color": "&H0000E6FF",
+    "outline_color": "&H00000000",
+    "back_color": "&H96000000",
+    "outline": 8,
+    "shadow": 4,
+    "alignment": 2,
+    "margin_l": 60,
+    "margin_r": 60,
+    "margin_v": 110,
+    "group_size": 2
+  },
+  "sound_effects": [
+    {
+      "name": "first_stat",
+      "file": "assets/sfx/muted_impact.wav",
+      "duration_seconds": 0.55,
+      "anchor_section": "hook",
+      "offset_seconds": 0,
+      "volume_db": -7
+    },
+    {
+      "name": "case_shift",
+      "file": "assets/sfx/soft_transition.wav",
+      "duration_seconds": 0.8,
+      "anchor_section": "cas_setup",
+      "offset_seconds": 0,
+      "volume_db": -14
+    },
+    {
+      "name": "published_findings",
+      "file": "assets/sfx/muted_impact.wav",
+      "duration_seconds": 0.55,
+      "anchor_section": "findings",
+      "offset_seconds": 0,
+      "volume_db": -10
+    }
+  ],
+  "research_checks": {
+    "scoreline_verified": true,
+    "match_number_verified": true,
+    "records_verified": true,
+    "availability_verified": true,
+    "source_urls_recorded": true
+  },
+  "sections": [
+    {
+      "type": "insert",
+      "name": "cold_open",
+      "file": "assets/inserts/warning.mp4",
+      "start": 0,
+      "end": 2.95
+    },
+    {
+      "type": "vo",
+      "name": "hook",
+      "text": "Ninety-seven points. One league defeat. Second place. That was Liverpool in 2019. A season that sounds like a championship, until you look at the team above them. Manchester City finished one point ahead. Three years later, Klopp's Liverpool finished one point behind City again. Years later, Klopp put the problem into words. He could build a team to challenge Guardiola. He could admire the football. But he could not give Liverpool the same financial freedom. Now the Premier League has published findings against City, and those old comments deserve another look. But this story has a complication. The findings do not automatically give Klopp another title. And when asked about the latest developments, his reaction was much quieter than the celebration fans might have expected.",
+      "broll": [
+        {
+          "file": "assets/visuals/hook_padded.mp4",
+          "start": 0,
+          "duration": 37.865365
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "vo",
+      "name": "season",
+      "text": "Start with the numbers from 2019. Liverpool won thirty league games. They lost only once. City still finished above them. The point is not to pretend Liverpool did everything perfectly. Their one defeat was against City. The final table was decided on the pitch. But the standard demanded of Klopp's team helps explain why his later complaints carried so much weight with supporters. An ordinary improvement was not enough. A very good season was not enough. Liverpool had produced an extraordinary league campaign and still needed more. That is the emotional heart of this story. Financial regulations can sound abstract. For supporters, the argument becomes a season, a final afternoon, and a trophy they never got to lift.",
+      "broll": [
+        {
+          "file": "assets/visuals/season_padded.mp4",
+          "start": 0,
+          "duration": 35.165039
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "vo",
+      "name": "cas_setup",
+      "text": "In July 2020, City won their appeal against a two-year European ban. The Court of Arbitration for Sport overturned the ban, finding that most of the alleged breaches were not established or were time-barred. A fine remained for failing to cooperate. That distinction matters. This was a specific UEFA case, with its own evidence and rules. It was not the later Premier League decision. Klopp was asked for his reaction. He explained why financial rules mattered to competition, while also acknowledging the practical consequences of City returning to Europe.",
+      "broll": [
+        {
+          "file": "assets/visuals/cas_setup_padded.mp4",
+          "start": 0,
+          "duration": 29.032682
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "insert",
+      "name": "cas_interview",
+      "file": "assets/inserts/cas.mp4",
+      "start": 0,
+      "end": 9.13
+    },
+    {
+      "type": "vo",
+      "name": "cas_followup",
+      "text": "This warning did not come immediately after Liverpool lost the league. Liverpool were champions. Klopp was discussing what the rules were supposed to protect even when his own team was on top.",
+      "broll": [
+        {
+          "file": "assets/visuals/cas_followup_padded.mp4",
+          "start": 0,
+          "duration": 9.733333
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "vo",
+      "name": "money",
+      "text": "By August 2021, he was being asked about another summer of spending. Klopp contrasted Liverpool's approach with the financial resources of their rivals. Liverpool spent money too. A fair account of this rivalry has to acknowledge that. Klopp was not running a tiny club with no resources, and spending more does not itself establish a rule breach. His argument concerned the boundaries: what a club could spend, where that money came from, and whether the limits applied consistently. In October 2022, before facing City, he made the contrast particularly sharp. City could add Haaland to an already outstanding team. Liverpool could not simply copy that approach whenever a new problem appeared.",
+      "broll": [
+        {
+          "file": "assets/visuals/money_padded.mp4",
+          "start": 0,
+          "duration": 39.299674
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "insert",
+      "name": "financial_ceiling",
+      "file": "assets/inserts/ceiling.mp4",
+      "start": 0,
+      "end": 6.97
+    },
+    {
+      "type": "vo",
+      "name": "warning_meaning",
+      "text": "That is the warning our title refers to. Concern about the competitive system. It is not evidence that Klopp knew the details of undisclosed contracts or possessed the investigators' documents.",
+      "broll": [
+        {
+          "file": "assets/visuals/warning_meaning_padded.mp4",
+          "start": 0,
+          "duration": 11.4
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "vo",
+      "name": "respect",
+      "text": "There is another part of the footage we should keep. Klopp repeatedly respected Guardiola's football. In the same October 2022 period, Liverpool published his explanation of their relationship: two competitors could fight for the same trophies without losing respect for each other's ability. That makes this more interesting than a story of one manager hating another. Klopp could recognise City's quality and still question the financial conditions around the competition. Those positions can coexist. Brilliant coaching and brilliant players do not answer every question about a club's accounts. Equally, an investigation into accounts does not allow us to invent what a manager knew. The important comparison is between Klopp's concern about financial limits and the findings actually published. We do not need to manufacture personal hostility to make that comparison compelling.",
+      "broll": [
+        {
+          "file": "assets/visuals/respect_padded.mp4",
+          "start": 0,
+          "duration": 41.76569
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "vo",
+      "name": "parade",
+      "text": "After leaving Liverpool, Klopp was asked about the possibility of receiving titles retrospectively. At his January 2025 Red Bull appearance, he joked about a celebration at his Mallorca home. He said that if it happened, he would book a flight, buy the beer, and hold a parade in his garden. Supporters immediately understood the joke. They remembered how close Liverpool came. The idea of celebrating years later turned a complicated case into something instantly recognisable. But a joke is not a decision. The financial conduct described in the Premier League's published findings covers 2009/10 to 2017/18. Liverpool's runner-up seasons under Klopp came later. The argument about a squad built over time may matter to the debate. It does not establish that either of those later titles must be reassigned. The sanction and appeal process has to answer its own questions.",
+      "broll": [
+        {
+          "file": "assets/visuals/parade_padded.mp4",
+          "start": 0,
+          "duration": 46.498698
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "vo",
+      "name": "findings",
+      "text": "On September 29, 2026, the Premier League published the Commission's findings. It described disguised owner funding through commercial arrangements and inaccurate financial reporting during the affected period. City rejects the findings and has appealed. Sanctions remain to be decided separately. That is significant new context for old financial arguments. It is not permission to treat every claim made by every rival as proven. Then Klopp was asked about it. Here was the man whose team had twice finished a point behind City, the man who had joked about a parade. The obvious ending would be a victory lap. He played down the celebration. His respect for the football remained. The final reaction complicates the simple idea that this is only about getting another medal.",
+      "broll": [
+        {
+          "file": "assets/visuals/findings_padded.mp4",
+          "start": 0,
+          "duration": 40.333008
+        }
+      ],
+      "pause_after_seconds": 0
+    },
+    {
+      "type": "vo",
+      "name": "ending",
+      "text": "Klopp's Liverpool cannot replay those final afternoons. Supporters cannot experience a delayed trophy in exactly the same way they would have experienced it then. What can change is how we discuss the competition. A warning about financial boundaries can be judged against the evidence, rather than dismissed simply because it came from a rival. The strongest version of Klopp's argument does not require us to pretend he predicted every finding. It asks whether the rules gave clubs a meaningful boundary, and whether enforcing that boundary mattered. He challenged City on the pitch. He questioned the system around them. Now those questions have new context, while the consequences are still being decided. Ninety-seven points once looked like a story about falling short. It remains a remarkable season. The debate about what surrounded it is far from finished.",
+      "broll": [
+        {
+          "file": "assets/visuals/ending_padded.mp4",
+          "start": 0,
+          "duration": 40.298698
+        }
+      ],
+      "pause_after_seconds": 0
+    }
+  ]
+}

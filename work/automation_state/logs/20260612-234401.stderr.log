@@ -1,0 +1,963 @@
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs\concat_list.txt':
+  Duration: N/A, start: -0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs\voiceover_elevenlabs_full.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp, 128 kb/s
+Press [q] to stop, [?] for help
+[out#0/mp3 @ 00000150aabb2100] video:0KiB audio:430KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.104647%
+size=     431KiB time=00:00:27.53 bitrate= 128.1kbits/s speed=2.23e+03x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs\elevenlabs_part_01.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:00:11.55, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_01.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 000001ef85012b40] video:0KiB audio:103KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.213572%
+size=     104KiB time=00:00:09.59 bitrate=  88.4kbits/s speed= 117x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs\elevenlabs_part_02.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:00:09.80, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_02.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 0000018bde4d2b40] video:0KiB audio:99KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.222921%
+size=      99KiB time=00:00:08.13 bitrate=  99.9kbits/s speed= 119x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs\elevenlabs_part_03.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:00:06.19, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_03.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 000001df34e22b40] video:0KiB audio:63KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.350806%
+size=      63KiB time=00:00:05.15 bitrate= 100.4kbits/s speed= 115x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs\voiceover_elevenlabs_full.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:27.53, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs_1p2x\voiceover_elevenlabs_full_1p2x.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 000002825e952b80] video:0KiB audio:265KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.083148%
+size=     266KiB time=00:00:22.92 bitrate=  94.9kbits/s speed= 129x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000242990f5540] using SAR=1/1
+[libx264 @ 00000242990f5540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000242990f5540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000242990f5540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_1_still_01.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   27 fps=0.0 q=26.0 size=       0KiB time=00:00:00.83 bitrate=   0.5kbits/s dup=11 drop=0 speed=1.63x    [mp4 @ 00000242990e5d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000242990e5900] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed= 3.7x    
+[libx264 @ 00000242990f5540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000242990f5540] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 00000242990f5540] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 00000242990f5540] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 00000242990f5540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000242990f5540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000242990f5540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000242990f5540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000242990f5540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000242990f5540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000242990f5540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000242990f5540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000242990f5540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000242990f5540] kb/s:36.67
+[aac @ 0000024299a277c0] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000175f0245540] using SAR=1/1
+[libx264 @ 00000175f0245540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000175f0245540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000175f0245540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_1_still_02.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   32 fps=0.0 q=26.0 size=       0KiB time=00:00:01.00 bitrate=   0.4kbits/s dup=11 drop=0 speed=1.89x    [mp4 @ 00000175f0235d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000175f0235900] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.59x    
+[libx264 @ 00000175f0245540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000175f0245540] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 00000175f0245540] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 00000175f0245540] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 00000175f0245540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000175f0245540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000175f0245540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000175f0245540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000175f0245540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000175f0245540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000175f0245540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000175f0245540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000175f0245540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000175f0245540] kb/s:36.67
+[aac @ 00000175f0c3b340] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 000001d5f4cf5540] using SAR=1/1
+[libx264 @ 000001d5f4cf5540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000001d5f4cf5540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000001d5f4cf5540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_1_still_03.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   30 fps=0.0 q=26.0 size=       0KiB time=00:00:00.93 bitrate=   0.4kbits/s dup=11 drop=0 speed=1.82x    [mp4 @ 000001d5f4ce5d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001d5f4ce5900] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.68x    
+[libx264 @ 000001d5f4cf5540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 000001d5f4cf5540] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 000001d5f4cf5540] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 000001d5f4cf5540] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 000001d5f4cf5540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 000001d5f4cf5540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 000001d5f4cf5540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 000001d5f4cf5540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 000001d5f4cf5540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 000001d5f4cf5540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 000001d5f4cf5540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 000001d5f4cf5540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 000001d5f4cf5540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000001d5f4cf5540] kb/s:36.67
+[aac @ 000001d5f5618880] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000239f8205540] using SAR=1/1
+[libx264 @ 00000239f8205540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000239f8205540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000239f8205540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_1_still_04.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 00000239f81f5d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000239f81f5900] video:9KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 21.607473%
+frame=   19 fps=0.0 q=-1.0 Lsize=      12KiB time=00:00:00.56 bitrate= 167.3kbits/s dup=3 drop=0 speed=2.54x    
+[libx264 @ 00000239f8205540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000239f8205540] frame P:5     Avg QP:14.28  size:   106
+[libx264 @ 00000239f8205540] frame B:13    Avg QP:14.38  size:    69
+[libx264 @ 00000239f8205540] consecutive B-frames:  5.3% 10.5%  0.0% 84.2%
+[libx264 @ 00000239f8205540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000239f8205540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.1%  0.0%  0.0%  0.0%  0.0%    skip:99.9%
+[libx264 @ 00000239f8205540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000239f8205540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000239f8205540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000239f8205540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000239f8205540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000239f8205540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000239f8205540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000239f8205540] kb/s:112.02
+[aac @ 00000239f8b36880] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001b2993bb480] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 40 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_1_visual.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001b2993bec80] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 000001b299476300] Non-monotonic DTS; previous: 133120, current: 132300; changing to 133121. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001b2993bec80] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 000001b299476300] Non-monotonic DTS; previous: 265420, current: 264600; changing to 265421. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001b2993bec80] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 000001b299476300] Non-monotonic DTS; previous: 397720, current: 396900; changing to 397721. This may result in incorrect timestamps in the output file.
+[mp4 @ 000001b299685780] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001b2993f0600] video:52KiB audio:3KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 21.491614%
+frame=  289 fps=0.0 q=-1.0 Lsize=      66KiB time=00:00:09.58 bitrate=  56.4kbits/s speed= 307x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_1_visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:09.66, start: 0.000000, bitrate: 55 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 44 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_01.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:09.64, start: 0.025057, bitrate: 88 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 87 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (mp3 (mp3float) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_1_voice.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 44 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 160 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 0000014eff9aa2c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000014eff99a980] video:52KiB audio:188KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.824842%
+frame=  287 fps=0.0 q=-1.0 Lsize=     251KiB time=00:00:09.58 bitrate= 214.3kbits/s speed=39.5x    
+[aac @ 0000014e80399a80] Qavg: 556.801
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_2.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000011a3e485540] using SAR=1/1
+[libx264 @ 0000011a3e485540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000011a3e485540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000011a3e485540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_2_still_01.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   37 fps=0.0 q=26.0 size=       0KiB time=00:00:01.16 bitrate=   0.3kbits/s dup=12 drop=0 speed=2.21x    [mp4 @ 0000011a3e475d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000011a3e475900] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.98x    
+[libx264 @ 0000011a3e485540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000011a3e485540] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 0000011a3e485540] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 0000011a3e485540] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 0000011a3e485540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000011a3e485540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000011a3e485540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000011a3e485540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000011a3e485540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000011a3e485540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000011a3e485540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000011a3e485540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000011a3e485540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000011a3e485540] kb/s:36.67
+[aac @ 0000011a3ee77800] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_2.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000023089d15540] using SAR=1/1
+[libx264 @ 0000023089d15540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000023089d15540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000023089d15540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_2_still_02.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   38 fps=0.0 q=26.0 size=       0KiB time=00:00:01.20 bitrate=   0.3kbits/s dup=12 drop=0 speed=2.29x    [mp4 @ 0000023089d05d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000023089d05900] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=4.06x    
+[libx264 @ 0000023089d15540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000023089d15540] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 0000023089d15540] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 0000023089d15540] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 0000023089d15540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000023089d15540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000023089d15540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000023089d15540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000023089d15540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000023089d15540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000023089d15540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000023089d15540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000023089d15540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000023089d15540] kb/s:36.67
+[aac @ 000002308a647580] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_2.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000275ccc55540] using SAR=1/1
+[libx264 @ 00000275ccc55540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000275ccc55540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000275ccc55540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_2_still_03.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   35 fps=0.0 q=26.0 size=       0KiB time=N/A bitrate=N/A dup=11 drop=0 speed=N/A    [mp4 @ 00000275ccc45d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000275ccc45900] video:12KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 28.508080%
+frame=   65 fps=0.0 q=-1.0 Lsize=      17KiB time=00:00:02.10 bitrate=  65.1kbits/s dup=11 drop=0 speed=3.66x    
+[libx264 @ 00000275ccc55540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000275ccc55540] frame P:16    Avg QP:11.96  size:    83
+[libx264 @ 00000275ccc55540] frame B:48    Avg QP:14.33  size:    68
+[libx264 @ 00000275ccc55540] consecutive B-frames:  1.5%  0.0%  0.0% 98.5%
+[libx264 @ 00000275ccc55540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000275ccc55540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000275ccc55540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000275ccc55540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000275ccc55540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000275ccc55540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000275ccc55540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000275ccc55540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000275ccc55540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000275ccc55540] kb/s:44.41
+[aac @ 00000275cd57eec0] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000200bde5b300] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 40 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_2_visual.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000200bdf16680] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000200bde62e80] Non-monotonic DTS; previous: 133120, current: 132300; changing to 133121. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000200bdf16680] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000200bde62e80] Non-monotonic DTS; previous: 265420, current: 264600; changing to 265421. This may result in incorrect timestamps in the output file.
+[mp4 @ 00000200be115780] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000200bde908c0] video:41KiB audio:2KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 23.581790%
+frame=  245 fps=0.0 q=-1.0 Lsize=      53KiB time=00:00:08.12 bitrate=  53.4kbits/s speed= 344x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_2_visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:08.20, start: 0.000000, bitrate: 52 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 40 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_02.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:08.18, start: 0.025057, bitrate: 99 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 99 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (mp3 (mp3float) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_2_voice.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 40 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 160 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 0000021e42969000] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000021e4296af40] video:40KiB audio:159KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.970910%
+frame=  241 fps=0.0 q=-1.0 Lsize=     210KiB time=00:00:08.12 bitrate= 211.6kbits/s speed=28.4x    
+[aac @ 0000021e429d2300] Qavg: 400.060
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_3.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 000001b39ecb5540] using SAR=1/1
+[libx264 @ 000001b39ecb5540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000001b39ecb5540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000001b39ecb5540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_3_still_01.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   33 fps=0.0 q=26.0 size=       0KiB time=00:00:01.03 bitrate=   0.4kbits/s dup=12 drop=0 speed=2.02x    [mp4 @ 000001b39eca5d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001b39eca5900] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.84x    
+[libx264 @ 000001b39ecb5540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 000001b39ecb5540] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 000001b39ecb5540] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 000001b39ecb5540] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 000001b39ecb5540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 000001b39ecb5540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 000001b39ecb5540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 000001b39ecb5540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 000001b39ecb5540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 000001b39ecb5540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 000001b39ecb5540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 000001b39ecb5540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 000001b39ecb5540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000001b39ecb5540] kb/s:36.67
+[aac @ 000001b39f6a7780] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\placeholder_3.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 000002a6ab9c5540] using SAR=1/1
+[libx264 @ 000002a6ab9c5540] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000002a6ab9c5540] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000002a6ab9c5540] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_3_still_02.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   38 fps=0.0 q=26.0 size=       0KiB time=N/A bitrate=N/A dup=11 drop=0 speed=N/A    [mp4 @ 000002a6ab9b5d40] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000002a6ab9b5900] video:12KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 28.610924%
+frame=   66 fps=0.0 q=-1.0 Lsize=      17KiB time=00:00:02.13 bitrate=  64.5kbits/s dup=11 drop=0 speed=3.74x    
+[libx264 @ 000002a6ab9c5540] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 000002a6ab9c5540] frame P:17    Avg QP:12.08  size:    82
+[libx264 @ 000002a6ab9c5540] frame B:48    Avg QP:14.33  size:    68
+[libx264 @ 000002a6ab9c5540] consecutive B-frames:  3.0%  0.0%  0.0% 97.0%
+[libx264 @ 000002a6ab9c5540] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 000002a6ab9c5540] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 000002a6ab9c5540] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 000002a6ab9c5540] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 000002a6ab9c5540] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 000002a6ab9c5540] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 000002a6ab9c5540] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 000002a6ab9c5540] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 000002a6ab9c5540] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000002a6ab9c5540] kb/s:44.00
+[aac @ 000002a6ac2e7200] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000166de17b180] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 40 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_3_visual.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 00000166de7053c0] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000166de7d7d40] Non-monotonic DTS; previous: 133120, current: 132300; changing to 133121. This may result in incorrect timestamps in the output file.
+[mp4 @ 00000166de1b05c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000166de349e40] video:27KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 24.768341%
+frame=  156 fps=0.0 q=-1.0 Lsize=      35KiB time=00:00:05.15 bitrate=  55.6kbits/s speed= 399x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_3_visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:05.22, start: 0.000000, bitrate: 54 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 42 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_03.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:05.20, start: 0.025057, bitrate: 99 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 99 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (mp3 (mp3float) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\_tmp\section_3_voice.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 42 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 160 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+[mp4 @ 00000221b1b5b800] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000221b37a0ec0] video:26KiB audio:101KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 5.313372%
+frame=  151 fps=0.0 q=-1.0 Lsize=     134KiB time=00:00:05.15 bitrate= 213.3kbits/s speed=27.2x    
+[aac @ 00000221b1b64340] Qavg: 357.678
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001cbef1401c0] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\final video\capcut export\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 204 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 44 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 159 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 025 - Brands and Labels Celebrating the 2026 FIFA World Cup Aerie,\final video\capcut export\brands-and-labels-celebrating-the-2026-fifa-world-cup-aerie-guinness.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 44 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 159 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001cbef1401c0] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 000001cbef20e580] Non-monotonic DTS; previous: 423936, current: 423228; changing to 423937. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000001cbef1401c0] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 000001cbef20e580] Non-monotonic DTS; previous: 782652, current: 782026; changing to 782653. This may result in incorrect timestamps in the output file.
+[mp4 @ 000001cbef4feac0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001cbef4fe9c0] video:118KiB audio:448KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.510002%
+frame=  679 fps=0.0 q=-1.0 Lsize=     592KiB time=00:00:22.74 bitrate= 213.3kbits/s speed= 683x    

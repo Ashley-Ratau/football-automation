@@ -1,0 +1,2 @@
+file 'C:/Users/Wendy/Documents/Football Channel/outputs/claid-test/claid_product_animation_48884.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/outputs/claid-test/claid_product_animation_continue_48885.mp4'

@@ -1,0 +1,32 @@
+{
+  "video": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-manchester-united-problem-nobody-can-solve\\final video\\why-every-manchester-united-rebuild-fails-match-broll-captions.mp4",
+  "thumbnail_jpeg": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-manchester-united-problem-nobody-can-solve\\final video\\thumbnail\\thumbnail_primary.jpg",
+  "thumbnail_bytes": 223183,
+  "upload_command": [
+    "C:\\Users\\Wendy\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "C:\\Users\\Wendy\\Documents\\Football Channel\\work\\youtube_oauth_tool.py",
+    "upload",
+    "--file",
+    "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-manchester-united-problem-nobody-can-solve\\final video\\why-every-manchester-united-rebuild-fails-match-broll-captions.mp4",
+    "--title",
+    "Why Every Manchester United Rebuild Fails",
+    "--description",
+    "Michael Carrick genuinely rescued Manchester United last season. So why has the same team opened 2026/27 with five points from five? This film separates the tactical symptoms from the deeper rebuild problem.\n\nResearch cutoff: 21 September 2026. Tactical diagrams are schematic illustrations, not tracking data.\n\n#ManchesterUnited #PremierLeague #FootballTactics",
+    "--privacy",
+    "private",
+    "--category",
+    "17",
+    "--tags",
+    "Manchester United",
+    "Michael Carrick",
+    "Premier League",
+    "football tactics",
+    "football analysis"
+  ],
+  "privacy": "private",
+  "next_steps": [
+    "Run the upload only after reviewing every QC frame and VO check file.",
+    "Set the returned video ID thumbnail with youtube_oauth_tool.py thumbnail.",
+    "Review the YouTube copyright screen before changing privacy to public."
+  ]
+}

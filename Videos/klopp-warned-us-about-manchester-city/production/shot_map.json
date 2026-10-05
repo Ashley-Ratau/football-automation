@@ -1,0 +1,506 @@
+[
+  {
+    "section": "hook",
+    "start": 0,
+    "duration": 3.4321739130434787,
+    "asset": "ninetyseven"
+  },
+  {
+    "section": "hook",
+    "start": 3.4321739130434787,
+    "duration": 5.28,
+    "asset": [
+      "anfield_2019",
+      490
+    ]
+  },
+  {
+    "section": "hook",
+    "start": 8.712173913043479,
+    "duration": 1.9895652173913057,
+    "asset": "table19"
+  },
+  {
+    "section": "hook",
+    "start": 10.701739130434785,
+    "duration": 0.2017391304347811,
+    "asset": "table22"
+  },
+  {
+    "section": "hook",
+    "start": 10.903478260869566,
+    "duration": 5.592173913043478,
+    "asset": [
+      "klopp_2022",
+      130
+    ]
+  },
+  {
+    "section": "hook",
+    "start": 16.495652173913044,
+    "duration": 3.251304347826089,
+    "asset": [
+      "anfield_2022",
+      530
+    ]
+  },
+  {
+    "section": "hook",
+    "start": 19.746956521739133,
+    "duration": 2.897391304347824,
+    "asset": "limits"
+  },
+  {
+    "section": "hook",
+    "start": 22.644347826086957,
+    "duration": 6.895652173913042,
+    "asset": "findings"
+  },
+  {
+    "section": "hook",
+    "start": 29.54,
+    "duration": 8.302309565217392,
+    "asset": "appeal"
+  },
+  {
+    "section": "season",
+    "start": 0,
+    "duration": 3.2808695652173916,
+    "asset": "table19"
+  },
+  {
+    "section": "season",
+    "start": 3.2808695652173916,
+    "duration": 2.6956521739130435,
+    "asset": [
+      "anfield_2019",
+      430
+    ]
+  },
+  {
+    "section": "season",
+    "start": 5.976521739130435,
+    "duration": 6.280000000000001,
+    "asset": [
+      "anfield_2019",
+      220
+    ]
+  },
+  {
+    "section": "season",
+    "start": 12.256521739130436,
+    "duration": 5.6130434782608685,
+    "asset": [
+      "melwood_2019",
+      122
+    ]
+  },
+  {
+    "section": "season",
+    "start": 17.869565217391305,
+    "duration": 2.0895652173913035,
+    "asset": "impossible"
+  },
+  {
+    "section": "season",
+    "start": 19.959130434782608,
+    "duration": 5.734782608695653,
+    "asset": [
+      "anfield_2019",
+      385
+    ]
+  },
+  {
+    "section": "season",
+    "start": 25.69391304347826,
+    "duration": 4.381739130434788,
+    "asset": [
+      "anfield_2019",
+      360
+    ]
+  },
+  {
+    "section": "season",
+    "start": 30.07565217391305,
+    "duration": 5.141793043478252,
+    "asset": [
+      "anfield_2019",
+      563
+    ]
+  },
+  {
+    "section": "cas_setup",
+    "start": 0,
+    "duration": 6.65304347826087,
+    "asset": "cas"
+  },
+  {
+    "section": "cas_setup",
+    "start": 6.65304347826087,
+    "duration": 6.390434782608696,
+    "asset": "cas"
+  },
+  {
+    "section": "cas_setup",
+    "start": 13.043478260869566,
+    "duration": 4.946956521739132,
+    "asset": "period"
+  },
+  {
+    "section": "cas_setup",
+    "start": 17.9904347826087,
+    "duration": 2.2817391304347794,
+    "asset": [
+      "klopp_cas_2020",
+      215
+    ]
+  },
+  {
+    "section": "cas_setup",
+    "start": 20.272173913043478,
+    "duration": 1.7260869565217405,
+    "asset": [
+      "klopp_cas_2020",
+      5
+    ]
+  },
+  {
+    "section": "cas_setup",
+    "start": 21.998260869565218,
+    "duration": 7.040657391304347,
+    "asset": "limits"
+  },
+  {
+    "section": "cas_followup",
+    "start": 0,
+    "duration": 9.736069565217393,
+    "asset": "champions"
+  },
+  {
+    "section": "money",
+    "start": 0,
+    "duration": 4.0886956521739135,
+    "asset": [
+      "melwood_2019",
+      30
+    ]
+  },
+  {
+    "section": "money",
+    "start": 4.0886956521739135,
+    "duration": 3.7252173913043487,
+    "asset": "limits"
+  },
+  {
+    "section": "money",
+    "start": 7.813913043478262,
+    "duration": 5.350434782608694,
+    "asset": [
+      "melwood_2019",
+      75
+    ]
+  },
+  {
+    "section": "money",
+    "start": 13.164347826086956,
+    "duration": 5.946086956521739,
+    "asset": [
+      "melwood_2019",
+      155
+    ]
+  },
+  {
+    "section": "money",
+    "start": 19.110434782608696,
+    "duration": 7.8043478260869605,
+    "asset": "boundaries"
+  },
+  {
+    "section": "money",
+    "start": 26.914782608695656,
+    "duration": 4.83565217391304,
+    "asset": [
+      "klopp_2022",
+      175
+    ]
+  },
+  {
+    "section": "money",
+    "start": 31.750434782608696,
+    "duration": 3.1495652173913022,
+    "asset": [
+      "city_haaland",
+      85
+    ]
+  },
+  {
+    "section": "money",
+    "start": 34.9,
+    "duration": 4.396080869565225,
+    "asset": [
+      "melwood_2019",
+      215
+    ]
+  },
+  {
+    "section": "warning_meaning",
+    "start": 0,
+    "duration": 11.391753043478262,
+    "asset": "boundaries"
+  },
+  {
+    "section": "respect",
+    "start": 0,
+    "duration": 2.2513043478260872,
+    "asset": [
+      "klopp_cas_2020",
+      252
+    ]
+  },
+  {
+    "section": "respect",
+    "start": 2.2513043478260872,
+    "duration": 2.483478260869566,
+    "asset": "respect"
+  },
+  {
+    "section": "respect",
+    "start": 4.734782608695653,
+    "duration": 8.975652173913042,
+    "asset": [
+      "klopp_2022",
+      206
+    ]
+  },
+  {
+    "section": "respect",
+    "start": 13.710434782608695,
+    "duration": 3.24,
+    "asset": [
+      "city_haaland",
+      155
+    ]
+  },
+  {
+    "section": "respect",
+    "start": 16.950434782608696,
+    "duration": 4.300869565217393,
+    "asset": [
+      "anfield_2022",
+      190
+    ]
+  },
+  {
+    "section": "respect",
+    "start": 21.25130434782609,
+    "duration": 5.936521739130434,
+    "asset": "respect"
+  },
+  {
+    "section": "respect",
+    "start": 27.187826086956523,
+    "duration": 4.411304347826086,
+    "asset": "boundaries"
+  },
+  {
+    "section": "respect",
+    "start": 31.59913043478261,
+    "duration": 5.441739130434783,
+    "asset": "limits"
+  },
+  {
+    "section": "respect",
+    "start": 37.04086956521739,
+    "duration": 4.718546086956522,
+    "asset": [
+      "anfield_2019",
+      590
+    ]
+  },
+  {
+    "section": "parade",
+    "start": 0,
+    "duration": 10.237391304347826,
+    "asset": "parade"
+  },
+  {
+    "section": "parade",
+    "start": 10.237391304347826,
+    "duration": 4.583478260869567,
+    "asset": "parade"
+  },
+  {
+    "section": "parade",
+    "start": 14.820869565217393,
+    "duration": 1.897391304347824,
+    "asset": [
+      "anfield_2019",
+      617
+    ]
+  },
+  {
+    "section": "parade",
+    "start": 16.718260869565217,
+    "duration": 2.160869565217393,
+    "asset": [
+      "anfield_2022",
+      490
+    ]
+  },
+  {
+    "section": "parade",
+    "start": 18.87913043478261,
+    "duration": 5.158260869565218,
+    "asset": [
+      "anfield_2022",
+      555
+    ]
+  },
+  {
+    "section": "parade",
+    "start": 24.03739130434783,
+    "duration": 11.569565217391307,
+    "asset": "period"
+  },
+  {
+    "section": "parade",
+    "start": 35.606956521739136,
+    "duration": 3.2617391304347763,
+    "asset": [
+      "city_haaland",
+      55
+    ]
+  },
+  {
+    "section": "parade",
+    "start": 38.86869565217391,
+    "duration": 7.615475652173913,
+    "asset": "appeal"
+  },
+  {
+    "section": "findings",
+    "start": 0,
+    "duration": 4.633913043478261,
+    "asset": "findings"
+  },
+  {
+    "section": "findings",
+    "start": 4.633913043478261,
+    "duration": 6.309565217391306,
+    "asset": "findings"
+  },
+  {
+    "section": "findings",
+    "start": 10.943478260869567,
+    "duration": 5.038260869565219,
+    "asset": "appeal"
+  },
+  {
+    "section": "findings",
+    "start": 15.981739130434786,
+    "duration": 7.359130434782607,
+    "asset": "boundaries"
+  },
+  {
+    "section": "findings",
+    "start": 23.340869565217393,
+    "duration": 1.4843478260869567,
+    "asset": "reaction"
+  },
+  {
+    "section": "findings",
+    "start": 24.82521739130435,
+    "duration": 4.533043478260872,
+    "asset": [
+      "anfield_2019",
+      540
+    ]
+  },
+  {
+    "section": "findings",
+    "start": 29.35826086956522,
+    "duration": 2.170434782608698,
+    "asset": "reaction"
+  },
+  {
+    "section": "findings",
+    "start": 31.52869565217392,
+    "duration": 3.978260869565215,
+    "asset": "reaction"
+  },
+  {
+    "section": "findings",
+    "start": 35.506956521739134,
+    "duration": 4.839070434782606,
+    "asset": [
+      "anfield_2022",
+      575
+    ]
+  },
+  {
+    "section": "ending",
+    "start": 0,
+    "duration": 2.746086956521739,
+    "asset": [
+      "anfield_2019",
+      640
+    ]
+  },
+  {
+    "section": "ending",
+    "start": 2.746086956521739,
+    "duration": 4.563478260869566,
+    "asset": [
+      "anfield_2019",
+      409
+    ]
+  },
+  {
+    "section": "ending",
+    "start": 7.309565217391305,
+    "duration": 2.5539130434782615,
+    "asset": "ending"
+  },
+  {
+    "section": "ending",
+    "start": 9.863478260869567,
+    "duration": 5.734782608695651,
+    "asset": "boundaries"
+  },
+  {
+    "section": "ending",
+    "start": 15.598260869565218,
+    "duration": 4.300869565217392,
+    "asset": "limits"
+  },
+  {
+    "section": "ending",
+    "start": 19.89913043478261,
+    "duration": 4.865217391304348,
+    "asset": "ending"
+  },
+  {
+    "section": "ending",
+    "start": 24.764347826086958,
+    "duration": 1.3730434782608718,
+    "asset": [
+      "anfield_2022",
+      510
+    ]
+  },
+  {
+    "section": "ending",
+    "start": 26.13739130434783,
+    "duration": 6.006956521739127,
+    "asset": [
+      "klopp_2022",
+      244
+    ]
+  },
+  {
+    "section": "ending",
+    "start": 32.14434782608696,
+    "duration": 8.161296521739132,
+    "asset": "callback"
+  }
+]

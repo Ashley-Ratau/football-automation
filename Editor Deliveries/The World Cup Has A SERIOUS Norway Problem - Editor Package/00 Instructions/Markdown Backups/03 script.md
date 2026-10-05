@@ -1,0 +1,163 @@
+# Script
+
+## Working Title
+
+The World Cup Has A SERIOUS Norway Problem
+
+## Target Length
+
+About 5 minutes
+
+## Tone
+
+Sharp, dramatic, fast, evidence-led.
+
+## Full Voiceover Script
+
+Norway are not going to the World Cup as a cute underdog story.
+
+They are going as a warning.
+
+Because when most people look at Norway, they see one thing first.
+
+Erling Haaland.
+
+And honestly, that makes sense. Haaland at a World Cup is box office. It is the striker football has been waiting to see on the biggest stage.
+
+But if that is the whole story, then people are already making the first mistake.
+
+Because the real problem with Norway is not that they have Haaland.
+
+The real problem is that Haaland is no longer carrying a bad team.
+
+For years, Norway were easy to explain. Great names, weak tournament record. Martin Odegaard was there. Haaland was there. And somehow, every major tournament still felt like it belonged to somebody else.
+
+That version of Norway is gone.
+
+This was not Norway sneaking into a bigger World Cup through a side door.
+
+They took care of business so brutally that Italy, a country with four World Cups, were left staring up at them.
+
+Eight qualifying matches.
+
+Eight wins.
+
+Thirty-seven goals scored.
+
+Five conceded.
+
+And then came San Siro.
+
+Italy scored first. Norway were behind at half-time. And that should have been the familiar story. Pressure. History. Big stadium. Norway fade.
+
+Except this time, they did not fade.
+
+They waited.
+
+And then they exploded.
+
+Antonio Nusa equalized.
+
+Haaland scored.
+
+Then Haaland scored again.
+
+Then Jorgen Strand Larsen made it four.
+
+Italy 1. Norway 4.
+
+At San Siro.
+
+That is the moment the conversation changed.
+
+Because this was not just Haaland doing Haaland things. Nusa started the comeback. Odegaard gave Norway control. Haaland broke the game open. Strand Larsen finished it.
+
+That is why this team is uncomfortable.
+
+Haaland is still the headline, obviously. Sixteen goals in eight qualifiers is ridiculous.
+
+But Haaland's real power is not only the goals.
+
+It is how he changes everyone else.
+
+If you defend high, he runs behind you.
+
+If you defend deep, Norway can cross, crash the box, and attack second balls.
+
+If you double him, you leave space for Odegaard.
+
+If you leave him alone, you are asking for disaster.
+
+That is not just a striker problem.
+
+That is a whole pitch problem.
+
+And then there is Odegaard.
+
+Odegaard is the part that makes Norway feel less like a long-ball underdog and more like a real football team. He gives them rhythm. He gives them timing. He gives them the pass before the goal.
+
+Haaland makes defenders fear the finish.
+
+Odegaard makes them fear the moment before it.
+
+And behind them, Norway suddenly have layers.
+
+Alexander Sorloth gives them another huge forward.
+
+Antonio Nusa gives them speed and one-v-one threat.
+
+Strand Larsen gives them another penalty-box striker.
+
+Oscar Bobb gives them imagination.
+
+Aursnes, Berge, Ryerson, Patrick Berg. These are not just names on a squad list. They are the reason Norway can play different types of games.
+
+They can be direct.
+
+They can be physical.
+
+They can sit deeper.
+
+They can hit space.
+
+They can turn one bad defensive line into a goal in five seconds.
+
+And that matters at a World Cup.
+
+Because tournaments are not always won by the team with the cleanest football. They are shaped by matchups, nerves, set pieces, transitions, and one moment where the favorite gets dragged into a game they did not want.
+
+That is where Group I gets dangerous.
+
+Iraq is the opener Norway are expected to win, which makes it dangerous in a different way.
+
+Senegal is the physical test. They will not be bullied. They will not be scared.
+
+And then France.
+
+The final boss.
+
+France can beat Norway. Of course they can.
+
+But that is not the point.
+
+The point is that Norway are not a free three points.
+
+They are not just a nice Haaland storyline.
+
+They are a team with elite finishing, elite creation, size, speed, and enough belief to go to San Siro, fall behind, and score four.
+
+That is the problem.
+
+Norway do not need to look like champions for ninety minutes.
+
+They only need ten minutes where the game breaks.
+
+Ten minutes where Odegaard finds the pass.
+
+Ten minutes where Haaland gets half a chance.
+
+Ten minutes where the favorite suddenly realizes this was never a normal group game.
+
+Norway may not win the World Cup.
+
+But they are built to ruin somebody else's.

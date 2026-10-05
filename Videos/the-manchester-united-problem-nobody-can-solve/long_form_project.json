@@ -1,0 +1,1054 @@
+{
+  "schema_version": 1,
+  "title": "Why Every Manchester United Rebuild Fails",
+  "output_filename": "why-every-manchester-united-rebuild-fails-match-broll-captions.mp4",
+  "thumbnail": "assets/thumbnail/thumbnail_primary.png",
+  "music_bed": "assets/music_bed.mp3",
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice_speed": 1.0,
+    "voice_gain_db": 0.0,
+    "broll_clip_max_seconds": 5.5,
+    "insert_fade_seconds": 0.5,
+    "music_volume_db": -35.0,
+    "audio_rate": 44100,
+    "audio_channels": 2,
+    "min_duration_seconds": 480,
+    "max_duration_seconds": 600
+  },
+  "upload": {
+    "title": "Why Every Manchester United Rebuild Fails",
+    "description": "Michael Carrick genuinely rescued Manchester United last season. So why has the same team opened 2026/27 with five points from five? This film separates the tactical symptoms from the deeper rebuild problem.\n\nResearch cutoff: 21 September 2026. Tactical diagrams are schematic illustrations, not tracking data.\n\n#ManchesterUnited #PremierLeague #FootballTactics",
+    "tags": [
+      "Manchester United",
+      "Michael Carrick",
+      "Premier League",
+      "football tactics",
+      "football analysis"
+    ],
+    "category": "17",
+    "privacy": "private"
+  },
+  "captions": {
+    "enabled": true,
+    "fontname": "Arial",
+    "font_size": 54,
+    "primary_color": "&H00FFFFFF",
+    "outline_color": "&H00000000",
+    "back_color": "&H64000000",
+    "outline": 4,
+    "shadow": 1,
+    "alignment": 2,
+    "margin_l": 60,
+    "margin_r": 60,
+    "margin_v": 66,
+    "group_size": 4
+  },
+  "sound_effects": [],
+  "research_checks": {
+    "scoreline_verified": true,
+    "match_number_verified": true,
+    "records_verified": true,
+    "availability_verified": true,
+    "source_urls_recorded": true
+  },
+  "sections": [
+    {
+      "type": "vo",
+      "name": "cold_open_head",
+      "text": "Manchester United have already proved Michael Carrick can fix them. That is what makes this start so alarming. He arrived in January, simplified the shape, lifted the team to third, and earned a permanent deal. Four months later, United had five points from five league games, lost to promoted Hull, lost at home to a Manchester City side reduced to ten men, and threw away a two-goal lead against Brighton in the League Cup. So w",
+      "broll": [
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 192,
+          "duration": 4.2,
+          "label": "cold_open_06"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 221,
+          "duration": 4.2,
+          "label": "cold_open_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 69,
+          "duration": 4.2,
+          "label": "cold_open_09"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 98,
+          "duration": 4.2,
+          "label": "cold_open_10"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 185,
+          "duration": 4.2,
+          "label": "cold_open_13"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 214,
+          "duration": 4.2,
+          "label": "cold_open_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "neville_experiments",
+      "file": "assets/broll/neville_experiments.mp4",
+      "start": 328.56,
+      "end": 352.8
+    },
+    {
+      "type": "vo",
+      "name": "cold_open_tail",
+      "text": "hat disappeared? Maybe nothing. Maybe the first recovery was real, but it only solved the easiest problem. Carrick gave United clarity. Now he has to build an identity that survives when the game stops looking comfortable. The important distinction is between a team that looks better because its roles are clearer and a team that has built answers for every opponent. Those are not the same thing. A short run can hide the difference because confidence turns loose balls into attacks and a compact block makes every decision feel obvious. The harder test arrives when the opponent refuses to give United those moments. That is the test this video is about.",
+      "broll": [
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 192,
+          "duration": 4.2,
+          "label": "cold_open_06"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 221,
+          "duration": 4.2,
+          "label": "cold_open_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 69,
+          "duration": 4.2,
+          "label": "cold_open_09"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 98,
+          "duration": 4.2,
+          "label": "cold_open_10"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 185,
+          "duration": 4.2,
+          "label": "cold_open_13"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 214,
+          "duration": 4.2,
+          "label": "cold_open_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "rescue_real",
+      "text": "Start with the evidence Carrick earned. He took over on 13 January after Ruben Amorim left and Darren Fletcher covered the following week. United collected thirty-nine league points from then to the finish, the best total in the division over that span, and ended third. It was not a miracle. It was a correction. Carrick returned the team to a flexible 4-2-3-1, put players in recognisable zones, moved Bruno Fernandes closer to the forward line, and defended in a compact 4-4-2. Imagine you are a centre-back facing them. If you step forward, United can release runners into the space behind you. If you sit off, Bruno can receive between your midfield and defence. The football became simpler, and confidence followed. That is a coaching achievement, not an illusion. The rescue also tells us what Carrick is good at. He reduced the number of decisions players had to make, gave the midfield a reliable first pass, and brought the forwards into the game earlier. That matters because confidence in football is often a consequence of structure rather than a mysterious mood. But the same simplification can become predictable when the opponent sits behind the ball. The rescue was real; it was simply narrower than the mythology around it.",
+      "broll": [
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 55,
+          "duration": 4.2,
+          "label": "rescue_real_00"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 84,
+          "duration": 4.2,
+          "label": "rescue_real_01"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 113,
+          "duration": 4.2,
+          "label": "rescue_real_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 171,
+          "duration": 4.2,
+          "label": "rescue_real_04"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 200,
+          "duration": 4.2,
+          "label": "rescue_real_05"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 19,
+          "duration": 4.2,
+          "label": "rescue_real_06"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 48,
+          "duration": 4.2,
+          "label": "rescue_real_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 106,
+          "duration": 4.2,
+          "label": "rescue_real_09"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 135,
+          "duration": 4.2,
+          "label": "rescue_real_10"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 164,
+          "duration": 4.2,
+          "label": "rescue_real_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 222,
+          "duration": 4.2,
+          "label": "rescue_real_13"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 41,
+          "duration": 4.2,
+          "label": "rescue_real_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "where_breaks",
+      "text": "But a transition system depends on the opponent giving you somewhere to transition into. When the other team advances, Carrick's United can compress the centre, win the next ball, and attack before the block resets. When the opponent sits deeper, the picture changes. United need repeatable possession patterns: a full-back who knows when to advance, a midfielder who protects the counter, and a front four who create width without abandoning the centre. Early this season, those relationships have looked improvised. The attackers can become too high and too wide. Bruno and Matheus Cunha roam toward the ball. The double pivot is asked to cover an enormous pitch. One lost pass, and the back line is defending a race rather than a structure. This is why the problem cannot be reduced to one player missing or one midfielder having a bad afternoon. The spacing changes from phase to phase. In possession, United need enough width to move the block, enough occupation between the lines to pin the centre-backs, and enough protection behind the ball to survive the first clearance. When one of those disappears, the other two become liabilities. The team looks organised until the next action asks it to reorganise.",
+      "broll": [
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 92,
+          "duration": 4.2,
+          "label": "where_breaks_00"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 121,
+          "duration": 4.2,
+          "label": "where_breaks_01"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 150,
+          "duration": 4.2,
+          "label": "where_breaks_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 208,
+          "duration": 4.2,
+          "label": "where_breaks_04"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 27,
+          "duration": 4.2,
+          "label": "where_breaks_05"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 56,
+          "duration": 4.2,
+          "label": "where_breaks_06"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 85,
+          "duration": 4.2,
+          "label": "where_breaks_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 143,
+          "duration": 4.2,
+          "label": "where_breaks_09"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 172,
+          "duration": 4.2,
+          "label": "where_breaks_10"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 201,
+          "duration": 4.2,
+          "label": "where_breaks_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 49,
+          "duration": 4.2,
+          "label": "where_breaks_13"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 78,
+          "duration": 4.2,
+          "label": "where_breaks_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "carrick_accountability",
+      "file": "assets/broll/Qiob0M7_kCI.mp4",
+      "start": 24.0,
+      "end": 40.0
+    },
+    {
+      "type": "vo",
+      "name": "warning_week",
+      "text": "The scorelines matter because each exposed a different game state. Everton equalised in the ninety-sixth minute after United had led twice. Manchester City won one-nil at Old Trafford despite playing with ten men from the twenty-third minute. Brighton turned a two-nil deficit into a three-two cup win. Then Fulham outran United by 6.6 kilometres and United needed a deflected eighty-ninth-minute equaliser for a one-one draw. That is not one tactical flaw repeated four times. It is a team failing four different tests: protecting a lead, breaking down ten men, controlling chaos, and matching an opponent's energy. A formation can organise the first whistle. It cannot make the correct decision for ninety minutes. The sequence is useful because it removes the comfort of a single explanation. If every defeat were a transition problem, the answer would be obvious. If every draw were a fitness problem, recruitment would solve it. Instead, United keep reaching the same uncomfortable point: the team can execute a plan when the match follows its preferred script, but the response to disruption is still individual rather than collective. That is where a promising project starts to look unfinished.",
+      "broll": [
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 129,
+          "duration": 4.2,
+          "label": "warning_week_00"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 158,
+          "duration": 4.2,
+          "label": "warning_week_01"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 187,
+          "duration": 4.2,
+          "label": "warning_week_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 35,
+          "duration": 4.2,
+          "label": "warning_week_04"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 64,
+          "duration": 4.2,
+          "label": "warning_week_05"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 93,
+          "duration": 4.2,
+          "label": "warning_week_06"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 122,
+          "duration": 4.2,
+          "label": "warning_week_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 180,
+          "duration": 4.2,
+          "label": "warning_week_09"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 209,
+          "duration": 4.2,
+          "label": "warning_week_10"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 28,
+          "duration": 4.2,
+          "label": "warning_week_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 86,
+          "duration": 4.2,
+          "label": "warning_week_13"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 115,
+          "duration": 4.2,
+          "label": "warning_week_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "tactical_dilemma",
+      "text": "The popular answer is to change shape. Add another midfielder. Pull the wingers narrower. Give the full-backs more protection. Those changes may help, but every solution charges a price. More control can isolate the striker. More attacking freedom can expose the double pivot. Push both full-backs and a turnover opens the channels behind them. Keep one at home and the low block becomes harder to stretch. Carrick's best United has lived between order and speed. The current version too often chooses neither: cautious circulation without rest-defence, then desperate attacks without compact pressure behind the ball. The task is not finding one perfect formation. It is teaching the same principles to survive every formation. The answer is not to ban risk. Great teams create risk by pushing numbers forward; they just decide in advance which spaces must remain protected. United's best passages have a clear first defender after the turnover, a midfielder screening the central lane, and a winger close enough to counter-press. Their worst passages have none of those relationships. The diagram changes, but the principle should not. Shape is the surface. Spacing and timing are the actual system.",
+      "broll": [
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 166,
+          "duration": 4.2,
+          "label": "tactical_dilemma_00"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 195,
+          "duration": 4.2,
+          "label": "tactical_dilemma_01"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 224,
+          "duration": 4.2,
+          "label": "tactical_dilemma_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 72,
+          "duration": 4.2,
+          "label": "tactical_dilemma_04"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 101,
+          "duration": 4.2,
+          "label": "tactical_dilemma_05"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 130,
+          "duration": 4.2,
+          "label": "tactical_dilemma_06"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 159,
+          "duration": 4.2,
+          "label": "tactical_dilemma_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 217,
+          "duration": 4.2,
+          "label": "tactical_dilemma_09"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 36,
+          "duration": 4.2,
+          "label": "tactical_dilemma_10"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 65,
+          "duration": 4.2,
+          "label": "tactical_dilemma_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 123,
+          "duration": 4.2,
+          "label": "tactical_dilemma_13"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 152,
+          "duration": 4.2,
+          "label": "tactical_dilemma_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        }
+      ]
+    },
+    {
+      "type": "insert",
+      "name": "carrick_before_derby",
+      "file": "assets/broll/WFWdZX7QZDc.mp4",
+      "start": 62.0,
+      "end": 77.0
+    },
+    {
+      "type": "vo",
+      "name": "club_cannot_hide",
+      "text": "There is a tempting excuse: Carrick inherited a squad assembled for incompatible managers. That is partly true. But it is no longer the whole truth. United gave him a contract through 2028. The hierarchy led by Omar Berrada and Jason Wilcox rebuilt the midfield with Andrey Santos, Youri Tielemans and Carlos Baleba. Carrick now owns part of the solution and part of the problem. A modern football structure should recruit for principles that outlast the coach: how the team builds, presses, protects the centre, and responds after losing the ball. If those principles are clear, a new manager adjusts the model. If they are not, every appointment becomes demolition followed by another expensive rebuild. Recruitment is where the tactical argument becomes an institutional one. A club does not need every player to fit one manager's favourite formation, but it does need a repeatable idea about distances, pressing, progression and defensive cover. Otherwise each transfer window solves the last coach's problem and creates the next coach's problem. Carrick can improve the team, but he cannot personally reconcile years of contradictory squad-building. That responsibility belongs to the football structure around him.",
+      "broll": [
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 203,
+          "duration": 4.2,
+          "label": "club_cannot_hide_00"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 22,
+          "duration": 4.2,
+          "label": "club_cannot_hide_01"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 51,
+          "duration": 4.2,
+          "label": "club_cannot_hide_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 109,
+          "duration": 4.2,
+          "label": "club_cannot_hide_04"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 138,
+          "duration": 4.2,
+          "label": "club_cannot_hide_05"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 167,
+          "duration": 4.2,
+          "label": "club_cannot_hide_06"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 196,
+          "duration": 4.2,
+          "label": "club_cannot_hide_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 44,
+          "duration": 4.2,
+          "label": "club_cannot_hide_09"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 73,
+          "duration": 4.2,
+          "label": "club_cannot_hide_10"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 102,
+          "duration": 4.2,
+          "label": "club_cannot_hide_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 160,
+          "duration": 4.2,
+          "label": "club_cannot_hide_13"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 189,
+          "duration": 4.2,
+          "label": "club_cannot_hide_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "conclusion",
+      "text": "So, is Carrick failing? Five league games cannot erase what he achieved across seventeen last season. United also returned to the Champions League with a four-nil win over Sabah. The honest verdict is harder: Carrick solved the first problem, clarity, and has now met the second, repeatability. His team can punish space. It has not proved it can create against caution, defend after its own attacks, or sustain collective intensity when momentum turns. Sacking him would not answer those questions. Protecting him from them would be just as dangerous. Manchester United do not need another saviour with a new diagram. They need Carrick and the hierarchy to make one football idea survive bad form, different opponents, and the next transfer window. Until that happens, every rebuild will keep looking like progress right before the next reset. The next phase therefore needs a different kind of patience. It is not patience with poor performances for their own sake; it is patience with a clearly defined model while demanding evidence that the model is becoming more resilient. United should be able to explain what they want the full-backs, pivots, wingers and first defender to do in every game state. If they can, Carrick has a platform. If they cannot, the next reset will only rename the same problem.",
+      "broll": [
+        {
+          "file": "assets/broll/0Pmw4s8w-O0.mp4",
+          "start": 30,
+          "duration": 4.2,
+          "label": "conclusion_00"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 59,
+          "duration": 4.2,
+          "label": "conclusion_01"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 88,
+          "duration": 4.2,
+          "label": "conclusion_02"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 134,
+          "duration": 4.2,
+          "label": "cold_open_04"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 146,
+          "duration": 4.2,
+          "label": "conclusion_04"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 175,
+          "duration": 4.2,
+          "label": "conclusion_05"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 204,
+          "duration": 4.2,
+          "label": "conclusion_06"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 23,
+          "duration": 4.2,
+          "label": "conclusion_07"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/wppwUeYVQXo.mp4",
+          "start": 81,
+          "duration": 4.2,
+          "label": "conclusion_09"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 110,
+          "duration": 4.2,
+          "label": "conclusion_10"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 139,
+          "duration": 4.2,
+          "label": "conclusion_11"
+        },
+        {
+          "file": "assets/broll/4Oeu-tOvXcE.mp4",
+          "start": 163,
+          "duration": 4.2,
+          "label": "cold_open_05"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 197,
+          "duration": 4.2,
+          "label": "conclusion_13"
+        },
+        {
+          "file": "assets/broll/zseiHM5FtVA.mp4",
+          "start": 226,
+          "duration": 4.2,
+          "label": "conclusion_14"
+        },
+        {
+          "file": "assets/broll/Kawuk_LevLw.mp4",
+          "start": 127,
+          "duration": 4.2,
+          "label": "cold_open_11"
+        },
+        {
+          "file": "assets/broll/Qiob0M7_kCI.mp4",
+          "start": 18,
+          "duration": 4.2,
+          "label": "cold_open_00"
+        },
+        {
+          "file": "assets/broll/WFWdZX7QZDc.mp4",
+          "start": 47,
+          "duration": 4.2,
+          "label": "cold_open_01"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 4.2,
+          "label": "cold_open_02"
+        },
+        {
+          "file": "assets/broll/vqiU8yTPqQs.mp4",
+          "start": 76,
+          "duration": 2.0,
+          "label": "cold_open_02"
+        }
+      ]
+    }
+  ]
+}

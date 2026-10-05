@@ -1,0 +1,36 @@
+Generating ElevenLabs part 1/3 (179 chars)
+Generating ElevenLabs part 2/3 (179 chars)
+Generating ElevenLabs part 3/3 (108 chars)
+Generated 3 parts
+Final audio: C:\Users\Wendy\Documents\Football Channel\Video 023 - Free World Cup 2026 predictor Simulate your road to the fina\assets\voiceover\elevenlabs\voiceover_elevenlabs_full.mp3
+{
+  "kind": "youtube#thumbnailSetResponse",
+  "etag": "7ArD2VRKpmGOUa6eZ1tjmirz1sE",
+  "items": [
+    {
+      "default": {
+        "url": "https://i.ytimg.com/vi/HrAThssfGLY/default.jpg",
+        "width": 120,
+        "height": 90
+      },
+      "medium": {
+        "url": "https://i.ytimg.com/vi/HrAThssfGLY/mqdefault.jpg",
+        "width": 320,
+        "height": 180
+      },
+      "high": {
+        "url": "https://i.ytimg.com/vi/HrAThssfGLY/hqdefault.jpg",
+        "width": 480,
+        "height": 360
+      }
+    }
+  ]
+}
+{
+  "project": "C:\\Users\\Wendy\\Documents\\Football Channel\\Video 023 - Free World Cup 2026 predictor Simulate your road to the fina",
+  "title": "Free World Cup 2026 predictor: Simulate your road to the final",
+  "final_video": "C:\\Users\\Wendy\\Documents\\Football Channel\\Video 023 - Free World Cup 2026 predictor Simulate your road to the fina\\final video\\capcut export\\free-world-cup-2026-predictor-simulate-your-road-to-the-final.mp4",
+  "video_id": "HrAThssfGLY",
+  "url": "",
+  "thumbnail": "C:\\Users\\Wendy\\Documents\\Football Channel\\Video 023 - Free World Cup 2026 predictor Simulate your road to the fina\\assets\\thumbnail\\thumbnail_primary.png"
+}

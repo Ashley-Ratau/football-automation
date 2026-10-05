@@ -1,0 +1,1051 @@
+[
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/_Ej9w-zFyHI.mp4",
+  "start": 8.14,
+  "t": 0.0,
+  "sec": "q_cheats",
+  "bw": true,
+  "tag": "Ars\u00e8ne Wenger \u00b7 2016 \u00b7 on doping in sport",
+  "speaker": true,
+  "dur": 7.5
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 40,
+  "bw": true,
+  "kind": "clip",
+  "t": 7.5,
+  "sec": "q_cheats",
+  "dur": 5.0
+ },
+ {
+  "file": "assets/clips/hd/_Ej9w-zFyHI.mp4",
+  "start": 20.64,
+  "bw": true,
+  "keep_audio_time": true,
+  "kind": "clip",
+  "t": 12.5,
+  "sec": "q_cheats",
+  "dur": 5.733333333333334
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 43,
+  "t": 18.22,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 1.5999999999999979
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 103,
+  "t": 19.83,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 4.700000000000003
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 130,
+  "t": 24.543999999999997,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 3.7666666666666657
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 118,
+  "t": 28.305999999999997,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 2.366666666666667
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 34,
+  "t": 30.662,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 3.4999999999999964
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 2,
+  "t": 34.18,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 4.800000000000004
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 43,
+  "t": 38.95099999999999,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 1.5333333333333314
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 10,
+  "t": 40.483999999999995,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 1.6666666666666643
+ },
+ {
+  "file": "assets/clips/hd/c0xtseSCR00.mp4",
+  "start": 36,
+  "t": 42.179,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 2.06666666666667
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 163,
+  "slow": true,
+  "t": 44.221999999999994,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 1.9666666666666686
+ },
+ {
+  "kind": "title",
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 366,
+  "t": 46.20174603174603,
+  "sec": "title",
+  "dur": 3.1999999999999957
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 50,
+  "t": 49.401746031746036,
+  "sec": "the_principle",
+  "kind": "clip",
+  "dur": 3.0333333333333314
+ },
+ {
+  "file": "assets/clips/hd/ZpEhdXY5Wqk.mp4",
+  "start": 20,
+  "bw": true,
+  "t": 52.43974603174604,
+  "sec": "the_principle",
+  "kind": "clip",
+  "dur": 4.0333333333333385
+ },
+ {
+  "file": "assets/clips/hd/ZpEhdXY5Wqk.mp4",
+  "start": 27,
+  "bw": true,
+  "t": 56.468746031746036,
+  "sec": "the_principle",
+  "kind": "clip",
+  "dur": 4.766666666666666
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/ZpEhdXY5Wqk.mp4",
+  "start": 10.510000000000002,
+  "t": 61.22240362811792,
+  "sec": "q_1996",
+  "bw": true,
+  "tag": "Ars\u00e8ne Wenger \u00b7 1996",
+  "speaker": true,
+  "dur": 8.200000000000003
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 22,
+  "t": 69.44240362811792,
+  "sec": "the_squeeze",
+  "kind": "clip",
+  "dur": 1.86666666666666
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 26,
+  "t": 71.29640362811791,
+  "sec": "the_squeeze",
+  "kind": "clip",
+  "dur": 1.0666666666666629
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 586,
+  "t": 72.36440362811791,
+  "sec": "the_squeeze",
+  "kind": "clip",
+  "dur": 3.200000000000003
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 14,
+  "t": 75.56940362811791,
+  "sec": "the_squeeze",
+  "kind": "clip",
+  "dur": 2.066666666666677
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 78,
+  "t": 77.62340362811791,
+  "sec": "the_squeeze",
+  "kind": "clip",
+  "dur": 2.066666666666663
+ },
+ {
+  "file": "assets/clips/hd/_OdfMfFX9zU.mp4",
+  "start": 28,
+  "t": 79.71340362811792,
+  "sec": "the_squeeze",
+  "kind": "clip",
+  "dur": 4.299999999999997
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/_OdfMfFX9zU.mp4",
+  "start": 36.900000000000006,
+  "t": 84.00301587301587,
+  "sec": "q_squeeze",
+  "bw": false,
+  "tag": "Ars\u00e8ne Wenger \u00b7 Sky Sports",
+  "speaker": true,
+  "dur": 8.5
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 14,
+  "kind": "clip",
+  "t": 92.50301587301587,
+  "sec": "q_squeeze",
+  "dur": 4.5
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 150,
+  "kind": "clip",
+  "t": 97.00301587301587,
+  "sec": "q_squeeze",
+  "dur": 6.0
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 46,
+  "kind": "clip",
+  "t": 103.00301587301587,
+  "sec": "q_squeeze",
+  "dur": 4.0
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 30,
+  "kind": "clip",
+  "t": 107.00301587301587,
+  "sec": "q_squeeze",
+  "dur": 4.666666666666671
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 126,
+  "t": 111.66301587301587,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 1.7999999999999972
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 150,
+  "t": 113.45901587301587,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 2.2666666666666657
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 107,
+  "t": 115.73501587301587,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 2.933333333333337
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 38,
+  "t": 118.68301587301586,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 5.133333333333326
+ },
+ {
+  "file": "assets/clips/hd/eTWuCyg9CAo.mp4",
+  "start": 3,
+  "bw": true,
+  "t": 123.81501587301587,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 2.5
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 282,
+  "t": 126.30001587301587,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 3.299999999999997
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 293,
+  "t": 129.60801587301586,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 2.8666666666666742
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 34,
+  "t": 132.46401587301585,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 2.0
+ },
+ {
+  "file": "assets/clips/hd/tn4NzUlINPU.mp4",
+  "start": 0,
+  "bw": true,
+  "t": 134.46101587301587,
+  "sec": "takeover",
+  "kind": "clip",
+  "dur": 4.633333333333326
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/tn4NzUlINPU.mp4",
+  "start": 102.11,
+  "t": 139.08748299319728,
+  "sec": "q_former_players",
+  "bw": true,
+  "tag": "Ars\u00e8ne Wenger \u00b7 September 2009",
+  "speaker": true,
+  "dur": 6.5
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 38,
+  "kind": "clip",
+  "t": 145.58748299319728,
+  "sec": "q_former_players",
+  "dur": 7.0
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 82,
+  "t": 152.6074829931973,
+  "sec": "etihad",
+  "kind": "clip",
+  "dur": 3.6333333333333258
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 18,
+  "t": 156.2264829931973,
+  "sec": "etihad",
+  "kind": "clip",
+  "dur": 2.833333333333343
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 114,
+  "t": 159.0704829931973,
+  "sec": "etihad",
+  "kind": "clip",
+  "dur": 2.3000000000000114
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 66,
+  "t": 161.3574829931973,
+  "sec": "etihad",
+  "kind": "clip",
+  "dur": 2.6333333333333258
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 58,
+  "t": 163.9934829931973,
+  "sec": "etihad",
+  "kind": "clip",
+  "dur": 3.6333333333333258
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 6,
+  "t": 167.6384829931973,
+  "sec": "etihad",
+  "kind": "clip",
+  "dur": 1.6666666666666856
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 38,
+  "t": 169.3104829931973,
+  "sec": "etihad",
+  "kind": "clip",
+  "dur": 3.3333333333333144
+ },
+ {
+  "kind": "card",
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 42.1,
+  "t": 172.6480045351474,
+  "sec": "card_etihad",
+  "lines": [
+   "\u201cIf financial fair play is to have a chance,",
+   "the sponsorship has to be at the market price.",
+   "It cannot be doubled, tripled or quadrupled.\u201d"
+  ],
+  "credit": "Ars\u00e8ne Wenger \u00b7 July 2011 \u00b7 via The Guardian",
+  "dur": 7.800000000000011
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 90,
+  "t": 180.44800453514742,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 1.1999999999999886
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 94,
+  "t": 181.64000453514743,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 2.200000000000017
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 44,
+  "t": 183.82300453514742,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 2.866666666666646
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 134,
+  "t": 186.7020045351474,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 4.900000000000006
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 34,
+  "t": 191.6130045351474,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 4.900000000000006
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 46,
+  "t": 196.51300453514742,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 1.0666666666666629
+ },
+ {
+  "file": "assets/clips/hd/nxAdOBK3Jcs.mp4",
+  "start": 2,
+  "bw": true,
+  "t": 197.56900453514743,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 1.0
+ },
+ {
+  "file": "assets/clips/hd/A0h3HYIKkJg.mp4",
+  "start": 12,
+  "bw": true,
+  "t": 198.57900453514742,
+  "sec": "nasri",
+  "kind": "clip",
+  "dur": 2.166666666666657
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/nxAdOBK3Jcs.mp4",
+  "start": 70.85,
+  "t": 200.72072562358278,
+  "sec": "q_nasri",
+  "bw": true,
+  "tag": "Ars\u00e8ne Wenger \u00b7 August 2011",
+  "speaker": true,
+  "dur": 2.833333333333343
+ },
+ {
+  "file": "assets/broll/city_qpr_2012.mp4",
+  "start": 1376,
+  "t": 203.5807256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 2.4000000000000057
+ },
+ {
+  "file": "assets/broll/city_qpr_2012.mp4",
+  "start": 1418,
+  "t": 205.9567256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 2.166666666666657
+ },
+ {
+  "file": "assets/broll/city_qpr_2012.mp4",
+  "start": 1442,
+  "t": 208.1167256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 2.26666666666668
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 22,
+  "t": 210.4157256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 2.0
+ },
+ {
+  "file": "assets/clips/hd/8IdB-Xx4eHY.mp4",
+  "start": 30,
+  "t": 212.3887256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 3.3333333333333144
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 26,
+  "t": 215.74472562358278,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 1.9000000000000057
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 70,
+  "t": 217.62572562358278,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 1.5333333333333314
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 86,
+  "t": 219.1817256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 4.866666666666674
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 2,
+  "bw": true,
+  "t": 224.0457256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 1.8333333333333428
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 34,
+  "bw": true,
+  "t": 225.8567256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 2.23333333333332
+ },
+ {
+  "file": "assets/clips/hd/c0xtseSCR00.mp4",
+  "start": 20,
+  "t": 228.0867256235828,
+  "sec": "titles",
+  "kind": "clip",
+  "dur": 5.466666666666669
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/c0xtseSCR00.mp4",
+  "start": 36.11,
+  "t": 233.55938775510208,
+  "sec": "q_petrol",
+  "bw": false,
+  "tag": "Ars\u00e8ne Wenger \u00b7 December 2017",
+  "speaker": true,
+  "dur": 8.5
+ },
+ {
+  "file": "assets/clips/hd/1lOYBduFs0g.mp4",
+  "start": 0,
+  "t": 242.0793877551021,
+  "sec": "united",
+  "kind": "clip",
+  "dur": 5.166666666666657
+ },
+ {
+  "file": "assets/clips/hd/1lOYBduFs0g.mp4",
+  "start": 40,
+  "t": 247.2423877551021,
+  "sec": "united",
+  "kind": "clip",
+  "dur": 2.0666666666666913
+ },
+ {
+  "file": "assets/clips/hd/1lOYBduFs0g.mp4",
+  "start": 90,
+  "t": 249.29738775510208,
+  "sec": "united",
+  "kind": "clip",
+  "dur": 2.4666666666666686
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/1lOYBduFs0g.mp4",
+  "start": 22.32,
+  "t": 251.76380952380958,
+  "sec": "q_united",
+  "bw": false,
+  "tag": "Ars\u00e8ne Wenger \u00b7 January 2018",
+  "speaker": true,
+  "dur": 11.433333333333309
+ },
+ {
+  "file": "assets/clips/hd/1lOYBduFs0g.mp4",
+  "start": 100,
+  "t": 263.1838095238096,
+  "sec": "united_2",
+  "kind": "clip",
+  "dur": 4.03333333333336
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 138,
+  "slow": true,
+  "t": 267.2318095238096,
+  "sec": "united_2",
+  "kind": "clip",
+  "dur": 2.433333333333337
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 410,
+  "t": 269.6638775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 1.7333333333332916
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 530,
+  "t": 271.4138775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 1.9333333333333371
+ },
+ {
+  "file": "assets/broll/tifo_football_leaks.mp4",
+  "start": 172,
+  "t": 273.3408775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 6.366666666666674
+ },
+ {
+  "file": "assets/broll/tifo_football_leaks.mp4",
+  "start": 186,
+  "t": 279.6908775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 4.53333333333336
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 18,
+  "t": 284.2428775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 1.8000000000000114
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 23,
+  "t": 286.0418775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 2.2333333333332916
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 35,
+  "t": 288.2598775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 1.3333333333333712
+ },
+ {
+  "file": "assets/clips/hd/ZKu4Bgdscz8.mp4",
+  "start": 0,
+  "t": 289.6058775510205,
+  "sec": "leaks",
+  "kind": "clip",
+  "dur": 1.9666666666666401
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/ZKu4Bgdscz8.mp4",
+  "start": 10.88,
+  "t": 291.5619954648527,
+  "sec": "q_rules",
+  "bw": false,
+  "tag": "Ars\u00e8ne Wenger \u00b7 February 2020",
+  "speaker": true,
+  "dur": 8.0
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 18,
+  "kind": "clip",
+  "t": 299.5619954648527,
+  "sec": "q_rules",
+  "dur": 8.733333333333348
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/ZKu4Bgdscz8.mp4",
+  "start": 64.39999999999999,
+  "t": 308.3019954648527,
+  "sec": "q_punished",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 7.0
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 130,
+  "kind": "clip",
+  "t": 315.3019954648527,
+  "sec": "q_punished",
+  "dur": 5.0
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 26,
+  "kind": "clip",
+  "t": 320.3019954648527,
+  "sec": "q_punished",
+  "dur": 7.166666666666629
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 42,
+  "t": 327.46199546485275,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 2.933333333333337
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 46,
+  "t": 330.3839954648528,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 3.1666666666666856
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 62,
+  "t": 333.57699546485276,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 4.2666666666666515
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 110,
+  "t": 337.8379954648527,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 4.433333333333337
+ },
+ {
+  "file": "assets/clips/hd/dCbEdL2fEDc.mp4",
+  "start": 20,
+  "t": 342.2729954648527,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 2.3666666666666742
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/dCbEdL2fEDc.mp4",
+  "start": 32.75,
+  "t": 344.6232426303856,
+  "sec": "q_klopp",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 July 2020",
+  "speaker": true,
+  "dur": 12.733333333333348
+ },
+ {
+  "file": "assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 114,
+  "t": 357.3832426303856,
+  "sec": "cas_2",
+  "kind": "clip",
+  "dur": 2.533333333333303
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/zH7xhCUEfZ4.mp4",
+  "start": 0,
+  "t": 359.91591836734705,
+  "sec": "q_pep_apology",
+  "bw": false,
+  "tag": "Pep Guardiola \u00b7 July 2020",
+  "speaker": true,
+  "dur": 10.766666666666708
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/zH7xhCUEfZ4.mp4",
+  "start": 44.160000000000004,
+  "t": 370.65591836734706,
+  "sec": "q_pep_cheating",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 5.066666666666663
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 106,
+  "t": 375.73591836734704,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 1.7666666666666515
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 114,
+  "t": 377.48591836734704,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 3.5
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 119,
+  "t": 381.01491836734704,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 1.6666666666666856
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 3,
+  "t": 382.66391836734704,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.1666666666666288
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 46,
+  "t": 384.82291836734703,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.7666666666667084
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 127,
+  "t": 387.60891836734703,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.3666666666666174
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 146,
+  "t": 389.97791836734706,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 6.2333333333333485
+ },
+ {
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 122,
+  "t": 396.188918367347,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 3.8333333333333712
+ },
+ {
+  "kind": "card",
+  "file": "assets/broll/sky_fa_statement_2026.mp4",
+  "start": 106,
+  "t": 400.04891156462594,
+  "sec": "card_pl",
+  "lines": [
+   "Seasons 2009/10 to 2017/18.",
+   "\u201cSham\u201d contracts.",
+   "More than \u00a3900 million."
+  ],
+  "credit": "Premier League statement \u00b7 29 September 2026",
+  "dur": 6.7999999999999545
+ },
+ {
+  "file": "assets/broll/sky_city_appeal.mp4",
+  "start": 8,
+  "t": 406.84891156462595,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 2.8666666666666742
+ },
+ {
+  "file": "assets/broll/sky_city_appeal.mp4",
+  "start": 34,
+  "t": 409.68991156462596,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 3.2333333333333485
+ },
+ {
+  "file": "assets/broll/sky_city_appeal.mp4",
+  "start": 46,
+  "t": 412.94091156462594,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 5.399999999999977
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 362,
+  "slow": true,
+  "t": 418.32791156462594,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 3.3666666666666742
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 510,
+  "slow": true,
+  "t": 421.69491156462595,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 3.1999999999999886
+ },
+ {
+  "file": "assets/clips/hd/DQwS2cONShU.mp4",
+  "start": 294,
+  "bw": true,
+  "t": 424.89251700680285,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.3666666666666742
+ },
+ {
+  "file": "assets/broll/city_trophy_2018.mp4",
+  "start": 34,
+  "bw": true,
+  "t": 426.27051700680283,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.6666666666666856
+ },
+ {
+  "file": "assets/broll/wenger_touchline.mp4",
+  "start": 6,
+  "bw": true,
+  "t": 427.91951700680283,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 3.7333333333333485
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 418,
+  "t": 431.65751700680283,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 2.1999999999999886
+ },
+ {
+  "file": "assets/clips/hd/ZpEhdXY5Wqk.mp4",
+  "start": 10,
+  "bw": true,
+  "t": 433.87551700680285,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.8999999999999773
+ },
+ {
+  "file": "assets/broll/etihad_deal_2011.mp4",
+  "start": 82,
+  "bw": true,
+  "t": 435.75551700680285,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.5666666666666629
+ },
+ {
+  "file": "assets/clips/hd/ZKu4Bgdscz8.mp4",
+  "start": 2,
+  "t": 437.34651700680286,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 2.2666666666667084
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/hd/ZKu4Bgdscz8.mp4",
+  "start": 22.82,
+  "t": 439.59244897959195,
+  "sec": "q_end",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 4.7999999999999545
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 550,
+  "slow": true,
+  "t": 444.39244897959196,
+  "sec": "outro",
+  "kind": "clip",
+  "dur": 1.9333333333333371
+ },
+ {
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 366,
+  "slow": true,
+  "t": 446.33944897959196,
+  "sec": "outro",
+  "kind": "clip",
+  "dur": 1.7666666666667084
+ },
+ {
+  "kind": "end",
+  "file": "assets/broll/wenger_farewell.mp4",
+  "start": 574,
+  "t": 448.0861224489797,
+  "sec": "end",
+  "dur": 4.0
+ }
+]

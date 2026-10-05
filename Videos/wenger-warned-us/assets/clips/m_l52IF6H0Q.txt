@@ -1,0 +1,119 @@
+    0.0 They have been the dominant force in English football for more than a decade, with millions
+    4.0 of fans around the world.
+    6.0 But now Manchester City's status as one of Global Football's top clubs is under threat
+   11.2 after having been found guilty of a majority of over 100 financial rule breaches.
+   17.7 It follows an unprecedented investigation that has lasted several years.
+   22.0 What punishment could follow is still to be decided and the club is likely to appeal
+   26.5 but one sanction could see them kicked out of the Premier League.
+   31.1 In a moment, we'll take a look at how the scandal came to light the result of a hack
+   34.8 of City's emails, but first, Dan Rowan has our top story tonight from the Etihad Stadium
+   39.7 in Manchester.
+   44.2 Clive, this is a ruling that will reverberate around the sporting world, and if it is confirmed
+   49.9 and upheld after any appeal by City, it will surely confirm one of English football's
+   54.7 The scale of this case is staggering, spanning 14 seasons,
+   59.5 a period in which City won the Premier League seven times.
+   63.2 The Premier League had come under mounting pressure
+   64.8 over the amount of time this case had been taking,
+   67.6 but finally today, as first reported by the Athletic,
+   71.3 came news, and it was news that City had been dreading.
+   76.5 Over the past decade, Manchester City have enjoyed an era of unprecedented success,
+   81.4 the only English club in history to have won the top division title four times in a row.
+   85.9 But for years now a cloud has hung above the Etihad, City accused of a catalogue of financial
+   91.4 rule violations by the very competition they'd dominated for so long.
+   96.3 And today finally came seismic news, City found guilty of the majority of 115 charges.
+  103.2 In a statement the club said, the Premier League process remains ongoing with significant
+  107.7 elements to be completed.
+  109.5 The club has diligently respected due process for eight years on the basis that the Premier
+  113.9 League board and executive would behave as an independent, impartial and fair-minded regulator
+  118.9 free from partisan influence. And tonight's reaction from a former chairman and star player.
+  126.0 I feel almost in a state of shock at this news and I have to say I feel incredibly sorry for
+  132.8 our wonderful fans, great supporters who support the club through thick and thin
+  138.1 and now find themselves with this sort of problem that's a huge issue the club is facing.
+  144.7 What we did, they cannot take it out of us. I mean, it's something that is not paid by
+  151.4 money, you know, it's paid with effort, with partnership, with, you know, being shoulder
+  159.4 to shoulder every day.
+  161.5 This the reaction of fans outside the Etihad.
+  164.0 Regardless what happens, the city found first and foremost, do I agree with the rules? No,
+  169.3 but if they've brought the rules, then they've brought the rules.
+  171.3 I don't want to say something's been tainted when we're not at the bottom of this. There's still,
+  176.2 you know, things to go on in the background.
+  179.0 It's a big club. They've got the infrastructure to fight it. They've got the money. I think it'll
+  183.0 be all right.
+  184.4 So how did we get here? In February 2023, City faced a catalogue of alleged breaches of
+  190.9 the Premier League rulebook, 54 charges over a failure to provide accurate financial information
+  196.2 across nine seasons, and 14 more over a failure to provide accurate details for player and
+  202.3 manager payments over the same period. They were also accused of 12 counts of failing
+  206.9 to comply with both UEFA and Premier League financial rules, and 35 charges of failing
+  212.3 to cooperate with the Premier League's investigation. Manchester City had been accused of misrepresentation,
+  218.3 effectively financial fraud in the shape of, first of all,
+  223.0 artificially inflating the money coming into the club.
+  225.8 According to the Premier League at the time,
+  228.3 Manchester City were taking money from the owner
+  230.6 and pretending it was money from sponsors.
+  233.0 And that went into their money in column.
+  236.3 Denying all the allegations,
+  237.8 City said they were surprised by the charges
+  240.2 and supported by what they called
+  242.0 a body of irrefutable evidence.
+  244.3 How confident are you that you have been told everything?
+  248.5 My first thought is that we have already been condemned.
+  252.1 The saga began back in 2008 when City's fortunes were transformed
+  256.2 after it was bought by Sheikh Mansour, a billionaire member of Abu Dhabi's ruling family.
+  261.2 His wealth secured some of the world's best players and a first Premier League title in 2012.
+  268.1 But two years later the club was sanctioned by UEFA for breaching financial fair play rules
+  272.4 that limited clubs losses to deter overspending and then in 2016 German
+  277.9 publication D'Spiegel published details from leaked emails. The magazine claimed
+  283.6 the document showed that Citi had effectively deceived UEFA by
+  287.1 artificially inflating sponsorship revenue from state-owned companies. Citi
+  291.7 and the companies involved denied wrongdoing, the clubs saying the leaked
+  295.1 emails were obtained illegally and an attempt to damage its reputation. Its
+  309.6 In 2020, City were found to have broken UEFA's rules, but they appealed and had a two-year
+  315.7 ban from European competition overturned. On the field, more and more titles were being
+  321.5 won, but in February 2023 came the Premier League's charges.
+  327.2 A hearing took place more than two years ago, and on the eve of the new season, with a
+  331.5 a decision still not revealed, I asked the Premier League's Chief Executive what was
+  335.2 going on.
+  336.1 Are you surprised by the length of time it's taken or do you think it's not a surprise
+  339.7 given the scope, given the scale of it?
+  342.0 It's hugely complex, the hearing took 12 weeks and so it has taken long when expected.
+  349.3 Finally football appears to have one of its biggest ever results but with no news of
+  353.5 a sanction and city set to appeal, the saga is far from over.
+  360.4 Well you saw then how this story first emerged a full decade ago. Laura Scott now takes a
+  366.2 closer look at the role played by a computer hacker and his revelations.
+  371.8 He's the cherubic looking convicted computer hacker who for a decade has brought chaos to
+  377.2 the world of football including Manchester City and yet even the most avid fans don't
+  382.9 know the name Rui Pinto.
+  385.2 We travelled around Europe to find out more about this mysterious figure.
+  389.1 Long before he made powerful enemies through his hacking, Pinto was described as a normal
+  395.6 sociable schoolboy who had a humble upbringing in Portugal.
+  399.8 He was very good in computers. All the work that he did for various courses were very
+  405.7 good when he put his mind to it.
+  408.5 Pinto moved to Budapest and in 2015 set up football leagues, which sought to show the
+  413.9 hidden side of football.
+  415.2 Having initially published everything on his Football Leaks website, Rui Pinto
+  420.6 agreed to meet a journalist, Raphael Bushman, from the German magazine
+  425.2 De Spiegel. Once he knew he could trust him, he shared tens of millions of
+  430.1 documents with him. It was then up to a team of journalists in this building in
+  434.4 Hamburg to meticulously go through it all, producing some of the most explosive
+  439.5 articles the football world has ever seen.
+  443.1 It just painted a picture of the football world that we weren't able to paint before.
+  449.4 Rie Pinto absolutely is a whistleblower. He's one of the most important whistleblowers that
+  455.1 we have in Europe, or maybe the world.
+  458.0 Pinto has threatened to release more information in recent years, but his actions have brought
+  462.7 serious consequences for him personally, facing several court cases, including one brought
+  468.2 by sports bodies such as Ben Fica, which was dismissed on the basis he'd already been convicted
+  473.2 over similar charges in 2023.
+  476.3 He is an hacker, period, just like that. What he did is not a love, it's a crime and there
+  484.3 are no excuses.
+  486.1 He should be made an ally of our judicial and criminal investigative authorities.
+  493.3 What would you say then to Manchester City who have had their emails hacked by Rupinto?
+  501.5 Couldn't care less. Their problem? If they have nothing too high what's their problem?
+  506.1 For some he's a criminal hacker who stole information with sinister intentions.
+  511.5 To others he's a heroic whistleblower who shone a light on the darker side of the beautiful game.
+  517.8 Laura Scott BBC News
+  518.9 Well this current season was meant to be a new era for City with a new manager and a new squad instead the club faces the prospect of their many titles and achievements being tainted over recent years by a cheating scandal and now there may well be indeed there will be a sanctions ruling when they may face punishments ranging from very heavy fines to points deductions perhaps even expulsion from the league and beyond that the threat of legal chaos as well with a number of rival clubs weighing up the
+  552.0 possibility of seeking compensation and damages from them if they feel that
+  556.2 they've lost out on titles as a result of cities rule-breaking and so a long
+  561.8 way to go still in this saga and depending on the outcome of any appeal
+  567.0 they must now hope that almost two decades of Premier League history don't
+  570.6 have to be rewritten.

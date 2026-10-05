@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "file": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\assets\\inserts\\insert_1.mp4",
+    "source_url": "https://www.youtube.com/watch?v=cYyJErRsajM",
+    "source_file": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\assets\\inserts\\cYyJErRsajM_source.mp4",
+    "speaker": "Shaka Hislop",
+    "upload_date": "2026-09-19",
+    "start_seconds": 205.2,
+    "end_seconds": 267.78,
+    "duration_seconds": 62.58
+  },
+  {
+    "id": 2,
+    "file": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\assets\\inserts\\insert_2.mp4",
+    "source_url": "https://www.youtube.com/watch?v=rusifrXFv9U",
+    "source_file": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\assets\\inserts\\rusifrXFv9U_source.mp4",
+    "speaker": "Alejandro Moreno",
+    "upload_date": "2026-09-01",
+    "start_seconds": 220.42,
+    "end_seconds": 276.32,
+    "duration_seconds": 55.9
+  },
+  {
+    "id": 3,
+    "file": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\assets\\inserts\\insert_3.mp4",
+    "source_url": "https://www.youtube.com/watch?v=rusifrXFv9U",
+    "source_file": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\assets\\inserts\\rusifrXFv9U_source.mp4",
+    "speaker": "Herculez Gomez",
+    "upload_date": "2026-09-01",
+    "start_seconds": 76.68,
+    "end_seconds": 135.45,
+    "duration_seconds": 58.77
+  }
+]

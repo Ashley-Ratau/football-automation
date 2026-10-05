@@ -1,0 +1,78 @@
+[Script Info]
+ScriptType: v4.00+
+PlayResX: 1080
+PlayResY: 1920
+ScaledBorderAndShadow: yes
+WrapStyle: 2
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Main,Arial,50,&H00FFFFFF,&H0000FFFF,&H00000000,&H70000000,1,0,0,0,100,100,-1,0,1,7,0,5,55,55,0,1
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:00.01,0:00:00.48,Main,,0,0,0,,EUROPE SHOULD
+Dialogue: 0,0:00:00.39,0:00:00.86,Main,,0,0,0,,BE AFRAID
+Dialogue: 0,0:00:00.78,0:00:01.47,Main,,0,0,0,,OF BARCELONA
+Dialogue: 0,0:00:01.40,0:00:02.23,Main,,0,0,0,,AGAIN THEY
+Dialogue: 0,0:00:02.15,0:00:02.77,Main,,0,0,0,,HAVEN'T STARTED
+Dialogue: 0,0:00:02.70,0:00:03.24,Main,,0,0,0,,THIS SEASON
+Dialogue: 0,0:00:03.17,0:00:04.00,Main,,0,0,0,,THEY'VE DETONATED
+Dialogue: 0,0:00:03.95,0:00:04.65,Main,,0,0,0,,IT SIX
+Dialogue: 0,0:00:04.61,0:00:05.33,Main,,0,0,0,,LEAGUE GAMES
+Dialogue: 0,0:00:05.43,0:00:06.23,Main,,0,0,0,,SIX WINS
+Dialogue: 0,0:00:06.33,0:00:07.39,Main,,0,0,0,,TWENTY-EIGHT GOALS
+Dialogue: 0,0:00:07.53,0:00:08.20,Main,,0,0,0,,FIVE AGAINST
+Dialogue: 0,0:00:08.17,0:00:09.08,Main,,0,0,0,,ELCHE FIVE
+Dialogue: 0,0:00:08.99,0:00:09.83,Main,,0,0,0,,AGAINST RAYO
+Dialogue: 0,0:00:09.99,0:00:10.46,Main,,0,0,0,,FIVE AT
+Dialogue: 0,0:00:10.41,0:00:11.50,Main,,0,0,0,,VALENCIA FOUR
+Dialogue: 0,0:00:11.44,0:00:12.24,Main,,0,0,0,,AT LEVANTE
+Dialogue: 0,0:00:12.34,0:00:12.98,Main,,0,0,0,,THEN SEVEN
+Dialogue: 0,0:00:12.90,0:00:13.80,Main,,0,0,0,,AGAINST RACING
+Dialogue: 0,0:00:13.95,0:00:14.33,Main,,0,0,0,,AND WHEN
+Dialogue: 0,0:00:14.26,0:00:14.96,Main,,0,0,0,,EUROPE ARRIVED
+Dialogue: 0,0:00:15.03,0:00:16.23,Main,,0,0,0,,BARCELONA SMASHED
+Dialogue: 0,0:00:16.18,0:00:17.29,Main,,0,0,0,,FEYENOORD FIVE-ONE
+Dialogue: 0,0:00:17.38,0:00:17.94,Main,,0,0,0,,THIS ISN'T
+Dialogue: 0,0:00:17.91,0:00:18.80,Main,,0,0,0,,ONE SUPERSTAR
+Dialogue: 0,0:00:18.74,0:00:19.35,Main,,0,0,0,,CARRYING THEM
+Dialogue: 0,0:00:19.52,0:00:20.46,Main,,0,0,0,,RAPHINHA SCORED
+Dialogue: 0,0:00:20.48,0:00:21.60,Main,,0,0,0,,FIVE LEAGUE
+Dialogue: 0,0:00:21.54,0:00:22.10,Main,,0,0,0,,GOALS IN
+Dialogue: 0,0:00:22.06,0:00:22.93,Main,,0,0,0,,AUGUST THEN
+Dialogue: 0,0:00:22.86,0:00:23.14,Main,,0,0,0,,HIT A
+Dialogue: 0,0:00:23.09,0:00:23.88,Main,,0,0,0,,HAT-TRICK AGAINST
+Dialogue: 0,0:00:23.86,0:00:25.01,Main,,0,0,0,,RACING LAMINE
+Dialogue: 0,0:00:24.92,0:00:25.74,Main,,0,0,0,,YAMAL CAN
+Dialogue: 0,0:00:25.69,0:00:26.33,Main,,0,0,0,,CREATE SOMETHING
+Dialogue: 0,0:00:26.28,0:00:26.99,Main,,0,0,0,,FROM NOTHING
+Dialogue: 0,0:00:27.18,0:00:28.02,Main,,0,0,0,,PEDRI CONTROLS
+Dialogue: 0,0:00:27.97,0:00:28.49,Main,,0,0,0,,THE SPEED
+Dialogue: 0,0:00:28.43,0:00:28.83,Main,,0,0,0,,OF EVERY
+Dialogue: 0,0:00:28.75,0:00:29.57,Main,,0,0,0,,ATTACK AND
+Dialogue: 0,0:00:29.51,0:00:29.95,Main,,0,0,0,,THE DEPTH
+Dialogue: 0,0:00:29.88,0:00:30.32,Main,,0,0,0,,KEEPS THE
+Dialogue: 0,0:00:30.26,0:00:30.99,Main,,0,0,0,,PRESSURE COMING
+Dialogue: 0,0:00:30.93,0:00:31.38,Main,,0,0,0,,AFTER THE
+Dialogue: 0,0:00:31.30,0:00:32.89,Main,,0,0,0,,SUBSTITUTIONS YES
+Dialogue: 0,0:00:33.06,0:00:33.44,Main,,0,0,0,,THEY CAN
+Dialogue: 0,0:00:33.38,0:00:33.89,Main,,0,0,0,,STILL LEAVE
+Dialogue: 0,0:00:33.80,0:00:34.27,Main,,0,0,0,,SPACE AT
+Dialogue: 0,0:00:34.20,0:00:34.74,Main,,0,0,0,,THE BACK
+Dialogue: 0,0:00:35.07,0:00:35.48,Main,,0,0,0,,BUT WHEN
+Dialogue: 0,0:00:35.40,0:00:35.79,Main,,0,0,0,,A TEAM
+Dialogue: 0,0:00:35.76,0:00:36.34,Main,,0,0,0,,SCORES IN
+Dialogue: 0,0:00:36.29,0:00:37.19,Main,,0,0,0,,WAVES FROM
+Dialogue: 0,0:00:37.16,0:00:38.00,Main,,0,0,0,,EVERY POSITION
+Dialogue: 0,0:00:38.18,0:00:38.87,Main,,0,0,0,,ONE MISTAKE
+Dialogue: 0,0:00:38.79,0:00:39.42,Main,,0,0,0,,AGAINST THEM
+Dialogue: 0,0:00:39.36,0:00:40.11,Main,,0,0,0,,BECOMES THREE
+Dialogue: 0,0:00:40.04,0:00:40.48,Main,,0,0,0,,GOALS IN
+Dialogue: 0,0:00:40.42,0:00:40.99,Main,,0,0,0,,TEN MINUTES
+Dialogue: 0,0:00:41.20,0:00:41.95,Main,,0,0,0,,BARCELONA ARE
+Dialogue: 0,0:00:41.87,0:00:42.55,Main,,0,0,0,,NOT REBUILDING
+Dialogue: 0,0:00:42.47,0:00:43.52,Main,,0,0,0,,ANYMORE EUROPE
+Dialogue: 0,0:00:43.44,0:00:44.05,Main,,0,0,0,,HAS OFFICIALLY
+Dialogue: 0,0:00:43.98,0:00:44.73,Main,,0,0,0,,BEEN WARNED

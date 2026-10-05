@@ -1,0 +1,1604 @@
+{
+  "schema_version": 1,
+  "title": "Barcelona are more dangerous than you think..",
+  "output_filename": "barcelona-user-edited.mp4",
+  "thumbnail": "assets/thumbnail/user_upscaled.jpg",
+  "music_bed": "assets/music_original.mp3",
+  "settings": {
+    "width": 1920,
+    "height": 1080,
+    "fps": 30,
+    "voice_speed": 1.0,
+    "voice_gain_db": 0.0,
+    "broll_clip_max_seconds": 4.0,
+    "insert_fade_seconds": 0.8,
+    "music_volume_db": -35.0,
+    "audio_rate": 44100,
+    "audio_channels": 2,
+    "min_duration_seconds": 480,
+    "max_duration_seconds": 600
+  },
+  "upload": {
+    "title": "Barcelona are more dangerous than you think..",
+    "description": "Barcelona are more dangerous than you think..\n\nAn original analysis of Barcelona's opening seven competitive matches of 2026/27, through the Racing game on 16 September 2026. Researched 19 September.\n\nSources and full research dossier are supplied with the local project.\nNarration: ElevenLabs Liam. No captions.",
+    "tags": [
+      "football",
+      "football analysis",
+      "soccer"
+    ],
+    "category": "17",
+    "privacy": "private"
+  },
+  "captions": {
+    "enabled": false,
+    "fontname": "Arial Black",
+    "font_size": 72,
+    "primary_color": "&H0000E6FF",
+    "outline_color": "&H00000000",
+    "back_color": "&H96000000",
+    "outline": 8,
+    "shadow": 4,
+    "alignment": 2,
+    "margin_l": 60,
+    "margin_r": 60,
+    "margin_v": 110,
+    "group_size": 2
+  },
+  "sound_effects": [],
+  "research_checks": {
+    "scoreline_verified": true,
+    "match_number_verified": true,
+    "records_verified": true,
+    "availability_verified": true,
+    "source_urls_recorded": true
+  },
+  "sections": [
+    {
+      "type": "vo",
+      "name": "hook",
+      "text": "How do you stop a team when solving one problem creates another? Double up on Lamine Yamal, and someone else gets the space. Follow Raphinha, and the next runner goes beyond you. Try to take a breath, and Barcelona are already coming again. Seven competitive games. Seven wins. Thirty-three goals. That is the start Hansi Flick's team have made to this season. But the scorelines are only half the warning. The really interesting part is how many different ways this Barcelona side can hurt you. And there is one match that explains both why Europe should be worried, and why nobody should hand them a trophy yet. Because this team is dangerous. More dangerous than you think. But first, look at what happens before their opponents have even settled.",
+      "broll": [
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 169.0,
+          "duration": 1.6545,
+          "label": "hook_00_00",
+          "narration_anchor": "How do you"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 8.0,
+          "duration": 1.6545,
+          "label": "hook_00_01",
+          "narration_anchor": "How do you"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 1.0,
+          "duration": 1.782,
+          "label": "hook_01_00",
+          "narration_anchor": "Double up"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 49.0,
+          "duration": 1.782,
+          "label": "hook_01_01",
+          "narration_anchor": "Double up"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 1.0,
+          "duration": 1.5095,
+          "label": "hook_02_00",
+          "narration_anchor": "Follow Raphinha"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 50.0,
+          "duration": 1.5095,
+          "label": "hook_02_01",
+          "narration_anchor": "Follow Raphinha"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 211.0,
+          "duration": 1.718,
+          "label": "hook_03_00",
+          "narration_anchor": "Try to take"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 352.0,
+          "duration": 1.718,
+          "label": "hook_03_01",
+          "narration_anchor": "Try to take"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 10.0,
+          "duration": 2.0025,
+          "label": "hook_04_00",
+          "narration_anchor": "Seven competitive"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 36.0,
+          "duration": 2.0025,
+          "label": "hook_04_01",
+          "narration_anchor": "Seven competitive"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 180.0,
+          "duration": 1.6195,
+          "label": "hook_05_00",
+          "narration_anchor": "That is the start"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 55.0,
+          "duration": 1.6195,
+          "label": "hook_05_01",
+          "narration_anchor": "That is the start"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 76.0,
+          "duration": 2.16,
+          "label": "hook_06_00",
+          "narration_anchor": "But the scorelines"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 278.0,
+          "duration": 2.287,
+          "label": "hook_07_00",
+          "narration_anchor": "The really interesting"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 92.0,
+          "duration": 2.287,
+          "label": "hook_07_01",
+          "narration_anchor": "The really interesting"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 118.0,
+          "duration": 2.008667,
+          "label": "hook_08_00",
+          "narration_anchor": "And there is one"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 140.0,
+          "duration": 2.008667,
+          "label": "hook_08_01",
+          "narration_anchor": "And there is one"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 157.0,
+          "duration": 2.008667,
+          "label": "hook_08_02",
+          "narration_anchor": "And there is one"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 34.0,
+          "duration": 1.6715,
+          "label": "hook_09_00",
+          "narration_anchor": "Because this team"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 176.0,
+          "duration": 1.6715,
+          "label": "hook_09_01",
+          "narration_anchor": "Because this team"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 7.0,
+          "duration": 1.854201,
+          "label": "hook_10_00",
+          "narration_anchor": "But first"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 15.0,
+          "duration": 1.854201,
+          "label": "hook_10_01",
+          "narration_anchor": "But first"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "early_damage",
+      "text": "Five minutes at Valencia. Three minutes against Feyenoord. Five at Levante. Eight against Racing. Four matches in a row, and Barcelona are on the scoreboard inside ten minutes every single time. That matters beyond the obvious advantage of being one goal up. An opponent can spend the entire week preparing to stay compact, protect the middle, and wait for one counterattack. Then the plan is chasing the game almost immediately. Stay deep, and Barcelona can keep working the ball around your box. Push more players forward, and suddenly there is space behind you. An early goal does not guarantee control. We will get to that. But it makes every decision more uncomfortable. And when your league record reads six wins, twenty-eight scored and six conceded, opponents cannot simply hope the first wave will be the last. The next question is where that first wave is coming from.",
+      "broll": [
+        {
+          "file": "assets/broll/valencia_5_0.mp4",
+          "start": 12.0,
+          "duration": 1.498,
+          "label": "early_damage_00_00",
+          "narration_anchor": "Five minutes at Valencia"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 9.0,
+          "duration": 1.59,
+          "label": "early_damage_01_00",
+          "narration_anchor": "Three minutes against"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 13.0,
+          "duration": 1.115,
+          "label": "early_damage_02_00",
+          "narration_anchor": "Five at Levante"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 13.0,
+          "duration": 1.219,
+          "label": "early_damage_03_00",
+          "narration_anchor": "Eight against Racing"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 18.0,
+          "duration": 2.885,
+          "label": "early_damage_04_00",
+          "narration_anchor": "Four matches"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 19.0,
+          "duration": 2.885,
+          "label": "early_damage_04_01",
+          "narration_anchor": "Four matches"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 183.0,
+          "duration": 3.019,
+          "label": "early_damage_05_00",
+          "narration_anchor": "That matters"
+        },
+        {
+          "file": "assets/broll/tactics_v2_early_damage_06_00.mp4",
+          "start": 0,
+          "duration": 3.013,
+          "label": "early_damage_06_00",
+          "narration_anchor": "An opponent can"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 325.0,
+          "duration": 3.013,
+          "label": "early_damage_06_01",
+          "narration_anchor": "An opponent can"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 23.0,
+          "duration": 2.565,
+          "label": "early_damage_07_00",
+          "narration_anchor": "Then the plan"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 111.0,
+          "duration": 3.507,
+          "label": "early_damage_08_00",
+          "narration_anchor": "Stay deep"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 170.0,
+          "duration": 3.332,
+          "label": "early_damage_09_00",
+          "narration_anchor": "Push more"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 116.0,
+          "duration": 3.483,
+          "label": "early_damage_10_00",
+          "narration_anchor": "An early goal"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 377.0,
+          "duration": 2.38,
+          "label": "early_damage_11_00",
+          "narration_anchor": "But it makes"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 81.0,
+          "duration": 2.921667,
+          "label": "early_damage_12_00",
+          "narration_anchor": "And when"
+        },
+        {
+          "file": "assets/broll/valencia_5_0.mp4",
+          "start": 155.0,
+          "duration": 2.921667,
+          "label": "early_damage_12_01",
+          "narration_anchor": "And when"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 174.0,
+          "duration": 2.921667,
+          "label": "early_damage_12_02",
+          "narration_anchor": "And when"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 274.0,
+          "duration": 3.126828,
+          "label": "early_damage_13_00",
+          "narration_anchor": "The next question"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "yamal_dilemma",
+      "text": "Start with Lamine. Seven league goals already, across four consecutive scoring appearances. Two against Rayo. Two at Valencia. Two at Levante. Then another against Racing. The player you worry about creating the chance is now finishing plenty of them himself. That changes the calculation for a defender. Give him room outside the box, and he can shoot. Rush into the challenge, and you give him the chance to take you out of the move. Send help, and somebody has left another area. Against Feyenoord, he even added a free kick. There is no single instruction that makes all of that disappear. Of course he can have quieter games. Every attacker can. The point is that containing his dribbling does not automatically contain his influence. And the more attention you commit to that side of the pitch, the more important it becomes to notice the player arriving somewhere else.",
+      "broll": [
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 0.0,
+          "duration": 1.207,
+          "label": "yamal_dilemma_00_00",
+          "narration_anchor": "Start with"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 61.0,
+          "duration": 1.939,
+          "label": "yamal_dilemma_01_00",
+          "narration_anchor": "Seven league"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 4.0,
+          "duration": 1.939,
+          "label": "yamal_dilemma_01_01",
+          "narration_anchor": "Seven league"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 2.0,
+          "duration": 1.208,
+          "label": "yamal_dilemma_02_00",
+          "narration_anchor": "Two against Rayo"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 3.0,
+          "duration": 1.056,
+          "label": "yamal_dilemma_03_00",
+          "narration_anchor": "Two at Valencia"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 93.0,
+          "duration": 1.115,
+          "label": "yamal_dilemma_04_00",
+          "narration_anchor": "Two at Levante"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 100.0,
+          "duration": 1.544,
+          "label": "yamal_dilemma_05_00",
+          "narration_anchor": "Then another"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 109.0,
+          "duration": 2.0025,
+          "label": "yamal_dilemma_06_00",
+          "narration_anchor": "The player"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 1.0,
+          "duration": 2.0025,
+          "label": "yamal_dilemma_06_01",
+          "narration_anchor": "The player"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 50.0,
+          "duration": 2.449,
+          "label": "yamal_dilemma_07_00",
+          "narration_anchor": "That changes"
+        },
+        {
+          "file": "assets/broll/tactics_v2_yamal_dilemma_08_00.mp4",
+          "start": 0,
+          "duration": 2.183,
+          "label": "yamal_dilemma_08_00",
+          "narration_anchor": "Give him"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 94.0,
+          "duration": 3.46,
+          "label": "yamal_dilemma_09_00",
+          "narration_anchor": "Rush into"
+        },
+        {
+          "file": "assets/broll/tactics_v2_yamal_dilemma_10_00.mp4",
+          "start": 0,
+          "duration": 2.682,
+          "label": "yamal_dilemma_10_00",
+          "narration_anchor": "Send help"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 2.0,
+          "duration": 2.368,
+          "label": "yamal_dilemma_11_00",
+          "narration_anchor": "Against Feyenoord"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 40.0,
+          "duration": 2.961,
+          "label": "yamal_dilemma_12_00",
+          "narration_anchor": "There is no"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 44.0,
+          "duration": 3.076,
+          "label": "yamal_dilemma_13_00",
+          "narration_anchor": "Of course"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 100.0,
+          "duration": 3.542,
+          "label": "yamal_dilemma_14_00",
+          "narration_anchor": "The point"
+        },
+        {
+          "file": "assets/broll/tactics_v2_yamal_dilemma_15_00.mp4",
+          "start": 0,
+          "duration": 2.590959,
+          "label": "yamal_dilemma_15_00",
+          "narration_anchor": "And the more"
+        },
+        {
+          "file": "assets/broll/tactics_v2_yamal_dilemma_15_01.mp4",
+          "start": 0,
+          "duration": 2.590959,
+          "label": "yamal_dilemma_15_01",
+          "narration_anchor": "And the more"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "raphinha_space",
+      "text": "That player is often Raphinha. Eleven goals in seven competitive matches is an astonishing return. But put the number aside for a moment and watch the movement. Against Feyenoord, his second goal comes from Pedri threading the ball into his run through the middle. The decisive action begins before the finish. A runner sees a gap. A midfielder sees the same gap. The pass arrives while the defence is still adjusting. That is the relationship opponents have to break. You cannot watch the ball, track every run, and close every passing lane with the same defender. Against Racing, Raphinha scored a hat-trick, including two penalties. So this is not a claim that every goal comes from some unstoppable open-play move. It is a broader problem: Barcelona are reaching dangerous areas in several ways, and Raphinha is turning those moments into punishment. Now look at the players making those moments possible.",
+      "broll": [
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 0.0,
+          "duration": 2.891,
+          "label": "raphinha_space_00_00",
+          "narration_anchor": "That player"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 25.0,
+          "duration": 3.68,
+          "label": "raphinha_space_01_00",
+          "narration_anchor": "Eleven goals"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 44.0,
+          "duration": 3.239,
+          "label": "raphinha_space_02_00",
+          "narration_anchor": "But put"
+        },
+        {
+          "file": "assets/broll/tactics_v2_raphinha_space_03_00.mp4",
+          "start": 0,
+          "duration": 2.7805,
+          "label": "raphinha_space_03_00",
+          "narration_anchor": "Against Feyenoord"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 2.0,
+          "duration": 2.7805,
+          "label": "raphinha_space_03_01",
+          "narration_anchor": "Against Feyenoord"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 44.0,
+          "duration": 2.566,
+          "label": "raphinha_space_04_00",
+          "narration_anchor": "The decisive"
+        },
+        {
+          "file": "assets/broll/tactics_v2_raphinha_space_05_00.mp4",
+          "start": 0,
+          "duration": 3.286,
+          "label": "raphinha_space_05_00",
+          "narration_anchor": "A runner"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 51.0,
+          "duration": 2.798,
+          "label": "raphinha_space_06_00",
+          "narration_anchor": "The pass"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 401.0,
+          "duration": 2.623,
+          "label": "raphinha_space_07_00",
+          "narration_anchor": "That is the"
+        },
+        {
+          "file": "assets/broll/tactics_v2_raphinha_space_08_00.mp4",
+          "start": 0,
+          "duration": 2.99,
+          "label": "raphinha_space_08_00",
+          "narration_anchor": "You cannot"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 208.0,
+          "duration": 2.99,
+          "label": "raphinha_space_08_01",
+          "narration_anchor": "You cannot"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 1.0,
+          "duration": 2.0605,
+          "label": "raphinha_space_09_00",
+          "narration_anchor": "Against Racing"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 128.0,
+          "duration": 2.0605,
+          "label": "raphinha_space_09_01",
+          "narration_anchor": "Against Racing"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 56.0,
+          "duration": 2.6065,
+          "label": "raphinha_space_10_00",
+          "narration_anchor": "So this"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 235.0,
+          "duration": 2.6065,
+          "label": "raphinha_space_10_01",
+          "narration_anchor": "So this"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 138.0,
+          "duration": 2.604667,
+          "label": "raphinha_space_11_00",
+          "narration_anchor": "It is a broader"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 15.0,
+          "duration": 2.604667,
+          "label": "raphinha_space_11_01",
+          "narration_anchor": "It is a broader"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 87.0,
+          "duration": 2.604667,
+          "label": "raphinha_space_11_02",
+          "narration_anchor": "It is a broader"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 156.0,
+          "duration": 3.010857,
+          "label": "raphinha_space_12_00",
+          "narration_anchor": "Now look"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "midfield_choices",
+      "text": "Pedri can make an attack look simple because he makes the decision before everyone else has finished reading the picture. The pass into Raphinha against Feyenoord is the clearest example. At Valencia, there is another: Pedri combines with Dani Olmo and finishes the move himself. Creator, then runner. The roles change inside the same attack. Rodri also made his first Barcelona start in that Valencia game. In one sequence, his escape from pressure begins a combination through Fermin and Lamine, with Fermin eventually striking the post. That move did not even need to become a goal to explain the threat. Close down one player, and the ball can travel through another. The question for a pressing team is brutal: can you win it before Barcelona find the free man? If you cannot, the players you sent forward to press are now behind the action.",
+      "broll": [
+        {
+          "file": "assets/broll/portrait_pedri.mp4",
+          "start": 0.0,
+          "duration": 2.798,
+          "label": "midfield_choices_00_00",
+          "narration_anchor": "Pedri can"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 157.0,
+          "duration": 2.798,
+          "label": "midfield_choices_00_01",
+          "narration_anchor": "Pedri can"
+        },
+        {
+          "file": "assets/broll/tactics_v2_midfield_choices_01_00.mp4",
+          "start": 0,
+          "duration": 3.622,
+          "label": "midfield_choices_01_00",
+          "narration_anchor": "The pass"
+        },
+        {
+          "file": "assets/broll/tactics_v2_midfield_choices_02_00.mp4",
+          "start": 0,
+          "duration": 2.9895,
+          "label": "midfield_choices_02_00",
+          "narration_anchor": "At Valencia"
+        },
+        {
+          "file": "assets/broll/portrait_pedri.mp4",
+          "start": 3.0,
+          "duration": 2.9895,
+          "label": "midfield_choices_02_01",
+          "narration_anchor": "At Valencia"
+        },
+        {
+          "file": "assets/broll/portrait_pedri.mp4",
+          "start": 4.0,
+          "duration": 2.171,
+          "label": "midfield_choices_03_00",
+          "narration_anchor": "Creator"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 331.0,
+          "duration": 2.868,
+          "label": "midfield_choices_04_00",
+          "narration_anchor": "The roles"
+        },
+        {
+          "file": "assets/broll/portrait_rodri.mp4",
+          "start": 1.0,
+          "duration": 2.0025,
+          "label": "midfield_choices_05_00",
+          "narration_anchor": "Rodri also"
+        },
+        {
+          "file": "assets/broll/tactics_v2_midfield_choices_05_01.mp4",
+          "start": 0,
+          "duration": 2.0025,
+          "label": "midfield_choices_05_01",
+          "narration_anchor": "Rodri also"
+        },
+        {
+          "file": "assets/broll/tactics_v2_midfield_choices_06_00.mp4",
+          "start": 0,
+          "duration": 3.402,
+          "label": "midfield_choices_06_00",
+          "narration_anchor": "In one sequence"
+        },
+        {
+          "file": "assets/broll/tactics_v2_midfield_choices_06_01.mp4",
+          "start": 0,
+          "duration": 3.402,
+          "label": "midfield_choices_06_01",
+          "narration_anchor": "In one sequence"
+        },
+        {
+          "file": "assets/broll/tactics_v2_midfield_choices_07_00.mp4",
+          "start": 0,
+          "duration": 3.146,
+          "label": "midfield_choices_07_00",
+          "narration_anchor": "That move"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 213.0,
+          "duration": 3.344,
+          "label": "midfield_choices_08_00",
+          "narration_anchor": "Close down"
+        },
+        {
+          "file": "assets/broll/tactics_v2_midfield_choices_09_00.mp4",
+          "start": 0,
+          "duration": 2.444,
+          "label": "midfield_choices_09_00",
+          "narration_anchor": "The question"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 287.0,
+          "duration": 2.444,
+          "label": "midfield_choices_09_01",
+          "narration_anchor": "The question"
+        },
+        {
+          "file": "assets/broll/valencia_5_0.mp4",
+          "start": 91.0,
+          "duration": 1.975575,
+          "label": "midfield_choices_10_00",
+          "narration_anchor": "If you cannot"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 170.0,
+          "duration": 1.975575,
+          "label": "midfield_choices_10_01",
+          "narration_anchor": "If you cannot"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "flick_mechanism",
+      "text": "This is where the individual talent becomes a team problem. Imagine you are the full-back facing Lamine. Your midfielder comes across to help. That can be the right decision, but now there is less protection inside. A Barcelona runner moves into that space, and the centre-back has a choice: step out, or hold the line. Neither choice is automatically wrong. The danger is choosing late, or choosing something different from the defender beside you. That is the tactical interpretation behind these combinations. Barcelona keep giving the opposition decisions to make, then try to attack the moment between one decision and the next. It does not mean every possession is perfect. It means a defensive plan has to work repeatedly, against different players, for the whole match. And just when tired legs start making those decisions harder, Flick has more options to introduce.",
+      "broll": [
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 184.0,
+          "duration": 3.274,
+          "label": "flick_mechanism_00_00",
+          "narration_anchor": "This is where"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_01_00.mp4",
+          "start": 0,
+          "duration": 2.926,
+          "label": "flick_mechanism_01_00",
+          "narration_anchor": "Imagine you"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_02_00.mp4",
+          "start": 0,
+          "duration": 2.264,
+          "label": "flick_mechanism_02_00",
+          "narration_anchor": "Your midfielder"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_03_00.mp4",
+          "start": 0,
+          "duration": 2.0955,
+          "label": "flick_mechanism_03_00",
+          "narration_anchor": "That can be"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 210.0,
+          "duration": 2.0955,
+          "label": "flick_mechanism_03_01",
+          "narration_anchor": "That can be"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_04_00.mp4",
+          "start": 0,
+          "duration": 3.4655,
+          "label": "flick_mechanism_04_00",
+          "narration_anchor": "A Barcelona runner"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_04_01.mp4",
+          "start": 0,
+          "duration": 3.4655,
+          "label": "flick_mechanism_04_01",
+          "narration_anchor": "A Barcelona runner"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 175.0,
+          "duration": 2.264,
+          "label": "flick_mechanism_05_00",
+          "narration_anchor": "Neither choice"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_06_00.mp4",
+          "start": 0,
+          "duration": 2.479,
+          "label": "flick_mechanism_06_00",
+          "narration_anchor": "The danger"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_06_01.mp4",
+          "start": 0,
+          "duration": 2.479,
+          "label": "flick_mechanism_06_01",
+          "narration_anchor": "The danger"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 189.0,
+          "duration": 2.0145,
+          "label": "flick_mechanism_07_00",
+          "narration_anchor": "That is the tactical"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 53.0,
+          "duration": 2.0145,
+          "label": "flick_mechanism_07_01",
+          "narration_anchor": "That is the tactical"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 129.0,
+          "duration": 3.2855,
+          "label": "flick_mechanism_08_00",
+          "narration_anchor": "Barcelona keep"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 304.0,
+          "duration": 3.2855,
+          "label": "flick_mechanism_08_01",
+          "narration_anchor": "Barcelona keep"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 233.0,
+          "duration": 3.192,
+          "label": "flick_mechanism_09_00",
+          "narration_anchor": "It does not"
+        },
+        {
+          "file": "assets/broll/tactics_v2_flick_mechanism_10_00.mp4",
+          "start": 0,
+          "duration": 2.6125,
+          "label": "flick_mechanism_10_00",
+          "narration_anchor": "It means"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 255.0,
+          "duration": 2.6125,
+          "label": "flick_mechanism_10_01",
+          "narration_anchor": "It means"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 99.0,
+          "duration": 2.64301,
+          "label": "flick_mechanism_11_00",
+          "narration_anchor": "And just"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 104.0,
+          "duration": 2.64301,
+          "label": "flick_mechanism_11_01",
+          "narration_anchor": "And just"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "additional_weapons",
+      "text": "Karim Adeyemi scored against Feyenoord. He settled the Levante match in stoppage time. Against Racing, he won two penalties and supplied Lamine's late goal. Those are different contributions in different situations: a finish, a decisive late intervention, and the ability to force mistakes and create for somebody else. Gabriel Jesus has also scored off the bench against both Feyenoord and Racing. This matters because opponents are not just preparing for Barcelona's starting eleven. They have to prepare for the next version of the attack. A game can be relatively controlled, then a substitution changes the speed, movement, or type of run they must deal with. That does not prove Barcelona have the best squad in Europe. Seven matches cannot prove that. It does show that this opening run has more behind it than one brilliant player carrying everyone else. But here comes the part the highlight reels can hide.",
+      "broll": [
+        {
+          "file": "assets/broll/portrait_adeyemi.mp4",
+          "start": 1.0,
+          "duration": 2.171,
+          "label": "additional_weapons_00_00",
+          "narration_anchor": "Karim Adeyemi"
+        },
+        {
+          "file": "assets/broll/portrait_adeyemi.mp4",
+          "start": 2.0,
+          "duration": 2.659,
+          "label": "additional_weapons_01_00",
+          "narration_anchor": "He settled"
+        },
+        {
+          "file": "assets/broll/portrait_adeyemi.mp4",
+          "start": 3.0,
+          "duration": 2.2405,
+          "label": "additional_weapons_02_00",
+          "narration_anchor": "Against Racing"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 128.0,
+          "duration": 2.2405,
+          "label": "additional_weapons_02_01",
+          "narration_anchor": "Against Racing"
+        },
+        {
+          "file": "assets/broll/tactics_v2_additional_weapons_03_00.mp4",
+          "start": 0,
+          "duration": 3.127,
+          "label": "additional_weapons_03_00",
+          "narration_anchor": "Those are different"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 43.0,
+          "duration": 3.127,
+          "label": "additional_weapons_03_01",
+          "narration_anchor": "Those are different"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 168.0,
+          "duration": 3.127,
+          "label": "additional_weapons_03_02",
+          "narration_anchor": "Those are different"
+        },
+        {
+          "file": "assets/broll/portrait_gabriel_jesus.mp4",
+          "start": 1.0,
+          "duration": 2.2635,
+          "label": "additional_weapons_04_00",
+          "narration_anchor": "Gabriel Jesus"
+        },
+        {
+          "file": "assets/broll/tactics_v2_additional_weapons_04_01.mp4",
+          "start": 0,
+          "duration": 2.2635,
+          "label": "additional_weapons_04_01",
+          "narration_anchor": "Gabriel Jesus"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 101.0,
+          "duration": 2.1595,
+          "label": "additional_weapons_05_00",
+          "narration_anchor": "This matters"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 75.0,
+          "duration": 2.1595,
+          "label": "additional_weapons_05_01",
+          "narration_anchor": "This matters"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 451.0,
+          "duration": 2.438,
+          "label": "additional_weapons_06_00",
+          "narration_anchor": "They have to"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 290.0,
+          "duration": 3.5415,
+          "label": "additional_weapons_07_00",
+          "narration_anchor": "A game can"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 105.0,
+          "duration": 3.5415,
+          "label": "additional_weapons_07_01",
+          "narration_anchor": "A game can"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 82.0,
+          "duration": 3.413,
+          "label": "additional_weapons_08_00",
+          "narration_anchor": "That does not"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 181.0,
+          "duration": 1.985,
+          "label": "additional_weapons_09_00",
+          "narration_anchor": "Seven matches"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 181.0,
+          "duration": 2.868,
+          "label": "additional_weapons_10_00",
+          "narration_anchor": "It does show"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 93.0,
+          "duration": 2.868,
+          "label": "additional_weapons_10_01",
+          "narration_anchor": "It does show"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 119.0,
+          "duration": 2.685821,
+          "label": "additional_weapons_11_00",
+          "narration_anchor": "But here"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "levante_warning",
+      "text": "At Levante, Barcelona were three goals ahead. Comfortable? It should have been. Then a poor backpass helped the home side score in the seventy-ninth minute. In the eighty-eighth, Levante scored again. Three-nil had become three-two. Suddenly, a match that looked finished had a completely different feeling. Adeyemi eventually made it four-two in stoppage time, and Barcelona kept their perfect record. But the warning survives the result. An attack this productive can cover up moments that become much more expensive against stronger opposition. And we should be precise: that first concession was a backpass mistake. Calling every conceded goal a high-line problem would miss what actually happened. The bigger question is concentration and control. Can Barcelona manage a lead with the same clarity they use to build one? Against Europe's best, that may matter just as much as another spectacular finish.",
+      "broll": [
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 77.0,
+          "duration": 2.81,
+          "label": "levante_warning_00_00",
+          "narration_anchor": "At Levante"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 100.0,
+          "duration": 2.414,
+          "label": "levante_warning_01_00",
+          "narration_anchor": "Comfortable"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 109.0,
+          "duration": 2.009,
+          "label": "levante_warning_02_00",
+          "narration_anchor": "Then a poor"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 115.0,
+          "duration": 2.009,
+          "label": "levante_warning_02_01",
+          "narration_anchor": "Then a poor"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 146.0,
+          "duration": 2.751,
+          "label": "levante_warning_03_00",
+          "narration_anchor": "In the eighty"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 159.0,
+          "duration": 2.148,
+          "label": "levante_warning_04_00",
+          "narration_anchor": "Three-nil"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 151.0,
+          "duration": 2.148,
+          "label": "levante_warning_05_00",
+          "narration_anchor": "Suddenly"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 163.0,
+          "duration": 2.148,
+          "label": "levante_warning_05_01",
+          "narration_anchor": "Suddenly"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 168.0,
+          "duration": 2.815,
+          "label": "levante_warning_06_00",
+          "narration_anchor": "Adeyemi eventually"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 175.0,
+          "duration": 2.815,
+          "label": "levante_warning_06_01",
+          "narration_anchor": "Adeyemi eventually"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 190.0,
+          "duration": 2.322,
+          "label": "levante_warning_07_00",
+          "narration_anchor": "But the warning"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 132.0,
+          "duration": 2.8445,
+          "label": "levante_warning_08_00",
+          "narration_anchor": "An attack"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 80.0,
+          "duration": 2.8445,
+          "label": "levante_warning_08_01",
+          "narration_anchor": "An attack"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 110.0,
+          "duration": 2.1885,
+          "label": "levante_warning_09_00",
+          "narration_anchor": "And we should"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 115.0,
+          "duration": 2.1885,
+          "label": "levante_warning_09_01",
+          "narration_anchor": "And we should"
+        },
+        {
+          "file": "assets/broll/tactics_v2_levante_warning_10_00.mp4",
+          "start": 0,
+          "duration": 2.386,
+          "label": "levante_warning_10_00",
+          "narration_anchor": "Calling every"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 305.0,
+          "duration": 2.386,
+          "label": "levante_warning_10_01",
+          "narration_anchor": "Calling every"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 199.0,
+          "duration": 2.565,
+          "label": "levante_warning_11_00",
+          "narration_anchor": "The bigger"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 289.0,
+          "duration": 3.762,
+          "label": "levante_warning_12_00",
+          "narration_anchor": "Can Barcelona"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 12.0,
+          "duration": 2.335789,
+          "label": "levante_warning_13_00",
+          "narration_anchor": "Against Europe"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 100.0,
+          "duration": 2.335789,
+          "label": "levante_warning_13_01",
+          "narration_anchor": "Against Europe"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "european_test",
+      "text": "The Feyenoord win is an impressive opening statement in Europe. Five-one, with four different Barcelona scorers. It is also one Champions League match. A convincing win in September is evidence of form, not a guarantee about the knockout rounds. Even Feyenoord had a stronger spell after half-time before Barcelona pulled further away. That is why the next tests are so interesting. The schedule includes a trip to Paris Saint-Germain and a home meeting with Manchester City later in the league phase. Those are opportunities to find out whether the same attacking relationships survive against teams that can press, keep the ball, and punish a loose pass. The challenge is not just creating chances when everything is flowing. It is retaining that threat when Barcelona have to defend for longer, or when the first chance does not go in. That is the difference between a frightening start and a complete European contender.",
+      "broll": [
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 8.0,
+          "duration": 3.622,
+          "label": "european_test_00_00",
+          "narration_anchor": "The Feyenoord"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 58.0,
+          "duration": 3.135,
+          "label": "european_test_01_00",
+          "narration_anchor": "Five-one"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 92.0,
+          "duration": 2.647,
+          "label": "european_test_02_00",
+          "narration_anchor": "It is also"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 182.0,
+          "duration": 2.653,
+          "label": "european_test_03_00",
+          "narration_anchor": "A convincing"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 53.0,
+          "duration": 2.653,
+          "label": "european_test_03_01",
+          "narration_anchor": "A convincing"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 43.0,
+          "duration": 2.659,
+          "label": "european_test_04_00",
+          "narration_anchor": "Even Feyenoord"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 98.0,
+          "duration": 2.659,
+          "label": "european_test_04_01",
+          "narration_anchor": "Even Feyenoord"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 81.0,
+          "duration": 2.531,
+          "label": "european_test_05_00",
+          "narration_anchor": "That is why"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 60.0,
+          "duration": 2.9135,
+          "label": "european_test_06_00",
+          "narration_anchor": "The schedule"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 368.0,
+          "duration": 2.9135,
+          "label": "european_test_06_01",
+          "narration_anchor": "The schedule"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 214.0,
+          "duration": 2.856333,
+          "label": "european_test_07_00",
+          "narration_anchor": "Those are"
+        },
+        {
+          "file": "assets/broll/tactics_v2_european_test_07_01.mp4",
+          "start": 0,
+          "duration": 2.856333,
+          "label": "european_test_07_01",
+          "narration_anchor": "Those are"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 326.0,
+          "duration": 2.856333,
+          "label": "european_test_07_02",
+          "narration_anchor": "Those are"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 250.0,
+          "duration": 3.773,
+          "label": "european_test_08_00",
+          "narration_anchor": "The challenge"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 306.0,
+          "duration": 2.9835,
+          "label": "european_test_09_00",
+          "narration_anchor": "It is retaining"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 299.0,
+          "duration": 2.9835,
+          "label": "european_test_09_01",
+          "narration_anchor": "It is retaining"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 59.0,
+          "duration": 2.16157,
+          "label": "european_test_10_00",
+          "narration_anchor": "That is the difference"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 434.0,
+          "duration": 2.16157,
+          "label": "european_test_10_01",
+          "narration_anchor": "That is the difference"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "opponents_choices",
+      "text": "So what should an opponent actually prepare for? First, survive the opening without letting Barcelona dictate every decision. The early goals have been a huge part of this run. Second, defend the relationships as well as the names. Tracking Raphinha means much less if Pedri has time to pick the pass. Doubling Lamine means much less if the space you leave is immediately attacked. Third, make Barcelona defend the moments after they lose possession. Levante showed how quickly the mood can change when control slips. None of this is a magic solution. It is the task. And it explains why this team feels so difficult to plan against: you need discipline without becoming passive, pressure without losing your shape, and enough attacking threat to make Barcelona think about something other than their next move. That is a demanding ninety minutes for anybody.",
+      "broll": [
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 197.0,
+          "duration": 2.694,
+          "label": "opponents_choices_00_00",
+          "narration_anchor": "So what"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 10.0,
+          "duration": 2.188,
+          "label": "opponents_choices_01_00",
+          "narration_anchor": "First, survive"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 16.0,
+          "duration": 2.188,
+          "label": "opponents_choices_01_01",
+          "narration_anchor": "First, survive"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 24.0,
+          "duration": 2.531,
+          "label": "opponents_choices_02_00",
+          "narration_anchor": "The early goals"
+        },
+        {
+          "file": "assets/broll/tactics_v2_opponents_choices_03_00.mp4",
+          "start": 0,
+          "duration": 3.426,
+          "label": "opponents_choices_03_00",
+          "narration_anchor": "Second, defend"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 46.0,
+          "duration": 2.0025,
+          "label": "opponents_choices_04_00",
+          "narration_anchor": "Tracking Raphinha"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 53.0,
+          "duration": 2.0025,
+          "label": "opponents_choices_04_01",
+          "narration_anchor": "Tracking Raphinha"
+        },
+        {
+          "file": "assets/broll/yamal_illustrative_archive.mp4",
+          "start": 50.0,
+          "duration": 2.0495,
+          "label": "opponents_choices_05_00",
+          "narration_anchor": "Doubling Lamine"
+        },
+        {
+          "file": "assets/broll/tactics_v2_opponents_choices_05_01.mp4",
+          "start": 0,
+          "duration": 2.0495,
+          "label": "opponents_choices_05_01",
+          "narration_anchor": "Doubling Lamine"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 284.0,
+          "duration": 2.2115,
+          "label": "opponents_choices_06_00",
+          "narration_anchor": "Third, make"
+        },
+        {
+          "file": "assets/broll/tactics_v2_opponents_choices_06_01.mp4",
+          "start": 0,
+          "duration": 2.2115,
+          "label": "opponents_choices_06_01",
+          "narration_anchor": "Third, make"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 126.0,
+          "duration": 3.437,
+          "label": "opponents_choices_07_00",
+          "narration_anchor": "Levante showed"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 185.0,
+          "duration": 1.857,
+          "label": "opponents_choices_08_00",
+          "narration_anchor": "None of this"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 211.0,
+          "duration": 1.324,
+          "label": "opponents_choices_09_00",
+          "narration_anchor": "It is the task"
+        },
+        {
+          "file": "assets/broll/training_ucl.mp4",
+          "start": 351.0,
+          "duration": 2.978,
+          "label": "opponents_choices_10_00",
+          "narration_anchor": "And it explains"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 232.0,
+          "duration": 2.978,
+          "label": "opponents_choices_10_01",
+          "narration_anchor": "And it explains"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 192.0,
+          "duration": 2.978,
+          "label": "opponents_choices_10_02",
+          "narration_anchor": "And it explains"
+        },
+        {
+          "file": "assets/broll/tactics_v2_opponents_choices_10_03.mp4",
+          "start": 0,
+          "duration": 2.978,
+          "label": "opponents_choices_10_03",
+          "narration_anchor": "And it explains"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 435.0,
+          "duration": 2.33659,
+          "label": "opponents_choices_11_00",
+          "narration_anchor": "That is a demanding"
+        }
+      ]
+    },
+    {
+      "type": "vo",
+      "name": "payoff",
+      "text": "The numbers in this video cover Barcelona's opening seven competitive matches, through the Racing game. They describe a remarkable start, not a finished season. That distinction makes the warning more convincing. We do not need to pretend the defence is flawless. We do not need to declare the Champions League over in September. Barcelona have already given us enough to take seriously: Lamine turning invention into goals, Raphinha attacking the spaces, midfielders connecting the moves, and additional forwards changing what the defence has to solve. The next step is making their control match their firepower. If they do that, the conversation gets very interesting. So when Europe looks at these scorelines, the question should go beyond how many Barcelona scored. Ask how many different problems they created. Then ask which one you would try to stop first. Because while you are deciding, the next runner is already moving.",
+      "broll": [
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 10.0,
+          "duration": 3.094,
+          "label": "payoff_00_00",
+          "narration_anchor": "The numbers"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 79.0,
+          "duration": 3.094,
+          "label": "payoff_00_01",
+          "narration_anchor": "The numbers"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 188.0,
+          "duration": 3.727,
+          "label": "payoff_01_00",
+          "narration_anchor": "They describe"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 45.0,
+          "duration": 3.262,
+          "label": "payoff_02_00",
+          "narration_anchor": "That distinction"
+        },
+        {
+          "file": "assets/broll/levante_4_2.mp4",
+          "start": 121.0,
+          "duration": 3.066,
+          "label": "payoff_03_00",
+          "narration_anchor": "We do not need to pretend"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 181.0,
+          "duration": 3.529,
+          "label": "payoff_04_00",
+          "narration_anchor": "We do not need to declare"
+        },
+        {
+          "file": "assets/broll/portrait_lamine_yamal.mp4",
+          "start": 1.0,
+          "duration": 3.576,
+          "label": "payoff_05_00",
+          "narration_anchor": "Barcelona have already"
+        },
+        {
+          "file": "assets/broll/portrait_raphinha.mp4",
+          "start": 1.0,
+          "duration": 3.576,
+          "label": "payoff_05_01",
+          "narration_anchor": "Barcelona have already"
+        },
+        {
+          "file": "assets/broll/portrait_pedri.mp4",
+          "start": 1.0,
+          "duration": 3.576,
+          "label": "payoff_05_02",
+          "narration_anchor": "Barcelona have already"
+        },
+        {
+          "file": "assets/broll/tactics_v2_payoff_05_03.mp4",
+          "start": 0,
+          "duration": 3.576,
+          "label": "payoff_05_03",
+          "narration_anchor": "Barcelona have already"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 210.0,
+          "duration": 3.668,
+          "label": "payoff_06_00",
+          "narration_anchor": "The next step"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 200.0,
+          "duration": 1.91,
+          "label": "payoff_07_00",
+          "narration_anchor": "If they do"
+        },
+        {
+          "file": "assets/broll/training_recover.mp4",
+          "start": 82.0,
+          "duration": 1.91,
+          "label": "payoff_07_01",
+          "narration_anchor": "If they do"
+        },
+        {
+          "file": "assets/broll/racing_7_2.mp4",
+          "start": 85.0,
+          "duration": 3.1695,
+          "label": "payoff_08_00",
+          "narration_anchor": "So when Europe"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 112.0,
+          "duration": 3.1695,
+          "label": "payoff_08_01",
+          "narration_anchor": "So when Europe"
+        },
+        {
+          "file": "assets/broll/tactics_v2_payoff_09_00.mp4",
+          "start": 0,
+          "duration": 2.531,
+          "label": "payoff_09_00",
+          "narration_anchor": "Ask how many"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 9.0,
+          "duration": 2.856,
+          "label": "payoff_10_00",
+          "narration_anchor": "Then ask"
+        },
+        {
+          "file": "assets/broll/training_focused.mp4",
+          "start": 298.0,
+          "duration": 2.184524,
+          "label": "payoff_11_00",
+          "narration_anchor": "Because while"
+        },
+        {
+          "file": "assets/broll/feyenoord_5_1.mp4",
+          "start": 50.0,
+          "duration": 2.184524,
+          "label": "payoff_11_01",
+          "narration_anchor": "Because while"
+        }
+      ]
+    }
+  ]
+}

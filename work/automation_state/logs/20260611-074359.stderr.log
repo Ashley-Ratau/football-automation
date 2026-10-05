@@ -1,0 +1,575 @@
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs\concat_list.txt':
+  Duration: N/A, start: -0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs\voiceover_elevenlabs_full.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp, 128 kb/s
+Press [q] to stop, [?] for help
+[out#0/mp3 @ 0000016535372c80] video:0KiB audio:378KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.119112%
+size=     378KiB time=00:00:24.18 bitrate= 128.2kbits/s speed=1.77e+03x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs\elevenlabs_part_01.mp3':
+  Metadata:
+    encoder         : Lavf60.16.100
+  Duration: 00:00:24.19, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_01.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 00000212bcdf2b00] video:0KiB audio:242KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.091075%
+size=     243KiB time=00:00:20.14 bitrate=  98.7kbits/s speed=81.5x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs\voiceover_elevenlabs_full.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:24.19, start: 0.025057, bitrate: 128 kb/s
+  Stream #0:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 128 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (mp3 (mp3float) -> mp3 (libmp3lame))
+Press [q] to stop, [?] for help
+Output #0, mp3, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs_1p2x\voiceover_elevenlabs_full_1p2x.mp3':
+  Metadata:
+    TSSE            : Lavf61.7.100
+  Stream #0:0: Audio: mp3, 44100 Hz, mono, fltp
+      Metadata:
+        encoder         : Lavc61.19.100 libmp3lame
+[out#0/mp3 @ 000002bf10802b40] video:0KiB audio:242KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 0.091075%
+size=     243KiB time=00:00:20.14 bitrate=  98.7kbits/s speed=89.3x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000012b8c6446c0] using SAR=1/1
+[libx264 @ 0000012b8c6446c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000012b8c6446c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000012b8c6446c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_still_01.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   24 fps=0.0 q=26.0 size=       0KiB time=00:00:00.66 bitrate=   0.6kbits/s dup=10 drop=0 speed=1.25x    [mp4 @ 0000012b8cfce5c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000012b8cfcdc40] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=2.95x    
+[libx264 @ 0000012b8c6446c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000012b8c6446c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 0000012b8c6446c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 0000012b8c6446c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 0000012b8c6446c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000012b8c6446c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000012b8c6446c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000012b8c6446c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000012b8c6446c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000012b8c6446c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000012b8c6446c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000012b8c6446c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000012b8c6446c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000012b8c6446c0] kb/s:36.67
+[aac @ 0000012b8cfe8380] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000021a09b546c0] using SAR=1/1
+[libx264 @ 0000021a09b546c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000021a09b546c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000021a09b546c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_still_02.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   10 fps=0.0 q=26.0 size=       0KiB time=00:00:00.26 bitrate=   1.4kbits/s dup=8 drop=0 speed=0.515x    frame=   59 fps= 57 q=26.0 size=       0KiB time=N/A bitrate=N/A dup=15 drop=0 speed=N/A    [mp4 @ 0000021a0a44e5c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000021a0a44dc40] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps= 79 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=2.58x    
+[libx264 @ 0000021a09b546c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000021a09b546c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 0000021a09b546c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 0000021a09b546c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 0000021a09b546c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000021a09b546c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000021a09b546c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000021a09b546c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000021a09b546c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000021a09b546c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000021a09b546c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000021a09b546c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000021a09b546c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000021a09b546c0] kb/s:36.67
+[aac @ 0000021a0a468080] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 000001c4b26746c0] using SAR=1/1
+[libx264 @ 000001c4b26746c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000001c4b26746c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000001c4b26746c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_still_03.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   24 fps=0.0 q=26.0 size=       0KiB time=00:00:00.70 bitrate=   0.5kbits/s dup=9 drop=0 speed=1.29x    [mp4 @ 000001c4b2f6e5c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000001c4b2f6dc40] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.22x    
+[libx264 @ 000001c4b26746c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 000001c4b26746c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 000001c4b26746c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 000001c4b26746c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 000001c4b26746c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 000001c4b26746c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 000001c4b26746c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 000001c4b26746c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 000001c4b26746c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 000001c4b26746c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 000001c4b26746c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 000001c4b26746c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 000001c4b26746c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000001c4b26746c0] kb/s:36.67
+[aac @ 000001c4b2f87cc0] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000263658446c0] using SAR=1/1
+[libx264 @ 00000263658446c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000263658446c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000263658446c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_still_04.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   24 fps=0.0 q=26.0 size=       0KiB time=00:00:00.73 bitrate=   0.5kbits/s dup=10 drop=0 speed=1.44x    [mp4 @ 000002636619e5c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000002636619dc40] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.32x    
+[libx264 @ 00000263658446c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000263658446c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 00000263658446c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 00000263658446c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 00000263658446c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000263658446c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000263658446c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000263658446c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000263658446c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000263658446c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000263658446c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000263658446c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000263658446c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000263658446c0] kb/s:36.67
+[aac @ 00000263661b7dc0] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 0000015fb69e46c0] using SAR=1/1
+[libx264 @ 0000015fb69e46c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 0000015fb69e46c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 0000015fb69e46c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_still_05.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   27 fps=0.0 q=26.0 size=       0KiB time=00:00:00.83 bitrate=   0.5kbits/s dup=11 drop=0 speed=1.62x    [mp4 @ 0000015fb73ae5c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000015fb73adc40] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.38x    
+[libx264 @ 0000015fb69e46c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 0000015fb69e46c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 0000015fb69e46c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 0000015fb69e46c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 0000015fb69e46c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 0000015fb69e46c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 0000015fb69e46c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 0000015fb69e46c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 0000015fb69e46c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 0000015fb69e46c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 0000015fb69e46c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 0000015fb69e46c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 0000015fb69e46c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 0000015fb69e46c0] kb/s:36.67
+[aac @ 0000015fb73c8400] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 000002a77c1e46c0] using SAR=1/1
+[libx264 @ 000002a77c1e46c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 000002a77c1e46c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 000002a77c1e46c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_still_06.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   24 fps=0.0 q=26.0 size=       0KiB time=00:00:00.70 bitrate=   0.5kbits/s dup=10 drop=0 speed=1.34x    [mp4 @ 000002a77e2ae5c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000002a77e2adc40] video:14KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 30.761661%
+frame=   90 fps=0.0 q=-1.0 Lsize=      19KiB time=00:00:02.93 bitrate=  54.4kbits/s dup=15 drop=0 speed=3.22x    
+[libx264 @ 000002a77c1e46c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 000002a77c1e46c0] frame P:23    Avg QP:11.80  size:    79
+[libx264 @ 000002a77c1e46c0] frame B:66    Avg QP:14.33  size:    68
+[libx264 @ 000002a77c1e46c0] consecutive B-frames:  2.2%  0.0%  0.0% 97.8%
+[libx264 @ 000002a77c1e46c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 000002a77c1e46c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 000002a77c1e46c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 000002a77c1e46c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 000002a77c1e46c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 000002a77c1e46c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 000002a77c1e46c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 000002a77c1e46c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 000002a77c1e46c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 000002a77c1e46c0] kb/s:36.67
+[aac @ 000002a77e2c8300] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, png_pipe, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\placeholder_1.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgb24(pc, gbr/unknown/unknown), 1080x1920, 25 fps, 25 tbr, 25 tbn
+Input #1, lavfi, from 'anullsrc=channel_layout=stereo:sample_rate=44100':
+  Duration: N/A, start: 0.000000, bitrate: 705 kb/s
+  Stream #1:0: Audio: pcm_u8, 44100 Hz, stereo, u8, 705 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (libx264))
+  Stream #1:0 -> #0:1 (pcm_u8 (native) -> aac (native))
+Press [q] to stop, [?] for help
+[libx264 @ 00000206b00a46c0] using SAR=1/1
+[libx264 @ 00000206b00a46c0] using cpu capabilities: MMX2 SSE2Fast SSSE3 SSE4.2 AVX FMA3 BMI2 AVX2
+[libx264 @ 00000206b00a46c0] profile High, level 4.0, 4:2:0, 8-bit
+[libx264 @ 00000206b00a46c0] 264 - core 164 r3192 c24e06c - H.264/MPEG-4 AVC codec - Copyleft 2003-2024 - http://www.videolan.org/x264.html - options: cabac=1 ref=1 deblock=1:0:0 analyse=0x3:0x113 me=hex subme=2 psy=1 psy_rd=1.00:0.00 mixed_ref=0 me_range=16 chroma_me=1 trellis=0 8x8dct=1 cqm=0 deadzone=21,11 fast_pskip=1 chroma_qp_offset=0 threads=12 lookahead_threads=4 sliced_threads=0 nr=0 decimate=1 interlaced=0 bluray_compat=0 constrained_intra=0 bframes=3 b_pyramid=2 b_adapt=1 b_bias=0 direct=1 weightb=1 open_gop=0 weightp=1 keyint=250 keyint_min=25 scenecut=40 intra_refresh=0 rc_lookahead=10 rc=crf mbtree=1 crf=20.0 qcomp=0.60 qpmin=0 qpmax=69 qpstep=4 ip_ratio=1.40 aq=1:1.00
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_still_07.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0: Video: h264 (avc1 / 0x31637661), yuv420p(tv, progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 30 fps, 15360 tbn
+      Metadata:
+        encoder         : Lavc61.19.100 libx264
+      Side data:
+        cpb: bitrate max/min/avg: 0/0/0 buffer size: 0 vbv_delay: N/A
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=   31 fps=0.0 q=26.0 size=       0KiB time=N/A bitrate=N/A dup=11 drop=0 speed=N/A    [mp4 @ 00000206b09ae5c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 00000206b09adc40] video:12KiB audio:1KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 28.430709%
+frame=   65 fps=0.0 q=-1.0 Lsize=      17KiB time=00:00:02.10 bitrate=  65.1kbits/s dup=11 drop=0 speed=3.39x    
+[libx264 @ 00000206b00a46c0] frame I:1     Avg QP: 7.47  size:  7446
+[libx264 @ 00000206b00a46c0] frame P:16    Avg QP:11.96  size:    83
+[libx264 @ 00000206b00a46c0] frame B:48    Avg QP:14.33  size:    68
+[libx264 @ 00000206b00a46c0] consecutive B-frames:  1.5%  0.0%  0.0% 98.5%
+[libx264 @ 00000206b00a46c0] mb I  I16..4: 97.7%  0.0%  2.3%
+[libx264 @ 00000206b00a46c0] mb P  I16..4:  0.0%  0.0%  0.0%  P16..4:  0.0%  0.0%  0.0%  0.0%  0.0%    skip:100.0%
+[libx264 @ 00000206b00a46c0] mb B  I16..4:  0.0%  0.0%  0.0%  B16..8:  0.0%  0.0%  0.0%  direct: 0.0%  skip:100.0%  L0: 0.0% L1:100.0% BI: 0.0%
+[libx264 @ 00000206b00a46c0] 8x8 transform intra:0.0% inter:0.0%
+[libx264 @ 00000206b00a46c0] coded y,uvDC,uvAC intra: 1.5% 1.2% 0.6% inter: 0.0% 0.0% 0.0%
+[libx264 @ 00000206b00a46c0] i16 v,h,dc,p: 99%  0%  1%  0%
+[libx264 @ 00000206b00a46c0] i4 v,h,dc,ddl,ddr,vr,hd,vl,hu: 44% 19% 17%  3%  3%  5%  3%  3%  3%
+[libx264 @ 00000206b00a46c0] i8c dc,h,v,p: 95%  2%  4%  0%
+[libx264 @ 00000206b00a46c0] Weighted P-Frames: Y:0.0% UV:0.0%
+[libx264 @ 00000206b00a46c0] kb/s:44.41
+[aac @ 00000206b09c8580] Qavg: 65536.000
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002477f62b880] Auto-inserting h264_mp4toannexb bitstream filter
+Input #0, concat, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\concat_list.txt':
+  Duration: N/A, start: -0.023220, bitrate: 40 kb/s
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #0:1 -> #0:1 (copy)
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_visual.mp4':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 38 kb/s, 30 fps, 30 tbr, 15360 tbn
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1(und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Press [q] to stop, [?] for help
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002477f63e640] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000247014e0080] Non-monotonic DTS; previous: 133120, current: 132300; changing to 133121. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002477f63e640] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000247014e0080] Non-monotonic DTS; previous: 265420, current: 264600; changing to 265421. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002477f63e640] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000247014e0080] Non-monotonic DTS; previous: 397720, current: 396900; changing to 397721. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002477f63e640] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000247014e0080] Non-monotonic DTS; previous: 530020, current: 529200; changing to 530021. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002477f63e640] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000247014e0080] Non-monotonic DTS; previous: 662320, current: 661500; changing to 662321. This may result in incorrect timestamps in the output file.
+[mov,mp4,m4a,3gp,3g2,mj2 @ 000002477f63e640] Auto-inserting h264_mp4toannexb bitstream filter
+[aost#0:1/copy @ 00000247014e0080] Non-monotonic DTS; previous: 794620, current: 793800; changing to 794621. This may result in incorrect timestamps in the output file.
+[mp4 @ 000002477f6eebc0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 000002477f9cee40] video:97KiB audio:5KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 22.349267%
+frame=  605 fps=0.0 q=-1.0 Lsize=     126KiB time=00:00:20.12 bitrate=  51.1kbits/s speed= 269x    
+ffmpeg version 7.1-essentials_build-www.gyan.dev Copyright (c) 2000-2024 the FFmpeg developers
+  built with gcc 14.2.0 (Rev1, Built by MSYS2 project)
+  configuration: --enable-gpl --enable-version3 --enable-static --disable-w32threads --disable-autodetect --enable-fontconfig --enable-iconv --enable-gnutls --enable-libxml2 --enable-gmp --enable-bzlib --enable-lzma --enable-zlib --enable-libsrt --enable-libssh --enable-libzmq --enable-avisynth --enable-sdl2 --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxvid --enable-libaom --enable-libopenjpeg --enable-libvpx --enable-mediafoundation --enable-libass --enable-libfreetype --enable-libfribidi --enable-libharfbuzz --enable-libvidstab --enable-libvmaf --enable-libzimg --enable-amf --enable-cuda-llvm --enable-cuvid --enable-dxva2 --enable-d3d11va --enable-d3d12va --enable-ffnvcodec --enable-libvpl --enable-nvdec --enable-nvenc --enable-vaapi --enable-libgme --enable-libopenmpt --enable-libopencore-amrwb --enable-libmp3lame --enable-libtheora --enable-libvo-amrwbenc --enable-libgsm --enable-libopencore-amrnb --enable-libopus --enable-libspeex --enable-libvorbis --enable-librubberband
+  libavutil      59. 39.100 / 59. 39.100
+  libavcodec     61. 19.100 / 61. 19.100
+  libavformat    61.  7.100 / 61.  7.100
+  libavdevice    61.  3.100 / 61.  3.100
+  libavfilter    10.  4.100 / 10.  4.100
+  libswscale      8.  3.100 /  8.  3.100
+  libswresample   5.  3.100 /  5.  3.100
+  libpostproc    58.  3.100 / 58.  3.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_visual.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Duration: 00:00:20.19, start: 0.000000, bitrate: 50 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], 39 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 2 kb/s (default)
+      Metadata:
+        handler_name    : SoundHandler
+        vendor_id       : [0][0][0][0]
+Input #1, mp3, from 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_01.mp3':
+  Metadata:
+    encoder         : Lavf61.7.100
+  Duration: 00:00:20.17, start: 0.025057, bitrate: 98 kb/s
+  Stream #1:0: Audio: mp3 (mp3float), 44100 Hz, mono, fltp, 98 kb/s
+Stream mapping:
+  Stream #0:0 -> #0:0 (copy)
+  Stream #1:0 -> #0:1 (mp3 (mp3float) -> aac (native))
+Press [q] to stop, [?] for help
+Output #0, mp4, to 'C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\_tmp\section_1_voice.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+  Stream #0:0(und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1080x1920 [SAR 1:1 DAR 9:16], q=2-31, 39 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+      Metadata:
+        handler_name    : VideoHandler
+        vendor_id       : [0][0][0][0]
+        encoder         : Lavc61.19.100 libx264
+  Stream #0:1: Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 160 kb/s
+      Metadata:
+        encoder         : Lavc61.19.100 aac
+frame=  299 fps=0.0 q=-1.0 size=       0KiB time=00:00:10.07 bitrate=   0.0kbits/s speed=19.7x    [mp4 @ 0000021acbf1e9c0] Starting second pass: moving the moov atom to the beginning of the file
+[out#0/mp4 @ 0000021acbe75040] video:97KiB audio:393KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.623609%
+frame=  601 fps=0.0 q=-1.0 Lsize=     513KiB time=00:00:20.12 bitrate= 208.7kbits/s speed=24.1x    
+[aac @ 0000021acbe73c80] Qavg: 1128.733
+Traceback (most recent call last):
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1249, in <module>
+    main()
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1242, in main
+    summary = run_once()
+              ^^^^^^^^^^
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1206, in run_once
+    final_video = build_final_video(project, plan, portraits, insert_clip)
+                  ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Wendy\Documents\Football Channel\work\football_short_automation.py", line 1068, in build_final_video
+    raise RuntimeError(f"Missing voiceover part for section {section['id']}: {audio_path}")
+RuntimeError: Missing voiceover part for section 2: C:\Users\Wendy\Documents\Football Channel\Video 012 - Kickoff Time Set For Samford Football At Auburn\assets\voiceover\elevenlabs_1p2x\elevenlabs_part_02.mp3

@@ -1,0 +1,9 @@
+﻿{
+    "input":  "https://drive.google.com/uc?export=download\u0026id=1odKlDVSTRd5ztxX_wGoARM9LhvZwr8Ju",
+    "options":  {
+                    "duration":  5,
+                    "guidance_scale":  0.3,
+                    "prompt":  "Use this image as a locked identity reference. Continue the same scene with the exact same woman, same face, same red-brown glasses, same braided hair, same white headband, same skin tone, same expression, same hands-on-hips pose, same oversized black shirt, same shirt graphic and exact lettering. Do not create a new person. Do not change age, gender, face shape, glasses, hairstyle, headband, body shape, or clothing. The camera slowly zooms out from the current framing over 5 seconds. The subject stays mostly still. In the final second only, the shoulders and torso make a tiny natural turn to her left, about 2 degrees, while the face and identity remain unchanged. Keep realistic studio lighting and the plain gray background.",
+                    "negative_prompt":  "different person, male, boy, new face, changed face, changed identity, changed gender, no headband, different glasses, black glasses, changed hair, changed hairstyle, changed skin tone, changed body, changed pose, warped face, warped glasses, changing shirt text, changed graphic, extra limbs, extra fingers, low quality, flicker, jitter, morphing, deformed body, deformed clothing, new background objects, cropped head"
+                }
+}

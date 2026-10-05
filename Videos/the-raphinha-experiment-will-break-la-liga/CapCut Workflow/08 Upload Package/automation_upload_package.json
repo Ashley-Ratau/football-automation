@@ -1,0 +1,33 @@
+{
+  "video": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\final video\\the-raphinha-experiment-soft-blur-captions.mp4",
+  "thumbnail_jpeg": "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\final video\\thumbnail\\thumbnail_02.jpg",
+  "thumbnail_bytes": 258489,
+  "upload_command": [
+    "C:\\Users\\Wendy\\AppData\\Local\\Programs\\Python\\Python312\\python.exe",
+    "C:\\Users\\Wendy\\Documents\\Football Channel\\work\\youtube_oauth_tool.py",
+    "upload",
+    "--file",
+    "C:\\Users\\Wendy\\Documents\\Football Channel\\Videos\\the-raphinha-experiment-will-break-la-liga\\final video\\the-raphinha-experiment-soft-blur-captions.mp4",
+    "--title",
+    "The Raphinha Experiment Will Break La Liga",
+    "--description",
+    "Raphinha\u2019s central role is giving Barcelona more ways to hurt a defence. His three goals against Sevilla showed three different movements\u2014and three different decisions defenders have to make.\n\nThis film looks at Hansi Flick\u2019s experiment, the supply from Lamine Yamal and Pedri, and what rivals must prepare for. Featuring perspectives from Shaka Hislop, Alejandro Moreno and Herculez Gomez.\n\nChapters\n0:00 The experiment\n0:33 Shaka Hislop \u2014 expert view\n1:35 A winger through the middle\n2:30 The defender\u2019s decision\n3:29 Alejandro Moreno \u2014 expert view\n4:25 Three goals, three problems\n5:29 What this means for La Liga\n6:32 Herculez Gomez \u2014 expert view\n7:30 Can anyone solve it?\n\nResearch cutoff: 20 September 2026. Tactical diagrams illustrate concepts; they are not tracking data. Footage and pundit excerpt credits are recorded in the project\u2019s SOURCE_CREDITS.md.\n",
+    "--privacy",
+    "private",
+    "--category",
+    "17",
+    "--tags",
+    "Raphinha",
+    "FC Barcelona",
+    "Hansi Flick",
+    "La Liga",
+    "football analysis",
+    "Lamine Yamal"
+  ],
+  "privacy": "private",
+  "next_steps": [
+    "Run the upload only after reviewing every QC frame and VO check file.",
+    "Set the returned video ID thumbnail with youtube_oauth_tool.py thumbnail.",
+    "Review the YouTube copyright screen before changing privacy to public."
+  ]
+}

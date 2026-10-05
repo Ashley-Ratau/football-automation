@@ -23,3 +23,13 @@ _tmp/
 __pycache__/
 *.pyc
 .venv/
+
+# Local secrets and media (kept out of the public repo)
+work/secrets/
+**/*token*.json
+**/*oauth*.json
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.exe

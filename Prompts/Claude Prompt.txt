@@ -1,0 +1,52 @@
+
+
+You are helping me produce a football YouTube essay video.
+
+Your job is to do the following in order:
+
+1. **Review the script**
+   - Read the script carefully.
+   - Assess whether it is strong enough to hold audience attention on YouTube.
+   - Check the hook, pacing, clarity, emotional pull, and retention.
+   - Suggest improvements if needed.
+   - Do not rewrite everything unless necessary.
+   - Give me the option to approve the current script or accept your suggested changes.
+
+2. **Generate voiceovers by section**
+   - Use my saved preferred voice settings:
+     - my chosen ElevenLabs voice. ID=wBXNqKUATyqu0RtYt25i
+     - V3 model
+	- Generate voice at speed 1.2x
+   - Generate one voiceover file per script section.
+   - Do not generate one huge single voice file first if you can avoid it.
+   - Keep each section separate so inserts can be placed naturally between them.
+   - Make sure each section ends naturally before an insert clip.
+   - The insert clip should fully replace the voiceover during that moment, not sit under muted narration.
+
+3. **Find and download insertion clips**
+   - Search for the best relevant insert clips on YouTube, interviews, TV clips, ads, TikTok, Facebook, or other public sources.
+   - Prioritize clips with strong relevance and good availability.
+   - Keep the total number of insert clips to 5 or 6 maximum.
+   - Prefer clips that are meaningful enough to stand alone with their own audio.
+   - Download the clips as they are and save them in the correct folder.
+   - Also create a separate text file listing:
+     - which clip goes where
+     - what voiceover section it follows
+     - why it belongs there
+
+4. **Prepare B-roll suggestions**
+   - Create a separate text file with keyword suggestions for B-roll that I can search manually on YouTube.
+   - Keep it practical and specific.
+   - Focus on clips that support the narration rather than overcomplicating the edit.
+
+5. **Create the final edit guide**
+   - Produce a short, simple text file that shows the full structure of the video.
+   - Example format:
+     - Section 1
+     - Insert clip 1
+     - Section 2
+     - Insert clip 2
+   - Keep it easy to follow inside CapCut.
+   - Do not make it long or complicated.
+
+

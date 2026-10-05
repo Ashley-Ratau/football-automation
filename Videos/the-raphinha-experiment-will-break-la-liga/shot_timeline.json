@@ -1,0 +1,1352 @@
+[
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 174,
+    "duration": 1.939,
+    "label": "hook_00_00",
+    "narration_anchor": "You prepare",
+    "section": "hook",
+    "timeline_start": 0.0,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 179,
+    "duration": 1.939,
+    "label": "hook_00_01",
+    "narration_anchor": "You prepare",
+    "section": "hook",
+    "timeline_start": 1.939,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 145,
+    "duration": 1.939,
+    "label": "hook_00_02",
+    "narration_anchor": "You prepare",
+    "section": "hook",
+    "timeline_start": 3.878,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 60,
+    "duration": 2.248333,
+    "label": "hook_01_00",
+    "narration_anchor": "Against Sevilla",
+    "section": "hook",
+    "timeline_start": 5.817,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 112,
+    "duration": 2.248333,
+    "label": "hook_01_01",
+    "narration_anchor": "Against Sevilla",
+    "section": "hook",
+    "timeline_start": 8.0653,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 144,
+    "duration": 2.248333,
+    "label": "hook_01_02",
+    "narration_anchor": "Against Sevilla",
+    "section": "hook",
+    "timeline_start": 10.3137,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 146,
+    "duration": 2.229,
+    "label": "hook_02_00",
+    "narration_anchor": "Three different",
+    "section": "hook",
+    "timeline_start": 12.562,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_central_reference.mp4",
+    "start": 0,
+    "duration": 2.4615,
+    "label": "hook_03_00",
+    "narration_anchor": "Hansi Flick",
+    "section": "hook",
+    "timeline_start": 14.791,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 175,
+    "duration": 2.4615,
+    "label": "hook_03_01",
+    "narration_anchor": "Hansi Flick",
+    "section": "hook",
+    "timeline_start": 17.2525,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 177,
+    "duration": 1.3875,
+    "label": "hook_04_00",
+    "narration_anchor": "Fourteen goals",
+    "section": "hook",
+    "timeline_start": 19.714,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 122,
+    "duration": 1.3875,
+    "label": "hook_04_01",
+    "narration_anchor": "Fourteen goals",
+    "section": "hook",
+    "timeline_start": 21.1015,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 95,
+    "duration": 1.981333,
+    "label": "hook_05_00",
+    "narration_anchor": "But this is bigger",
+    "section": "hook",
+    "timeline_start": 22.489,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 103,
+    "duration": 1.981333,
+    "label": "hook_05_01",
+    "narration_anchor": "But this is bigger",
+    "section": "hook",
+    "timeline_start": 24.4703,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 113,
+    "duration": 1.981333,
+    "label": "hook_05_02",
+    "narration_anchor": "But this is bigger",
+    "section": "hook",
+    "timeline_start": 26.4517,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 180,
+    "duration": 2.329668,
+    "label": "hook_06_00",
+    "narration_anchor": "After the Sevilla",
+    "section": "hook",
+    "timeline_start": 28.433,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 174,
+    "duration": 2.329668,
+    "label": "hook_06_01",
+    "narration_anchor": "After the Sevilla",
+    "section": "hook",
+    "timeline_start": 30.7627,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/inserts/insert_1.mp4",
+    "start": 0,
+    "duration": 62.58,
+    "label": "pundit_1",
+    "narration_anchor": "Original pundit audio",
+    "section": "pundit_1",
+    "timeline_start": 32.9723,
+    "kind": "insert"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 74,
+    "duration": 1.968,
+    "label": "role_00_00",
+    "narration_anchor": "The important word",
+    "section": "role",
+    "timeline_start": 95.5523,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 81,
+    "duration": 1.968,
+    "label": "role_00_01",
+    "narration_anchor": "The important word",
+    "section": "role",
+    "timeline_start": 97.5203,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 462,
+    "duration": 2.8675,
+    "label": "role_01_00",
+    "narration_anchor": "Playing centrally",
+    "section": "role",
+    "timeline_start": 99.4883,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 466,
+    "duration": 2.8675,
+    "label": "role_01_01",
+    "narration_anchor": "Playing centrally",
+    "section": "role",
+    "timeline_start": 102.3558,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 151,
+    "duration": 1.9215,
+    "label": "role_02_00",
+    "narration_anchor": "It gives him",
+    "section": "role",
+    "timeline_start": 105.2233,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 155,
+    "duration": 1.9215,
+    "label": "role_02_01",
+    "narration_anchor": "It gives him",
+    "section": "role",
+    "timeline_start": 107.1448,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_drop_and_follow.mp4",
+    "start": 0,
+    "duration": 2.833,
+    "label": "role_03_00",
+    "narration_anchor": "Come towards",
+    "section": "role",
+    "timeline_start": 109.0663,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_pin_and_spin.mp4",
+    "start": 0,
+    "duration": 2.195,
+    "label": "role_04_00",
+    "narration_anchor": "Then disappear",
+    "section": "role",
+    "timeline_start": 111.8993,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 97,
+    "duration": 1.985,
+    "label": "role_05_00",
+    "narration_anchor": "Those movements",
+    "section": "role",
+    "timeline_start": 114.0943,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 106,
+    "duration": 1.985,
+    "label": "role_05_01",
+    "narration_anchor": "Those movements",
+    "section": "role",
+    "timeline_start": 116.0793,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_blind_side.mp4",
+    "start": 0,
+    "duration": 2.5715,
+    "label": "role_06_00",
+    "narration_anchor": "He can recognise",
+    "section": "role",
+    "timeline_start": 118.0643,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 778,
+    "duration": 2.5715,
+    "label": "role_06_01",
+    "narration_anchor": "He can recognise",
+    "section": "role",
+    "timeline_start": 120.6358,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 740,
+    "duration": 3.5065,
+    "label": "role_07_00",
+    "narration_anchor": "Think about",
+    "section": "role",
+    "timeline_start": 123.2073,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 744,
+    "duration": 3.5065,
+    "label": "role_07_01",
+    "narration_anchor": "Think about",
+    "section": "role",
+    "timeline_start": 126.7138,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 805,
+    "duration": 2.5655,
+    "label": "role_08_00",
+    "narration_anchor": "Through the middle",
+    "section": "role",
+    "timeline_start": 130.2203,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 809,
+    "duration": 2.5655,
+    "label": "role_08_01",
+    "narration_anchor": "Through the middle",
+    "section": "role",
+    "timeline_start": 132.7858,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 176,
+    "duration": 1.968,
+    "label": "role_09_00",
+    "narration_anchor": "Flick has not",
+    "section": "role",
+    "timeline_start": 135.3513,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 180,
+    "duration": 1.968,
+    "label": "role_09_01",
+    "narration_anchor": "Flick has not",
+    "section": "role",
+    "timeline_start": 137.3193,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 164,
+    "duration": 1.956,
+    "label": "role_10_00",
+    "narration_anchor": "He is changing",
+    "section": "role",
+    "timeline_start": 139.2873,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 168,
+    "duration": 1.956,
+    "label": "role_10_01",
+    "narration_anchor": "He is changing",
+    "section": "role",
+    "timeline_start": 141.2433,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 907,
+    "duration": 3.403847,
+    "label": "role_11_00",
+    "narration_anchor": "This is a mobile",
+    "section": "role",
+    "timeline_start": 143.1993,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 911,
+    "duration": 3.403847,
+    "label": "role_11_01",
+    "narration_anchor": "This is a mobile",
+    "section": "role",
+    "timeline_start": 146.6032,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 905,
+    "duration": 2.02,
+    "label": "dilemma_00_00",
+    "narration_anchor": "Imagine you",
+    "section": "dilemma",
+    "timeline_start": 149.887,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 125,
+    "duration": 1.289,
+    "label": "dilemma_01_00",
+    "narration_anchor": "Raphinha comes short",
+    "section": "dilemma",
+    "timeline_start": 151.907,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_drop_and_follow.mp4",
+    "start": 0,
+    "duration": 2.357,
+    "label": "dilemma_02_00",
+    "narration_anchor": "Follow him",
+    "section": "dilemma",
+    "timeline_start": 153.196,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_hold_and_turn.mp4",
+    "start": 0,
+    "duration": 1.9215,
+    "label": "dilemma_03_00",
+    "narration_anchor": "Hold your position",
+    "section": "dilemma",
+    "timeline_start": 155.553,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 162,
+    "duration": 1.9215,
+    "label": "dilemma_03_01",
+    "narration_anchor": "Hold your position",
+    "section": "dilemma",
+    "timeline_start": 157.4745,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 159,
+    "duration": 2.7745,
+    "label": "dilemma_04_00",
+    "narration_anchor": "Neither decision",
+    "section": "dilemma",
+    "timeline_start": 159.396,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 165,
+    "duration": 2.7745,
+    "label": "dilemma_04_01",
+    "narration_anchor": "Neither decision",
+    "section": "dilemma",
+    "timeline_start": 162.1705,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 97,
+    "duration": 2.217,
+    "label": "dilemma_05_00",
+    "narration_anchor": "Now put",
+    "section": "dilemma",
+    "timeline_start": 164.945,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_double_yamal.mp4",
+    "start": 0,
+    "duration": 2.1075,
+    "label": "dilemma_06_00",
+    "narration_anchor": "If your team",
+    "section": "dilemma",
+    "timeline_start": 167.162,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 102,
+    "duration": 2.1075,
+    "label": "dilemma_06_01",
+    "narration_anchor": "If your team",
+    "section": "dilemma",
+    "timeline_start": 169.2695,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 107,
+    "duration": 3.262,
+    "label": "dilemma_07_00",
+    "narration_anchor": "Raphinha can",
+    "section": "dilemma",
+    "timeline_start": 171.377,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_yamal_diagonal.mp4",
+    "start": 0,
+    "duration": 2.1535,
+    "label": "dilemma_08_00",
+    "narration_anchor": "If you protect",
+    "section": "dilemma",
+    "timeline_start": 174.639,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 136,
+    "duration": 2.1535,
+    "label": "dilemma_08_01",
+    "narration_anchor": "If you protect",
+    "section": "dilemma",
+    "timeline_start": 176.7925,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 321,
+    "duration": 2.729,
+    "label": "dilemma_09_00",
+    "narration_anchor": "Barcelona do not",
+    "section": "dilemma",
+    "timeline_start": 178.946,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/portrait_pedri.mp4",
+    "start": 1,
+    "duration": 2.02,
+    "label": "dilemma_10_00",
+    "narration_anchor": "Pedri can",
+    "section": "dilemma",
+    "timeline_start": 181.675,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 138,
+    "duration": 1.974,
+    "label": "dilemma_11_00",
+    "narration_anchor": "Yamal can",
+    "section": "dilemma",
+    "timeline_start": 183.695,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_third_man.mp4",
+    "start": 0,
+    "duration": 2.2695,
+    "label": "dilemma_12_00",
+    "narration_anchor": "A combination",
+    "section": "dilemma",
+    "timeline_start": 185.669,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 356,
+    "duration": 2.2695,
+    "label": "dilemma_12_01",
+    "narration_anchor": "A combination",
+    "section": "dilemma",
+    "timeline_start": 187.9385,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 135,
+    "duration": 3.518,
+    "label": "dilemma_13_00",
+    "narration_anchor": "That is why",
+    "section": "dilemma",
+    "timeline_start": 190.208,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 137,
+    "duration": 2.995,
+    "label": "dilemma_14_00",
+    "narration_anchor": "The runner needs",
+    "section": "dilemma",
+    "timeline_start": 193.726,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 141,
+    "duration": 2.995,
+    "label": "dilemma_14_01",
+    "narration_anchor": "The runner needs",
+    "section": "dilemma",
+    "timeline_start": 196.721,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 850,
+    "duration": 2.415,
+    "label": "dilemma_15_00",
+    "narration_anchor": "When those two",
+    "section": "dilemma",
+    "timeline_start": 199.716,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 854,
+    "duration": 2.415,
+    "label": "dilemma_15_01",
+    "narration_anchor": "When those two",
+    "section": "dilemma",
+    "timeline_start": 202.131,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 197,
+    "duration": 2.219842,
+    "label": "dilemma_16_00",
+    "narration_anchor": "Earlier in September",
+    "section": "dilemma",
+    "timeline_start": 204.546,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 191,
+    "duration": 2.219842,
+    "label": "dilemma_16_01",
+    "narration_anchor": "Earlier in September",
+    "section": "dilemma",
+    "timeline_start": 206.7659,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/inserts/insert_2.mp4",
+    "start": 0,
+    "duration": 55.9,
+    "label": "pundit_2",
+    "narration_anchor": "Original pundit audio",
+    "section": "pundit_2",
+    "timeline_start": 208.8657,
+    "kind": "insert"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 10,
+    "duration": 2.322,
+    "label": "sevilla_00_00",
+    "narration_anchor": "Sevilla gave us",
+    "section": "sevilla",
+    "timeline_start": 264.7657,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 38,
+    "duration": 2.0315,
+    "label": "sevilla_01_00",
+    "narration_anchor": "And it started",
+    "section": "sevilla",
+    "timeline_start": 267.0877,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 42,
+    "duration": 2.0315,
+    "label": "sevilla_01_01",
+    "narration_anchor": "And it started",
+    "section": "sevilla",
+    "timeline_start": 269.1192,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 40,
+    "duration": 1.9915,
+    "label": "sevilla_02_00",
+    "narration_anchor": "Their pressure",
+    "section": "sevilla",
+    "timeline_start": 271.1507,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 44,
+    "duration": 1.9915,
+    "label": "sevilla_02_01",
+    "narration_anchor": "Their pressure",
+    "section": "sevilla",
+    "timeline_start": 273.1422,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 54,
+    "duration": 3.216,
+    "label": "sevilla_03_00",
+    "narration_anchor": "Then Raphinha",
+    "section": "sevilla",
+    "timeline_start": 275.1337,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 59,
+    "duration": 2.3395,
+    "label": "sevilla_04_00",
+    "narration_anchor": "Christensen found",
+    "section": "sevilla",
+    "timeline_start": 278.3497,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 63,
+    "duration": 2.3395,
+    "label": "sevilla_04_01",
+    "narration_anchor": "Christensen found",
+    "section": "sevilla",
+    "timeline_start": 280.6892,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_box_turn.mp4",
+    "start": 0,
+    "duration": 3.0475,
+    "label": "sevilla_05_00",
+    "narration_anchor": "That is one version",
+    "section": "sevilla",
+    "timeline_start": 283.0287,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 68,
+    "duration": 3.0475,
+    "label": "sevilla_05_01",
+    "narration_anchor": "That is one version",
+    "section": "sevilla",
+    "timeline_start": 286.0762,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 100,
+    "duration": 2.38,
+    "label": "sevilla_06_00",
+    "narration_anchor": "After the break",
+    "section": "sevilla",
+    "timeline_start": 289.1237,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 107,
+    "duration": 2.937,
+    "label": "sevilla_07_00",
+    "narration_anchor": "Yamal delivered",
+    "section": "sevilla",
+    "timeline_start": 291.5037,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 110,
+    "duration": 2.937,
+    "label": "sevilla_07_01",
+    "narration_anchor": "Yamal delivered",
+    "section": "sevilla",
+    "timeline_start": 294.4407,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_cross_arrival.mp4",
+    "start": 0,
+    "duration": 2.09,
+    "label": "sevilla_08_00",
+    "narration_anchor": "This time",
+    "section": "sevilla",
+    "timeline_start": 297.3777,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 124,
+    "duration": 2.09,
+    "label": "sevilla_08_01",
+    "narration_anchor": "This time",
+    "section": "sevilla",
+    "timeline_start": 299.4677,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 137,
+    "duration": 3.773,
+    "label": "sevilla_09_00",
+    "narration_anchor": "For the third",
+    "section": "sevilla",
+    "timeline_start": 301.5577,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 139,
+    "duration": 2.3685,
+    "label": "sevilla_10_00",
+    "narration_anchor": "Raphinha ran",
+    "section": "sevilla",
+    "timeline_start": 305.3307,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 142,
+    "duration": 2.3685,
+    "label": "sevilla_10_01",
+    "narration_anchor": "Raphinha ran",
+    "section": "sevilla",
+    "timeline_start": 307.6992,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 67,
+    "duration": 2.032,
+    "label": "sevilla_11_00",
+    "narration_anchor": "Receive and turn",
+    "section": "sevilla",
+    "timeline_start": 310.0677,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 125,
+    "duration": 2.032,
+    "label": "sevilla_11_01",
+    "narration_anchor": "Receive and turn",
+    "section": "sevilla",
+    "timeline_start": 312.0997,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 176,
+    "duration": 2.014,
+    "label": "sevilla_12_00",
+    "narration_anchor": "It is tempting",
+    "section": "sevilla",
+    "timeline_start": 314.1317,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 180,
+    "duration": 2.014,
+    "label": "sevilla_12_01",
+    "narration_anchor": "It is tempting",
+    "section": "sevilla",
+    "timeline_start": 316.1457,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_rodri_yamal_run.mp4",
+    "start": 0,
+    "duration": 1.869,
+    "label": "sevilla_13_00",
+    "narration_anchor": "But that misses",
+    "section": "sevilla",
+    "timeline_start": 318.1597,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 158,
+    "duration": 2.798,
+    "label": "sevilla_14_00",
+    "narration_anchor": "The defender",
+    "section": "sevilla",
+    "timeline_start": 320.0287,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 174,
+    "duration": 2.119,
+    "label": "sevilla_15_00",
+    "narration_anchor": "And Raphinha",
+    "section": "sevilla",
+    "timeline_start": 322.8267,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 178,
+    "duration": 2.119,
+    "label": "sevilla_15_01",
+    "narration_anchor": "And Raphinha",
+    "section": "sevilla",
+    "timeline_start": 324.9457,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 94,
+    "duration": 2.558234,
+    "label": "sevilla_16_00",
+    "narration_anchor": "He needs to recognise",
+    "section": "sevilla",
+    "timeline_start": 327.0647,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 174,
+    "duration": 2.0375,
+    "label": "league_00_00",
+    "narration_anchor": "After that win",
+    "section": "league",
+    "timeline_start": 329.5029,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 179,
+    "duration": 2.0375,
+    "label": "league_00_01",
+    "narration_anchor": "After that win",
+    "section": "league",
+    "timeline_start": 331.5404,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 61,
+    "duration": 2.0665,
+    "label": "league_01_00",
+    "narration_anchor": "Thirty-one goals",
+    "section": "league",
+    "timeline_start": 333.5779,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 114,
+    "duration": 2.0665,
+    "label": "league_01_01",
+    "narration_anchor": "Thirty-one goals",
+    "section": "league",
+    "timeline_start": 335.6444,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 111,
+    "duration": 3.239,
+    "label": "league_02_00",
+    "narration_anchor": "That is an extraordinary",
+    "section": "league",
+    "timeline_start": 337.7109,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 673,
+    "duration": 2.125,
+    "label": "league_03_00",
+    "narration_anchor": "Three of his",
+    "section": "league",
+    "timeline_start": 340.9499,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 332,
+    "duration": 2.7805,
+    "label": "league_04_00",
+    "narration_anchor": "A scoring rate",
+    "section": "league",
+    "timeline_start": 343.0749,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 342,
+    "duration": 2.7805,
+    "label": "league_04_01",
+    "narration_anchor": "A scoring rate",
+    "section": "league",
+    "timeline_start": 345.8554,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_repeatable_routes.mp4",
+    "start": 0,
+    "duration": 2.165,
+    "label": "league_05_00",
+    "narration_anchor": "The stronger argument",
+    "section": "league",
+    "timeline_start": 348.6359,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 171,
+    "duration": 2.165,
+    "label": "league_05_01",
+    "narration_anchor": "The stronger argument",
+    "section": "league",
+    "timeline_start": 350.8009,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 183,
+    "duration": 2.299,
+    "label": "league_06_00",
+    "narration_anchor": "You can have",
+    "section": "league",
+    "timeline_start": 352.9659,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 187,
+    "duration": 2.299,
+    "label": "league_06_01",
+    "narration_anchor": "You can have",
+    "section": "league",
+    "timeline_start": 355.2649,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 61,
+    "duration": 2.717,
+    "label": "league_07_00",
+    "narration_anchor": "You can miss",
+    "section": "league",
+    "timeline_start": 357.5639,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 252,
+    "duration": 2.31,
+    "label": "league_08_00",
+    "narration_anchor": "That is the part",
+    "section": "league",
+    "timeline_start": 360.2809,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 462,
+    "duration": 2.868,
+    "label": "league_09_00",
+    "narration_anchor": "And for Real Madrid",
+    "section": "league",
+    "timeline_start": 362.5909,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 304,
+    "duration": 3.483,
+    "label": "league_10_00",
+    "narration_anchor": "Keep collecting",
+    "section": "league",
+    "timeline_start": 365.4589,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 487,
+    "duration": 3.367,
+    "label": "league_11_00",
+    "narration_anchor": "Then find a way",
+    "section": "league",
+    "timeline_start": 368.9419,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 156,
+    "duration": 3.181,
+    "label": "league_12_00",
+    "narration_anchor": "Madrid had won",
+    "section": "league",
+    "timeline_start": 372.3089,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 96,
+    "duration": 3.39,
+    "label": "league_13_00",
+    "narration_anchor": "So this is not",
+    "section": "league",
+    "timeline_start": 375.4899,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 175,
+    "duration": 3.437,
+    "label": "league_14_00",
+    "narration_anchor": "Every Barcelona win",
+    "section": "league",
+    "timeline_start": 378.8799,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 373,
+    "duration": 2.014,
+    "label": "league_15_00",
+    "narration_anchor": "Every different route",
+    "section": "league",
+    "timeline_start": 382.3169,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 382,
+    "duration": 2.014,
+    "label": "league_15_01",
+    "narration_anchor": "Every different route",
+    "section": "league",
+    "timeline_start": 384.3309,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 134,
+    "duration": 2.660859,
+    "label": "league_16_00",
+    "narration_anchor": "And earlier this month",
+    "section": "league",
+    "timeline_start": 386.3449,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 138,
+    "duration": 2.660859,
+    "label": "league_16_01",
+    "narration_anchor": "And earlier this month",
+    "section": "league",
+    "timeline_start": 389.0058,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/inserts/insert_3.mp4",
+    "start": 0,
+    "duration": 58.77,
+    "label": "pundit_3",
+    "narration_anchor": "Original pundit audio",
+    "section": "pundit_3",
+    "timeline_start": 391.5467,
+    "kind": "insert"
+  },
+  {
+    "file": "assets/broll/tactics_compact_answer.mp4",
+    "start": 0,
+    "duration": 2.3335,
+    "label": "limits_payoff_00_00",
+    "narration_anchor": "There are answers",
+    "section": "limits_payoff",
+    "timeline_start": 450.3167,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 271,
+    "duration": 2.3335,
+    "label": "limits_payoff_00_01",
+    "narration_anchor": "There are answers",
+    "section": "limits_payoff",
+    "timeline_start": 452.6502,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_press_curve.mp4",
+    "start": 0,
+    "duration": 2.984,
+    "label": "limits_payoff_01_00",
+    "narration_anchor": "Pressure the passer",
+    "section": "limits_payoff",
+    "timeline_start": 454.9837,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 323,
+    "duration": 3.785,
+    "label": "limits_payoff_02_00",
+    "narration_anchor": "Pass runners",
+    "section": "limits_payoff",
+    "timeline_start": 457.9677,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/tactics_transition_cost.mp4",
+    "start": 0,
+    "duration": 2.4035,
+    "label": "limits_payoff_03_00",
+    "narration_anchor": "And when Barcelona",
+    "section": "limits_payoff",
+    "timeline_start": 461.7527,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 367,
+    "duration": 2.4035,
+    "label": "limits_payoff_03_01",
+    "narration_anchor": "And when Barcelona",
+    "section": "limits_payoff",
+    "timeline_start": 464.1562,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 38,
+    "duration": 3.436,
+    "label": "limits_payoff_04_00",
+    "narration_anchor": "Sevilla's first half",
+    "section": "limits_payoff",
+    "timeline_start": 466.5597,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 352,
+    "duration": 3.2625,
+    "label": "limits_payoff_05_00",
+    "narration_anchor": "The experiment still",
+    "section": "limits_payoff",
+    "timeline_start": 469.9957,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_group_training.mp4",
+    "start": 361,
+    "duration": 3.2625,
+    "label": "limits_payoff_05_01",
+    "narration_anchor": "The experiment still",
+    "section": "limits_payoff",
+    "timeline_start": 473.2582,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 93,
+    "duration": 2.74,
+    "label": "limits_payoff_06_00",
+    "narration_anchor": "But that is",
+    "section": "limits_payoff",
+    "timeline_start": 476.5207,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 851,
+    "duration": 2.537,
+    "label": "limits_payoff_07_00",
+    "narration_anchor": "Raphinha is giving",
+    "section": "limits_payoff",
+    "timeline_start": 479.2607,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 855,
+    "duration": 2.537,
+    "label": "limits_payoff_07_01",
+    "narration_anchor": "Raphinha is giving",
+    "section": "limits_payoff",
+    "timeline_start": 481.7977,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_training_spotlight.mp4",
+    "start": 140,
+    "duration": 3.402,
+    "label": "limits_payoff_08_00",
+    "narration_anchor": "Whether this breaks",
+    "section": "limits_payoff",
+    "timeline_start": 484.3347,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 146,
+    "duration": 2.902,
+    "label": "limits_payoff_09_00",
+    "narration_anchor": "Right now",
+    "section": "limits_payoff",
+    "timeline_start": 487.7367,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 150,
+    "duration": 2.902,
+    "label": "limits_payoff_09_01",
+    "narration_anchor": "Right now",
+    "section": "limits_payoff",
+    "timeline_start": 490.6387,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/raphinha_best_2025_26.mp4",
+    "start": 775,
+    "duration": 3.483,
+    "label": "limits_payoff_10_00",
+    "narration_anchor": "So when the next",
+    "section": "limits_payoff",
+    "timeline_start": 493.5407,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 139,
+    "duration": 2.13235,
+    "label": "limits_payoff_11_00",
+    "narration_anchor": "Does he follow",
+    "section": "limits_payoff",
+    "timeline_start": 497.0237,
+    "kind": "vo"
+  },
+  {
+    "file": "assets/broll/sevilla_current_1_3.mp4",
+    "start": 143,
+    "duration": 2.13235,
+    "label": "limits_payoff_11_01",
+    "narration_anchor": "Does he follow",
+    "section": "limits_payoff",
+    "timeline_start": 499.156,
+    "kind": "vo"
+  }
+]

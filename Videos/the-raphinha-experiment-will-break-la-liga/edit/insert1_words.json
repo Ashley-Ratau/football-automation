@@ -1,0 +1,1322 @@
+[
+  {
+    "start": 0.0,
+    "end": 3.76,
+    "text": " And he's such a non-traditional number nine",
+    "words": [
+      {
+        "start": 0.0,
+        "end": 0.22,
+        "word": " And",
+        "probability": 0.21496611833572388
+      },
+      {
+        "start": 0.22,
+        "end": 1.0,
+        "word": " he's",
+        "probability": 0.8398904502391815
+      },
+      {
+        "start": 1.0,
+        "end": 1.32,
+        "word": " such",
+        "probability": 0.9617161154747009
+      },
+      {
+        "start": 1.32,
+        "end": 1.84,
+        "word": " a",
+        "probability": 0.9531521201133728
+      },
+      {
+        "start": 1.84,
+        "end": 2.36,
+        "word": " non",
+        "probability": 0.42143920063972473
+      },
+      {
+        "start": 2.36,
+        "end": 2.88,
+        "word": "-traditional",
+        "probability": 0.8269361257553101
+      },
+      {
+        "start": 2.88,
+        "end": 3.34,
+        "word": " number",
+        "probability": 0.6595582962036133
+      },
+      {
+        "start": 3.34,
+        "end": 3.76,
+        "word": " nine",
+        "probability": 0.8546560406684875
+      }
+    ]
+  },
+  {
+    "start": 4.32,
+    "end": 8.08,
+    "text": " that he's giving defenses more problems than they used to.",
+    "words": [
+      {
+        "start": 4.3199999999999985,
+        "end": 4.58,
+        "word": " that",
+        "probability": 0.4970073997974396
+      },
+      {
+        "start": 4.58,
+        "end": 4.96,
+        "word": " he's",
+        "probability": 0.9906381368637085
+      },
+      {
+        "start": 4.96,
+        "end": 5.24,
+        "word": " giving",
+        "probability": 0.9290116429328918
+      },
+      {
+        "start": 5.24,
+        "end": 5.78,
+        "word": " defenses",
+        "probability": 0.8589851260185242
+      },
+      {
+        "start": 5.78,
+        "end": 6.38,
+        "word": " more",
+        "probability": 0.9726582169532776
+      },
+      {
+        "start": 6.38,
+        "end": 6.84,
+        "word": " problems",
+        "probability": 0.9912567138671875
+      },
+      {
+        "start": 6.84,
+        "end": 7.16,
+        "word": " than",
+        "probability": 0.9580589532852173
+      },
+      {
+        "start": 7.16,
+        "end": 7.56,
+        "word": " they",
+        "probability": 0.8402037024497986
+      },
+      {
+        "start": 7.56,
+        "end": 7.82,
+        "word": " used",
+        "probability": 0.7962693572044373
+      },
+      {
+        "start": 7.82,
+        "end": 8.08,
+        "word": " to.",
+        "probability": 0.994390070438385
+      }
+    ]
+  },
+  {
+    "start": 8.72,
+    "end": 11.08,
+    "text": " He can drop off and pick up the ball anyhow on spaces.",
+    "words": [
+      {
+        "start": 8.72,
+        "end": 8.8,
+        "word": " He",
+        "probability": 0.9766278266906738
+      },
+      {
+        "start": 8.8,
+        "end": 9.04,
+        "word": " can",
+        "probability": 0.9976697564125061
+      },
+      {
+        "start": 9.04,
+        "end": 9.32,
+        "word": " drop",
+        "probability": 0.927100658416748
+      },
+      {
+        "start": 9.32,
+        "end": 9.6,
+        "word": " off",
+        "probability": 0.9934826493263245
+      },
+      {
+        "start": 9.6,
+        "end": 9.78,
+        "word": " and",
+        "probability": 0.9927133917808533
+      },
+      {
+        "start": 9.78,
+        "end": 9.92,
+        "word": " pick",
+        "probability": 0.9935746788978577
+      },
+      {
+        "start": 9.92,
+        "end": 10.04,
+        "word": " up",
+        "probability": 0.9971223473548889
+      },
+      {
+        "start": 10.04,
+        "end": 10.14,
+        "word": " the",
+        "probability": 0.9960999488830566
+      },
+      {
+        "start": 10.14,
+        "end": 10.3,
+        "word": " ball",
+        "probability": 0.9860785603523254
+      },
+      {
+        "start": 10.3,
+        "end": 10.72,
+        "word": " anyhow",
+        "probability": 0.8662529289722443
+      },
+      {
+        "start": 10.72,
+        "end": 10.76,
+        "word": " on",
+        "probability": 0.11082658916711807
+      },
+      {
+        "start": 10.76,
+        "end": 11.08,
+        "word": " spaces.",
+        "probability": 0.6299941539764404
+      }
+    ]
+  },
+  {
+    "start": 11.52,
+    "end": 14.26,
+    "text": " As you show, again, twice, he can run off",
+    "words": [
+      {
+        "start": 11.52,
+        "end": 11.58,
+        "word": " As",
+        "probability": 0.95663982629776
+      },
+      {
+        "start": 11.58,
+        "end": 11.7,
+        "word": " you",
+        "probability": 0.9853665828704834
+      },
+      {
+        "start": 11.7,
+        "end": 11.98,
+        "word": " show,",
+        "probability": 0.5023332834243774
+      },
+      {
+        "start": 12.24,
+        "end": 12.7,
+        "word": " again,",
+        "probability": 0.9751449227333069
+      },
+      {
+        "start": 13.08,
+        "end": 13.3,
+        "word": " twice,",
+        "probability": 0.9959761500358582
+      },
+      {
+        "start": 13.74,
+        "end": 13.78,
+        "word": " he",
+        "probability": 0.996587872505188
+      },
+      {
+        "start": 13.78,
+        "end": 13.92,
+        "word": " can",
+        "probability": 0.9731901288032532
+      },
+      {
+        "start": 13.92,
+        "end": 14.12,
+        "word": " run",
+        "probability": 0.9968225955963135
+      },
+      {
+        "start": 14.12,
+        "end": 14.26,
+        "word": " off",
+        "probability": 0.9759456515312195
+      }
+    ]
+  },
+  {
+    "start": 14.26,
+    "end": 15.18,
+    "text": " the shoulder of defenders.",
+    "words": [
+      {
+        "start": 14.26,
+        "end": 14.42,
+        "word": " the",
+        "probability": 0.9910395741462708
+      },
+      {
+        "start": 14.42,
+        "end": 14.6,
+        "word": " shoulder",
+        "probability": 0.36586901545524597
+      },
+      {
+        "start": 14.6,
+        "end": 14.8,
+        "word": " of",
+        "probability": 0.9467160105705261
+      },
+      {
+        "start": 14.8,
+        "end": 15.18,
+        "word": " defenders.",
+        "probability": 0.9605515599250793
+      }
+    ]
+  },
+  {
+    "start": 16.38,
+    "end": 19.92,
+    "text": " And once he does get that right side, once he is on side,",
+    "words": [
+      {
+        "start": 16.38,
+        "end": 16.74,
+        "word": " And",
+        "probability": 0.9503915309906006
+      },
+      {
+        "start": 16.74,
+        "end": 17.12,
+        "word": " once",
+        "probability": 0.9857683777809143
+      },
+      {
+        "start": 17.12,
+        "end": 17.34,
+        "word": " he",
+        "probability": 0.9980485439300537
+      },
+      {
+        "start": 17.34,
+        "end": 17.58,
+        "word": " does",
+        "probability": 0.996327817440033
+      },
+      {
+        "start": 17.58,
+        "end": 17.84,
+        "word": " get",
+        "probability": 0.9972937703132629
+      },
+      {
+        "start": 17.84,
+        "end": 18.04,
+        "word": " that",
+        "probability": 0.9929057359695435
+      },
+      {
+        "start": 18.04,
+        "end": 18.28,
+        "word": " right",
+        "probability": 0.9961689114570618
+      },
+      {
+        "start": 18.28,
+        "end": 18.58,
+        "word": " side,",
+        "probability": 0.9942644238471985
+      },
+      {
+        "start": 18.76,
+        "end": 18.9,
+        "word": " once",
+        "probability": 0.9936493039131165
+      },
+      {
+        "start": 18.9,
+        "end": 19.12,
+        "word": " he",
+        "probability": 0.9990046620368958
+      },
+      {
+        "start": 19.12,
+        "end": 19.4,
+        "word": " is",
+        "probability": 0.9934824109077454
+      },
+      {
+        "start": 19.4,
+        "end": 19.58,
+        "word": " on",
+        "probability": 0.9921074509620667
+      },
+      {
+        "start": 19.58,
+        "end": 19.92,
+        "word": " side,",
+        "probability": 0.5232148766517639
+      }
+    ]
+  },
+  {
+    "start": 20.28,
+    "end": 21.52,
+    "text": " you cannot catch him.",
+    "words": [
+      {
+        "start": 20.28,
+        "end": 20.52,
+        "word": " you",
+        "probability": 0.9982503056526184
+      },
+      {
+        "start": 20.52,
+        "end": 20.92,
+        "word": " cannot",
+        "probability": 0.9907139539718628
+      },
+      {
+        "start": 20.92,
+        "end": 21.26,
+        "word": " catch",
+        "probability": 0.9986039996147156
+      },
+      {
+        "start": 21.26,
+        "end": 21.52,
+        "word": " him.",
+        "probability": 0.9985502362251282
+      }
+    ]
+  },
+  {
+    "start": 21.82,
+    "end": 22.96,
+    "text": " And you show up for a second.",
+    "words": [
+      {
+        "start": 21.82,
+        "end": 21.96,
+        "word": " And",
+        "probability": 0.9932704567909241
+      },
+      {
+        "start": 21.96,
+        "end": 22.1,
+        "word": " you",
+        "probability": 0.8983083367347717
+      },
+      {
+        "start": 22.1,
+        "end": 22.26,
+        "word": " show",
+        "probability": 0.9470336437225342
+      },
+      {
+        "start": 22.26,
+        "end": 22.38,
+        "word": " up",
+        "probability": 0.5816117525100708
+      },
+      {
+        "start": 22.38,
+        "end": 22.46,
+        "word": " for",
+        "probability": 0.9979549646377563
+      },
+      {
+        "start": 22.46,
+        "end": 22.62,
+        "word": " a",
+        "probability": 0.9325886368751526
+      },
+      {
+        "start": 22.62,
+        "end": 22.96,
+        "word": " second.",
+        "probability": 0.9996078610420227
+      }
+    ]
+  },
+  {
+    "start": 23.36,
+    "end": 25.58,
+    "text": " He just has that timing and that instinct.",
+    "words": [
+      {
+        "start": 23.36,
+        "end": 23.56,
+        "word": " He",
+        "probability": 0.9967262744903564
+      },
+      {
+        "start": 23.56,
+        "end": 23.84,
+        "word": " just",
+        "probability": 0.9989963173866272
+      },
+      {
+        "start": 23.84,
+        "end": 24.08,
+        "word": " has",
+        "probability": 0.9931237101554871
+      },
+      {
+        "start": 24.08,
+        "end": 24.32,
+        "word": " that",
+        "probability": 0.9946470856666565
+      },
+      {
+        "start": 24.32,
+        "end": 24.7,
+        "word": " timing",
+        "probability": 0.9982995390892029
+      },
+      {
+        "start": 24.7,
+        "end": 24.92,
+        "word": " and",
+        "probability": 0.945995569229126
+      },
+      {
+        "start": 24.92,
+        "end": 25.1,
+        "word": " that",
+        "probability": 0.9964894652366638
+      },
+      {
+        "start": 25.1,
+        "end": 25.58,
+        "word": " instinct.",
+        "probability": 0.9987934827804565
+      }
+    ]
+  },
+  {
+    "start": 25.96,
+    "end": 27.68,
+    "text": " Oh, a normal number nine.",
+    "words": [
+      {
+        "start": 25.96,
+        "end": 25.96,
+        "word": " Oh,",
+        "probability": 0.7923300862312317
+      },
+      {
+        "start": 26.72,
+        "end": 26.96,
+        "word": " a",
+        "probability": 0.7471383810043335
+      },
+      {
+        "start": 26.96,
+        "end": 27.18,
+        "word": " normal",
+        "probability": 0.9461652040481567
+      },
+      {
+        "start": 27.18,
+        "end": 27.4,
+        "word": " number",
+        "probability": 0.9904183745384216
+      },
+      {
+        "start": 27.4,
+        "end": 27.68,
+        "word": " nine.",
+        "probability": 0.9712039232254028
+      }
+    ]
+  },
+  {
+    "start": 27.68,
+    "end": 31.48,
+    "text": " So the question becomes how do you play Rafinha?",
+    "words": [
+      {
+        "start": 27.68,
+        "end": 28.16,
+        "word": " So",
+        "probability": 0.5533521771430969
+      },
+      {
+        "start": 28.16,
+        "end": 28.6,
+        "word": " the",
+        "probability": 0.8977106809616089
+      },
+      {
+        "start": 28.6,
+        "end": 29.24,
+        "word": " question",
+        "probability": 0.9958310723304749
+      },
+      {
+        "start": 29.24,
+        "end": 29.94,
+        "word": " becomes",
+        "probability": 0.9880620241165161
+      },
+      {
+        "start": 29.94,
+        "end": 30.3,
+        "word": " how",
+        "probability": 0.698408305644989
+      },
+      {
+        "start": 30.3,
+        "end": 30.48,
+        "word": " do",
+        "probability": 0.9959471821784973
+      },
+      {
+        "start": 30.48,
+        "end": 30.58,
+        "word": " you",
+        "probability": 0.9988431930541992
+      },
+      {
+        "start": 30.58,
+        "end": 30.84,
+        "word": " play",
+        "probability": 0.9938735961914062
+      },
+      {
+        "start": 30.84,
+        "end": 31.48,
+        "word": " Rafinha?",
+        "probability": 0.36476679146289825
+      }
+    ]
+  },
+  {
+    "start": 31.56,
+    "end": 33.62,
+    "text": " How do you play up against this Barcelona?",
+    "words": [
+      {
+        "start": 31.56,
+        "end": 31.9,
+        "word": " How",
+        "probability": 0.9838647842407227
+      },
+      {
+        "start": 31.9,
+        "end": 32.04,
+        "word": " do",
+        "probability": 0.9980327486991882
+      },
+      {
+        "start": 32.04,
+        "end": 32.18,
+        "word": " you",
+        "probability": 0.999534010887146
+      },
+      {
+        "start": 32.18,
+        "end": 32.42,
+        "word": " play",
+        "probability": 0.9987121820449829
+      },
+      {
+        "start": 32.42,
+        "end": 32.66,
+        "word": " up",
+        "probability": 0.9935746788978577
+      },
+      {
+        "start": 32.66,
+        "end": 32.96,
+        "word": " against",
+        "probability": 0.9955469369888306
+      },
+      {
+        "start": 32.96,
+        "end": 33.16,
+        "word": " this",
+        "probability": 0.8827646374702454
+      },
+      {
+        "start": 33.16,
+        "end": 33.62,
+        "word": " Barcelona?",
+        "probability": 0.9856652021408081
+      }
+    ]
+  },
+  {
+    "start": 34.32,
+    "end": 36.2,
+    "text": " You've seen the approach from Sevilla today",
+    "words": [
+      {
+        "start": 34.32,
+        "end": 34.7,
+        "word": " You've",
+        "probability": 0.9449178278446198
+      },
+      {
+        "start": 34.7,
+        "end": 34.86,
+        "word": " seen",
+        "probability": 0.9990395903587341
+      },
+      {
+        "start": 34.86,
+        "end": 35.02,
+        "word": " the",
+        "probability": 0.9983227849006653
+      },
+      {
+        "start": 35.02,
+        "end": 35.3,
+        "word": " approach",
+        "probability": 0.9985149502754211
+      },
+      {
+        "start": 35.3,
+        "end": 35.56,
+        "word": " from",
+        "probability": 0.9956157207489014
+      },
+      {
+        "start": 35.56,
+        "end": 35.9,
+        "word": " Sevilla",
+        "probability": 0.6588591784238815
+      },
+      {
+        "start": 35.9,
+        "end": 36.2,
+        "word": " today",
+        "probability": 0.9408215880393982
+      }
+    ]
+  },
+  {
+    "start": 36.2,
+    "end": 37.72,
+    "text": " to try to press a little bit higher up,",
+    "words": [
+      {
+        "start": 36.2,
+        "end": 36.38,
+        "word": " to",
+        "probability": 0.9411085844039917
+      },
+      {
+        "start": 36.38,
+        "end": 36.56,
+        "word": " try",
+        "probability": 0.996145486831665
+      },
+      {
+        "start": 36.56,
+        "end": 36.68,
+        "word": " to",
+        "probability": 0.9920221567153931
+      },
+      {
+        "start": 36.68,
+        "end": 36.86,
+        "word": " press",
+        "probability": 0.9919480681419373
+      },
+      {
+        "start": 36.86,
+        "end": 36.96,
+        "word": " a",
+        "probability": 0.9838423728942871
+      },
+      {
+        "start": 36.96,
+        "end": 37.08,
+        "word": " little",
+        "probability": 0.9859291911125183
+      },
+      {
+        "start": 37.08,
+        "end": 37.2,
+        "word": " bit",
+        "probability": 0.9966427087783813
+      },
+      {
+        "start": 37.2,
+        "end": 37.44,
+        "word": " higher",
+        "probability": 0.9972299933433533
+      },
+      {
+        "start": 37.44,
+        "end": 37.72,
+        "word": " up,",
+        "probability": 0.9894383549690247
+      }
+    ]
+  },
+  {
+    "start": 37.8,
+    "end": 39.12,
+    "text": " to try to be a little bit more aggressive.",
+    "words": [
+      {
+        "start": 37.8,
+        "end": 37.84,
+        "word": " to",
+        "probability": 0.9664342999458313
+      },
+      {
+        "start": 37.84,
+        "end": 38.02,
+        "word": " try",
+        "probability": 0.992804229259491
+      },
+      {
+        "start": 38.02,
+        "end": 38.12,
+        "word": " to",
+        "probability": 0.994594156742096
+      },
+      {
+        "start": 38.12,
+        "end": 38.22,
+        "word": " be",
+        "probability": 0.9977601766586304
+      },
+      {
+        "start": 38.22,
+        "end": 38.3,
+        "word": " a",
+        "probability": 0.9956348538398743
+      },
+      {
+        "start": 38.3,
+        "end": 38.4,
+        "word": " little",
+        "probability": 0.98514324426651
+      },
+      {
+        "start": 38.4,
+        "end": 38.56,
+        "word": " bit",
+        "probability": 0.9945435523986816
+      },
+      {
+        "start": 38.56,
+        "end": 38.76,
+        "word": " more",
+        "probability": 0.9981743097305298
+      },
+      {
+        "start": 38.76,
+        "end": 39.12,
+        "word": " aggressive.",
+        "probability": 0.9980735778808594
+      }
+    ]
+  },
+  {
+    "start": 39.5,
+    "end": 40.72,
+    "text": " You've seen earlier this season,",
+    "words": [
+      {
+        "start": 39.5,
+        "end": 39.68,
+        "word": " You've",
+        "probability": 0.990611344575882
+      },
+      {
+        "start": 39.68,
+        "end": 39.82,
+        "word": " seen",
+        "probability": 0.9972612857818604
+      },
+      {
+        "start": 39.82,
+        "end": 40.12,
+        "word": " earlier",
+        "probability": 0.7517291903495789
+      },
+      {
+        "start": 40.12,
+        "end": 40.38,
+        "word": " this",
+        "probability": 0.9853906631469727
+      },
+      {
+        "start": 40.38,
+        "end": 40.72,
+        "word": " season,",
+        "probability": 0.9968281388282776
+      }
+    ]
+  },
+  {
+    "start": 40.86,
+    "end": 42.98,
+    "text": " teams kind of dropping off and playing in a low block.",
+    "words": [
+      {
+        "start": 40.86,
+        "end": 41.04,
+        "word": " teams",
+        "probability": 0.8919381499290466
+      },
+      {
+        "start": 41.04,
+        "end": 41.3,
+        "word": " kind",
+        "probability": 0.856918454170227
+      },
+      {
+        "start": 41.3,
+        "end": 41.4,
+        "word": " of",
+        "probability": 0.99857497215271
+      },
+      {
+        "start": 41.4,
+        "end": 41.66,
+        "word": " dropping",
+        "probability": 0.9945645332336426
+      },
+      {
+        "start": 41.66,
+        "end": 41.94,
+        "word": " off",
+        "probability": 0.9922075867652893
+      },
+      {
+        "start": 41.94,
+        "end": 42.1,
+        "word": " and",
+        "probability": 0.9578682780265808
+      },
+      {
+        "start": 42.1,
+        "end": 42.3,
+        "word": " playing",
+        "probability": 0.996116042137146
+      },
+      {
+        "start": 42.3,
+        "end": 42.44,
+        "word": " in",
+        "probability": 0.9795085191726685
+      },
+      {
+        "start": 42.44,
+        "end": 42.56,
+        "word": " a",
+        "probability": 0.9753182530403137
+      },
+      {
+        "start": 42.56,
+        "end": 42.72,
+        "word": " low",
+        "probability": 0.9967806339263916
+      },
+      {
+        "start": 42.72,
+        "end": 42.98,
+        "word": " block.",
+        "probability": 0.9855189323425293
+      }
+    ]
+  },
+  {
+    "start": 43.84,
+    "end": 47.0,
+    "text": " And the result has been the same to the point.",
+    "words": [
+      {
+        "start": 43.84,
+        "end": 44.08,
+        "word": " And",
+        "probability": 0.9642706513404846
+      },
+      {
+        "start": 44.08,
+        "end": 44.38,
+        "word": " the",
+        "probability": 0.9842504262924194
+      },
+      {
+        "start": 44.38,
+        "end": 44.7,
+        "word": " result",
+        "probability": 0.9983155727386475
+      },
+      {
+        "start": 44.7,
+        "end": 45.24,
+        "word": " has",
+        "probability": 0.9943898320198059
+      },
+      {
+        "start": 45.24,
+        "end": 45.7,
+        "word": " been",
+        "probability": 0.9164098501205444
+      },
+      {
+        "start": 45.7,
+        "end": 45.84,
+        "word": " the",
+        "probability": 0.9896379709243774
+      },
+      {
+        "start": 45.84,
+        "end": 46.04,
+        "word": " same",
+        "probability": 0.9970268607139587
+      },
+      {
+        "start": 46.04,
+        "end": 46.42,
+        "word": " to",
+        "probability": 0.4632694125175476
+      },
+      {
+        "start": 46.42,
+        "end": 46.68,
+        "word": " the",
+        "probability": 0.984623908996582
+      },
+      {
+        "start": 46.68,
+        "end": 47.0,
+        "word": " point.",
+        "probability": 0.9986463189125061
+      }
+    ]
+  },
+  {
+    "start": 47.5,
+    "end": 48.76,
+    "text": " Sevilla only conceding three.",
+    "words": [
+      {
+        "start": 47.5,
+        "end": 47.68,
+        "word": " Sevilla",
+        "probability": 0.9770356118679047
+      },
+      {
+        "start": 47.68,
+        "end": 47.98,
+        "word": " only",
+        "probability": 0.9379183053970337
+      },
+      {
+        "start": 47.98,
+        "end": 48.5,
+        "word": " conceding",
+        "probability": 0.9904865622520447
+      },
+      {
+        "start": 48.5,
+        "end": 48.76,
+        "word": " three.",
+        "probability": 0.9502951502799988
+      }
+    ]
+  },
+  {
+    "start": 49.28,
+    "end": 50.76,
+    "text": " You almost want to celebrate that,",
+    "words": [
+      {
+        "start": 49.28,
+        "end": 49.7,
+        "word": " You",
+        "probability": 0.8828672170639038
+      },
+      {
+        "start": 49.7,
+        "end": 49.9,
+        "word": " almost",
+        "probability": 0.9913580417633057
+      },
+      {
+        "start": 49.9,
+        "end": 50.04,
+        "word": " want",
+        "probability": 0.7933212518692017
+      },
+      {
+        "start": 50.04,
+        "end": 50.14,
+        "word": " to",
+        "probability": 0.9977338314056396
+      },
+      {
+        "start": 50.14,
+        "end": 50.48,
+        "word": " celebrate",
+        "probability": 0.998714804649353
+      },
+      {
+        "start": 50.48,
+        "end": 50.76,
+        "word": " that,",
+        "probability": 0.9921485185623169
+      }
+    ]
+  },
+  {
+    "start": 50.86,
+    "end": 52.4,
+    "text": " kind of given what we've seen so far this season.",
+    "words": [
+      {
+        "start": 50.86,
+        "end": 50.9,
+        "word": " kind",
+        "probability": 0.83226478099823
+      },
+      {
+        "start": 50.9,
+        "end": 51.0,
+        "word": " of",
+        "probability": 0.9978247880935669
+      },
+      {
+        "start": 51.0,
+        "end": 51.1,
+        "word": " given",
+        "probability": 0.42799288034439087
+      },
+      {
+        "start": 51.1,
+        "end": 51.26,
+        "word": " what",
+        "probability": 0.9854485392570496
+      },
+      {
+        "start": 51.26,
+        "end": 51.46,
+        "word": " we've",
+        "probability": 0.9871883988380432
+      },
+      {
+        "start": 51.46,
+        "end": 51.58,
+        "word": " seen",
+        "probability": 0.9944646954536438
+      },
+      {
+        "start": 51.58,
+        "end": 51.76,
+        "word": " so",
+        "probability": 0.9918062686920166
+      },
+      {
+        "start": 51.76,
+        "end": 51.94,
+        "word": " far",
+        "probability": 0.9996069073677063
+      },
+      {
+        "start": 51.94,
+        "end": 52.1,
+        "word": " this",
+        "probability": 0.9736567735671997
+      },
+      {
+        "start": 52.1,
+        "end": 52.4,
+        "word": " season.",
+        "probability": 0.9992687106132507
+      }
+    ]
+  },
+  {
+    "start": 52.92,
+    "end": 55.68,
+    "text": " And Barcelona have just been",
+    "words": [
+      {
+        "start": 52.92,
+        "end": 53.22,
+        "word": " And",
+        "probability": 0.9948771595954895
+      },
+      {
+        "start": 53.22,
+        "end": 53.96,
+        "word": " Barcelona",
+        "probability": 0.9951716065406799
+      },
+      {
+        "start": 53.96,
+        "end": 54.64,
+        "word": " have",
+        "probability": 0.9888477325439453
+      },
+      {
+        "start": 54.64,
+        "end": 55.24,
+        "word": " just",
+        "probability": 0.9992213249206543
+      },
+      {
+        "start": 55.24,
+        "end": 55.68,
+        "word": " been",
+        "probability": 0.9992190599441528
+      }
+    ]
+  },
+  {
+    "start": 55.68,
+    "end": 61.72,
+    "text": " the best team by none I know the caveat is they haven't faced any true test so",
+    "words": [
+      {
+        "start": 55.68,
+        "end": 56.16,
+        "word": " the",
+        "probability": 0.47182416915893555
+      },
+      {
+        "start": 56.16,
+        "end": 56.64,
+        "word": " best",
+        "probability": 0.96771240234375
+      },
+      {
+        "start": 56.64,
+        "end": 57.16,
+        "word": " team",
+        "probability": 0.987418532371521
+      },
+      {
+        "start": 57.16,
+        "end": 57.68,
+        "word": " by",
+        "probability": 0.26135870814323425
+      },
+      {
+        "start": 57.68,
+        "end": 57.96,
+        "word": " none",
+        "probability": 0.6464821696281433
+      },
+      {
+        "start": 57.96,
+        "end": 58.36,
+        "word": " I",
+        "probability": 0.16222211718559265
+      },
+      {
+        "start": 58.36,
+        "end": 58.6,
+        "word": " know",
+        "probability": 0.9964117407798767
+      },
+      {
+        "start": 58.6,
+        "end": 58.86,
+        "word": " the",
+        "probability": 0.9919861555099487
+      },
+      {
+        "start": 58.86,
+        "end": 59.42,
+        "word": " caveat",
+        "probability": 0.9850668907165527
+      },
+      {
+        "start": 59.42,
+        "end": 59.84,
+        "word": " is",
+        "probability": 0.9962175488471985
+      },
+      {
+        "start": 59.84,
+        "end": 60.22,
+        "word": " they",
+        "probability": 0.9759712815284729
+      },
+      {
+        "start": 60.22,
+        "end": 60.62,
+        "word": " haven't",
+        "probability": 0.9928637146949768
+      },
+      {
+        "start": 60.62,
+        "end": 60.74,
+        "word": " faced",
+        "probability": 0.9949677586555481
+      },
+      {
+        "start": 60.74,
+        "end": 60.94,
+        "word": " any",
+        "probability": 0.9960216879844666
+      },
+      {
+        "start": 60.94,
+        "end": 61.24,
+        "word": " true",
+        "probability": 0.9617917537689209
+      },
+      {
+        "start": 61.24,
+        "end": 61.54,
+        "word": " test",
+        "probability": 0.3805590271949768
+      },
+      {
+        "start": 61.54,
+        "end": 61.72,
+        "word": " so",
+        "probability": 0.7691273093223572
+      }
+    ]
+  },
+  {
+    "start": 61.72,
+    "end": 62.36,
+    "text": " father sees",
+    "words": [
+      {
+        "start": 61.72,
+        "end": 62.02,
+        "word": " father",
+        "probability": 0.30626219511032104
+      },
+      {
+        "start": 62.02,
+        "end": 62.36,
+        "word": " sees",
+        "probability": 0.405474990606308
+      }
+    ]
+  }
+]

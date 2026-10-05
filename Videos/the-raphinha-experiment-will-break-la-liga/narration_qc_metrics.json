@@ -1,0 +1,98 @@
+{
+  "duration_total_seconds": 323.9183673469388,
+  "results": [
+    {
+      "section": "hook",
+      "duration": 32.97233560090703,
+      "alignment_exact": true,
+      "script_hash_matches": true,
+      "alignment_end": 32.972,
+      "timings_monotonic": true,
+      "timings_in_bounds": true,
+      "peak_dbfs": -7.75,
+      "rms_dbfs": -29.25,
+      "full_scale_samples": 0,
+      "silences_ge_0_7s": []
+    },
+    {
+      "section": "role",
+      "duration": 54.33469387755102,
+      "alignment_exact": true,
+      "script_hash_matches": true,
+      "alignment_end": 54.334,
+      "timings_monotonic": true,
+      "timings_in_bounds": true,
+      "peak_dbfs": -13.8,
+      "rms_dbfs": -36.23,
+      "full_scale_samples": 0,
+      "silences_ge_0_7s": [
+        0.715397,
+        0.945215,
+        0.850023
+      ]
+    },
+    {
+      "section": "dilemma",
+      "duration": 58.978684807256236,
+      "alignment_exact": true,
+      "script_hash_matches": true,
+      "alignment_end": 58.978,
+      "timings_monotonic": true,
+      "timings_in_bounds": true,
+      "peak_dbfs": -5.12,
+      "rms_dbfs": -26.79,
+      "full_scale_samples": 0,
+      "silences_ge_0_7s": [
+        0.729433,
+        0.812834
+      ]
+    },
+    {
+      "section": "sevilla",
+      "duration": 64.7372335600907,
+      "alignment_exact": true,
+      "script_hash_matches": true,
+      "alignment_end": 64.737,
+      "timings_monotonic": true,
+      "timings_in_bounds": true,
+      "peak_dbfs": -7.26,
+      "rms_dbfs": -29.55,
+      "full_scale_samples": 0,
+      "silences_ge_0_7s": [
+        0.979977,
+        0.877075
+      ]
+    },
+    {
+      "section": "league",
+      "duration": 62.04371882086168,
+      "alignment_exact": true,
+      "script_hash_matches": true,
+      "alignment_end": 62.044,
+      "timings_monotonic": true,
+      "timings_in_bounds": true,
+      "peak_dbfs": -3.98,
+      "rms_dbfs": -27.1,
+      "full_scale_samples": 0,
+      "silences_ge_0_7s": []
+    },
+    {
+      "section": "limits_payoff",
+      "duration": 50.85170068027211,
+      "alignment_exact": true,
+      "script_hash_matches": true,
+      "alignment_end": 50.852,
+      "timings_monotonic": true,
+      "timings_in_bounds": true,
+      "peak_dbfs": -11.43,
+      "rms_dbfs": -34.63,
+      "full_scale_samples": 0,
+      "silences_ge_0_7s": [
+        0.947778,
+        0.807868,
+        0.939342,
+        0.757392
+      ]
+    }
+  ]
+}

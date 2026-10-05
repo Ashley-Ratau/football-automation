@@ -1,0 +1,8 @@
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_00.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_01.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_02.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_03.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_04.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_05.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_06.mp4'
+file 'C:/Users/Wendy/Documents/Football Channel/Videos/klopp-warned-us-about-manchester-city/assets/visuals/money_07.mp4'

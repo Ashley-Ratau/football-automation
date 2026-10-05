@@ -1,0 +1,101 @@
+section,section_time,source,start,duration,crop
+v2_hook,0,klopp_farewell,2006,3.867,fill frame
+v2_hook,3.867,anfield_2019,347,3.867,fill frame
+v2_hook,7.733,anfield_2022,957,3.867,fill frame
+v2_hook,11.6,klopp_tribute,119,3.867,640:308:0:26
+v2_hook,15.467,klopp_2022,299,3.867,fill frame
+v2_hook,19.333,klopp_cas_2020,223,3.867,fill frame
+v2_hook,23.2,klopp_tribute,102,3.867,640:308:0:26
+v2_hook,27.067,klopp_tribute,65,3.867,640:308:0:26
+v2_hook,30.933,klopp_farewell,1498,3.867,fill frame
+v2_2019,0,anfield_2019,499,4.067,fill frame
+v2_2019,4.067,anfield_2019,512,4.067,fill frame
+v2_2019,8.133,anfield_2019,401,4.067,fill frame
+v2_2019,12.2,anfield_2019,545,4.033,fill frame
+v2_2019,16.233,melwood_2019,90,4.033,fill frame
+v2_2019,20.267,anfield_2019,250,4.033,fill frame
+v2_2019,24.3,klopp_tribute,134,4.033,640:308:0:26
+v2_2019,28.333,anfield_2019,100,4.033,fill frame
+v2_2019,32.367,melwood_2019,60,4.033,fill frame
+v2_2019,36.4,anfield_2019,525,4.033,fill frame
+v2_2019,40.433,klopp_tribute,150,4.033,640:308:0:26
+v2_champions,0,klopp_champions,595,4.567,fill frame
+v2_champions,4.567,klopp_champions,805,4.533,fill frame
+v2_champions,9.1,klopp_champions,746,4.533,fill frame
+v2_champions,13.633,klopp_champions,566,4.533,fill frame
+v2_champions,18.167,klopp_tribute,201,4.533,640:308:0:26
+v2_champions,22.7,klopp_champions,836,4.533,fill frame
+v2_champions,27.233,klopp_cas_2020,4,4.533,fill frame
+v2_champions,31.767,klopp_cas_2020,213,4.533,fill frame
+v2_champions,36.3,klopp_2022,83,4.533,fill frame
+v2_principle,0,klopp_tribute,36,4.2,640:308:0:26
+v2_principle,4.2,melwood_2019,30,4.2,fill frame
+v2_principle,8.4,klopp_tribute,113,4.167,640:308:0:26
+v2_principle,12.567,klopp_tribute,240,4.167,640:308:0:26
+v2_principle,16.733,melwood_2019,151,4.167,fill frame
+v2_principle,20.9,klopp_farewell,207,4.167,fill frame
+v2_principle,25.067,klopp_tribute,261,4.167,640:308:0:26
+v2_principle,29.233,klopp_tribute,51,4.167,640:308:0:26
+v2_principle,33.4,klopp_farewell,717,4.167,fill frame
+v2_again,0,anfield_2022,568,4.167,fill frame
+v2_again,4.167,anfield_2022,54,4.167,fill frame
+v2_again,8.333,anfield_2022,539,4.167,fill frame
+v2_again,12.5,anfield_2022,779,4.167,fill frame
+v2_again,16.667,anfield_2022,720,4.167,fill frame
+v2_again,20.833,anfield_2022,658,4.133,fill frame
+v2_again,24.967,anfield_2022,810,4.133,fill frame
+v2_again,29.1,anfield_2022,837,4.133,fill frame
+v2_again,33.233,anfield_2022,987,4.133,fill frame
+v2_again,37.367,klopp_tribute,235,4.133,640:308:0:26
+v2_again,41.5,anfield_2022,1077,4.133,fill frame
+v2_haaland,0,city_haaland,76,3.7,fill frame
+v2_haaland,3.7,city_haaland,155,3.7,fill frame
+v2_haaland,7.4,city_haaland,99,3.7,fill frame
+v2_haaland,11.1,klopp_tribute,269,3.7,640:308:0:26
+v2_haaland,14.8,anfield_2022,510,3.7,fill frame
+v2_haaland,18.5,city_haaland,189,3.7,fill frame
+v2_haaland,22.2,melwood_2019,239,3.667,fill frame
+v2_haaland,25.867,klopp_2022,276,3.667,fill frame
+v2_respect,0,klopp_2022,313,3.867,fill frame
+v2_respect,3.867,klopp_tribute,216,3.867,640:308:0:26
+v2_respect,7.733,klopp_farewell,1260,3.867,fill frame
+v2_respect,11.6,melwood_2019,180,3.867,fill frame
+v2_respect,15.467,klopp_2022,265,3.867,fill frame
+v2_respect,19.333,klopp_tribute,142,3.867,640:308:0:26
+v2_respect,23.2,klopp_cas_2020,237,3.867,fill frame
+v2_respect,27.067,klopp_farewell,1288,3.867,fill frame
+v2_respect,30.933,klopp_tribute,168,3.867,640:308:0:26
+v2_respect,34.8,klopp_farewell,747,3.833,fill frame
+v2_findings,0,klopp_cas_2020,253,4.267,fill frame
+v2_findings,4.267,city_haaland,114,4.267,fill frame
+v2_findings,8.533,klopp_2022,20,4.267,fill frame
+v2_findings,12.8,klopp_cas_2020,279,4.267,fill frame
+v2_findings,17.067,city_haaland,162,4.233,fill frame
+v2_findings,21.3,klopp_cas_2020,310,4.233,fill frame
+v2_findings,25.533,klopp_farewell,389,4.233,fill frame
+v2_findings,29.767,klopp_2022,44,4.233,fill frame
+v2_findings,34.0,klopp_farewell,781,4.233,fill frame
+v2_findings,38.233,klopp_tribute,17,4.233,640:308:0:26
+v2_findings,42.467,klopp_farewell,1141,4.233,fill frame
+v2_moments,0,klopp_farewell,1798,3.467,fill frame
+v2_moments,3.467,klopp_tribute,156,3.433,640:308:0:26
+v2_moments,6.9,klopp_farewell,1768,3.433,fill frame
+v2_moments,10.333,anfield_2019,657,3.433,fill frame
+v2_moments,13.767,klopp_farewell,1835,3.433,fill frame
+v2_moments,17.2,klopp_tribute,227,3.433,640:308:0:26
+v2_moments,20.633,klopp_farewell,1920,3.433,fill frame
+v2_moments,24.067,klopp_farewell,2038,3.433,fill frame
+v2_moments,27.5,klopp_tribute,251,3.433,640:308:0:26
+v2_moments,30.933,klopp_farewell,2190,3.433,fill frame
+v2_moments,34.367,klopp_farewell,2250,3.433,fill frame
+v2_ending,0,klopp_farewell,1678,4.0,fill frame
+v2_ending,4.0,klopp_farewell,2100,4.0,fill frame
+v2_ending,8.0,klopp_farewell,2280,4.0,fill frame
+v2_ending,12.0,klopp_farewell,1230,4.0,fill frame
+v2_ending,16.0,klopp_farewell,1950,4.0,fill frame
+v2_ending,20.0,klopp_tribute,58,4.0,640:308:0:26
+v2_ending,24.0,klopp_farewell,1980,4.0,fill frame
+v2_ending,28.0,klopp_farewell,1715,4.0,fill frame
+v2_ending,32.0,klopp_farewell,2050,4.0,fill frame
+v2_ending,36.0,klopp_tribute,72,4.0,640:308:0:26
+v2_ending,40.0,klopp_farewell,2080,3.967,fill frame

@@ -1,0 +1,1388 @@
+{
+  "hook": [
+    {
+      "phrase": "You prepare",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          174
+        ],
+        [
+          "sevilla_current_1_3",
+          179
+        ],
+        [
+          "sevilla_current_1_3",
+          145
+        ]
+      ]
+    },
+    {
+      "phrase": "Against Sevilla",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          60
+        ],
+        [
+          "sevilla_current_1_3",
+          112
+        ],
+        [
+          "sevilla_current_1_3",
+          144
+        ]
+      ]
+    },
+    {
+      "phrase": "Three different",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          146
+        ],
+        [
+          "sevilla_current_1_3",
+          180
+        ]
+      ]
+    },
+    {
+      "phrase": "Hansi Flick",
+      "shots": [
+        [
+          "tactics_central_reference",
+          0
+        ],
+        [
+          "raphinha_group_training",
+          175
+        ],
+        [
+          "raphinha_group_training",
+          185
+        ]
+      ]
+    },
+    {
+      "phrase": "Fourteen goals",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          177
+        ],
+        [
+          "sevilla_current_1_3",
+          122
+        ],
+        [
+          "sevilla_current_1_3",
+          152
+        ]
+      ]
+    },
+    {
+      "phrase": "But this is bigger",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          95
+        ],
+        [
+          "raphinha_training_spotlight",
+          103
+        ],
+        [
+          "raphinha_training_spotlight",
+          113
+        ],
+        [
+          "raphinha_training_spotlight",
+          134
+        ]
+      ]
+    },
+    {
+      "phrase": "After the Sevilla",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          180
+        ],
+        [
+          "sevilla_current_1_3",
+          174
+        ],
+        [
+          "sevilla_current_1_3",
+          177
+        ]
+      ]
+    }
+  ],
+  "role": [
+    {
+      "phrase": "The important word",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          74
+        ],
+        [
+          "raphinha_training_spotlight",
+          81
+        ],
+        [
+          "raphinha_training_spotlight",
+          88
+        ]
+      ]
+    },
+    {
+      "phrase": "Playing centrally",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          462
+        ],
+        [
+          "raphinha_best_2025_26",
+          466
+        ],
+        [
+          "raphinha_best_2025_26",
+          477
+        ]
+      ]
+    },
+    {
+      "phrase": "It gives him",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          151
+        ],
+        [
+          "raphinha_training_spotlight",
+          155
+        ],
+        [
+          "raphinha_training_spotlight",
+          161
+        ]
+      ]
+    },
+    {
+      "phrase": "Come towards",
+      "shots": [
+        [
+          "tactics_drop_and_follow",
+          0
+        ],
+        [
+          "raphinha_best_2025_26",
+          607
+        ],
+        [
+          "raphinha_best_2025_26",
+          611
+        ]
+      ]
+    },
+    {
+      "phrase": "Then disappear",
+      "shots": [
+        [
+          "tactics_pin_and_spin",
+          0
+        ],
+        [
+          "raphinha_best_2025_26",
+          640
+        ],
+        [
+          "raphinha_best_2025_26",
+          644
+        ]
+      ]
+    },
+    {
+      "phrase": "Those movements",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          97
+        ],
+        [
+          "raphinha_training_spotlight",
+          106
+        ],
+        [
+          "raphinha_training_spotlight",
+          117
+        ],
+        [
+          "raphinha_training_spotlight",
+          137
+        ]
+      ]
+    },
+    {
+      "phrase": "He can recognise",
+      "shots": [
+        [
+          "tactics_blind_side",
+          0
+        ],
+        [
+          "raphinha_best_2025_26",
+          778
+        ],
+        [
+          "raphinha_best_2025_26",
+          782
+        ]
+      ]
+    },
+    {
+      "phrase": "Think about",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          740
+        ],
+        [
+          "raphinha_best_2025_26",
+          744
+        ],
+        [
+          "raphinha_best_2025_26",
+          748
+        ]
+      ]
+    },
+    {
+      "phrase": "Through the middle",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          805
+        ],
+        [
+          "raphinha_best_2025_26",
+          809
+        ],
+        [
+          "raphinha_best_2025_26",
+          813
+        ]
+      ]
+    },
+    {
+      "phrase": "Flick has not",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          176
+        ],
+        [
+          "sevilla_current_1_3",
+          180
+        ],
+        [
+          "raphinha_group_training",
+          178
+        ],
+        [
+          "raphinha_group_training",
+          184
+        ]
+      ]
+    },
+    {
+      "phrase": "He is changing",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          164
+        ],
+        [
+          "raphinha_training_spotlight",
+          168
+        ],
+        [
+          "raphinha_training_spotlight",
+          171
+        ]
+      ]
+    },
+    {
+      "phrase": "This is a mobile",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          907
+        ],
+        [
+          "raphinha_best_2025_26",
+          911
+        ],
+        [
+          "raphinha_best_2025_26",
+          915
+        ],
+        [
+          "raphinha_best_2025_26",
+          947
+        ]
+      ]
+    }
+  ],
+  "dilemma": [
+    {
+      "phrase": "Imagine you",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          905
+        ],
+        [
+          "raphinha_best_2025_26",
+          908
+        ]
+      ]
+    },
+    {
+      "phrase": "Raphinha comes short",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          125
+        ],
+        [
+          "raphinha_training_spotlight",
+          129
+        ]
+      ]
+    },
+    {
+      "phrase": "Follow him",
+      "shots": [
+        [
+          "tactics_drop_and_follow",
+          0
+        ],
+        [
+          "raphinha_training_spotlight",
+          154
+        ]
+      ]
+    },
+    {
+      "phrase": "Hold your position",
+      "shots": [
+        [
+          "tactics_hold_and_turn",
+          0
+        ],
+        [
+          "raphinha_training_spotlight",
+          162
+        ]
+      ]
+    },
+    {
+      "phrase": "Neither decision",
+      "shots": [
+        [
+          "raphinha_group_training",
+          159
+        ],
+        [
+          "raphinha_group_training",
+          165
+        ],
+        [
+          "raphinha_group_training",
+          170
+        ]
+      ]
+    },
+    {
+      "phrase": "Now put",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          97
+        ],
+        [
+          "sevilla_current_1_3",
+          118
+        ]
+      ]
+    },
+    {
+      "phrase": "If your team",
+      "shots": [
+        [
+          "tactics_double_yamal",
+          0
+        ],
+        [
+          "sevilla_current_1_3",
+          102
+        ],
+        [
+          "sevilla_current_1_3",
+          106
+        ]
+      ]
+    },
+    {
+      "phrase": "Raphinha can",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          107
+        ],
+        [
+          "sevilla_current_1_3",
+          111
+        ]
+      ]
+    },
+    {
+      "phrase": "If you protect",
+      "shots": [
+        [
+          "tactics_yamal_diagonal",
+          0
+        ],
+        [
+          "sevilla_current_1_3",
+          136
+        ],
+        [
+          "sevilla_current_1_3",
+          140
+        ]
+      ]
+    },
+    {
+      "phrase": "Barcelona do not",
+      "shots": [
+        [
+          "raphinha_group_training",
+          321
+        ],
+        [
+          "raphinha_group_training",
+          329
+        ],
+        [
+          "raphinha_group_training",
+          342
+        ]
+      ]
+    },
+    {
+      "phrase": "Pedri can",
+      "shots": [
+        [
+          "portrait_pedri",
+          1
+        ],
+        [
+          "portrait_pedri",
+          4
+        ]
+      ]
+    },
+    {
+      "phrase": "Yamal can",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          138
+        ],
+        [
+          "sevilla_current_1_3",
+          142
+        ]
+      ]
+    },
+    {
+      "phrase": "A combination",
+      "shots": [
+        [
+          "tactics_third_man",
+          0
+        ],
+        [
+          "raphinha_group_training",
+          356
+        ],
+        [
+          "raphinha_group_training",
+          365
+        ]
+      ]
+    },
+    {
+      "phrase": "That is why",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          135
+        ],
+        [
+          "raphinha_training_spotlight",
+          139
+        ],
+        [
+          "raphinha_training_spotlight",
+          143
+        ]
+      ]
+    },
+    {
+      "phrase": "The runner needs",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          137
+        ],
+        [
+          "sevilla_current_1_3",
+          141
+        ],
+        [
+          "sevilla_current_1_3",
+          145
+        ]
+      ]
+    },
+    {
+      "phrase": "When those two",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          850
+        ],
+        [
+          "raphinha_best_2025_26",
+          854
+        ],
+        [
+          "raphinha_best_2025_26",
+          858
+        ]
+      ]
+    },
+    {
+      "phrase": "Earlier in September",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          197
+        ],
+        [
+          "raphinha_training_spotlight",
+          191
+        ]
+      ]
+    }
+  ],
+  "sevilla": [
+    {
+      "phrase": "Sevilla gave us",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          10
+        ],
+        [
+          "sevilla_current_1_3",
+          15
+        ],
+        [
+          "sevilla_current_1_3",
+          24
+        ]
+      ]
+    },
+    {
+      "phrase": "And it started",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          38
+        ],
+        [
+          "sevilla_current_1_3",
+          42
+        ],
+        [
+          "sevilla_current_1_3",
+          46
+        ]
+      ]
+    },
+    {
+      "phrase": "Their pressure",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          40
+        ],
+        [
+          "sevilla_current_1_3",
+          44
+        ],
+        [
+          "sevilla_current_1_3",
+          48
+        ]
+      ]
+    },
+    {
+      "phrase": "Then Raphinha",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          54
+        ],
+        [
+          "sevilla_current_1_3",
+          58
+        ]
+      ]
+    },
+    {
+      "phrase": "Christensen found",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          59
+        ],
+        [
+          "sevilla_current_1_3",
+          63
+        ],
+        [
+          "sevilla_current_1_3",
+          67
+        ]
+      ]
+    },
+    {
+      "phrase": "That is one version",
+      "shots": [
+        [
+          "tactics_box_turn",
+          0
+        ],
+        [
+          "sevilla_current_1_3",
+          68
+        ],
+        [
+          "sevilla_current_1_3",
+          71
+        ],
+        [
+          "sevilla_current_1_3",
+          70
+        ]
+      ]
+    },
+    {
+      "phrase": "After the break",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          100
+        ],
+        [
+          "sevilla_current_1_3",
+          104
+        ]
+      ]
+    },
+    {
+      "phrase": "Yamal delivered",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          107
+        ],
+        [
+          "sevilla_current_1_3",
+          110
+        ],
+        [
+          "sevilla_current_1_3",
+          114
+        ]
+      ]
+    },
+    {
+      "phrase": "This time",
+      "shots": [
+        [
+          "tactics_cross_arrival",
+          0
+        ],
+        [
+          "sevilla_current_1_3",
+          124
+        ],
+        [
+          "sevilla_current_1_3",
+          128
+        ]
+      ]
+    },
+    {
+      "phrase": "For the third",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          137
+        ],
+        [
+          "sevilla_current_1_3",
+          139
+        ],
+        [
+          "sevilla_current_1_3",
+          143
+        ]
+      ]
+    },
+    {
+      "phrase": "Raphinha ran",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          139
+        ],
+        [
+          "sevilla_current_1_3",
+          142
+        ],
+        [
+          "sevilla_current_1_3",
+          148
+        ]
+      ]
+    },
+    {
+      "phrase": "Receive and turn",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          67
+        ],
+        [
+          "sevilla_current_1_3",
+          125
+        ],
+        [
+          "sevilla_current_1_3",
+          156
+        ]
+      ]
+    },
+    {
+      "phrase": "It is tempting",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          176
+        ],
+        [
+          "sevilla_current_1_3",
+          180
+        ],
+        [
+          "sevilla_current_1_3",
+          174
+        ]
+      ]
+    },
+    {
+      "phrase": "But that misses",
+      "shots": [
+        [
+          "tactics_rodri_yamal_run",
+          0
+        ],
+        [
+          "sevilla_current_1_3",
+          151
+        ],
+        [
+          "sevilla_current_1_3",
+          155
+        ]
+      ]
+    },
+    {
+      "phrase": "The defender",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          158
+        ],
+        [
+          "sevilla_current_1_3",
+          161
+        ]
+      ]
+    },
+    {
+      "phrase": "And Raphinha",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          174
+        ],
+        [
+          "sevilla_current_1_3",
+          178
+        ],
+        [
+          "sevilla_current_1_3",
+          182
+        ]
+      ]
+    },
+    {
+      "phrase": "He needs to recognise",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          94
+        ],
+        [
+          "raphinha_training_spotlight",
+          99
+        ],
+        [
+          "raphinha_training_spotlight",
+          103
+        ]
+      ]
+    }
+  ],
+  "league": [
+    {
+      "phrase": "After that win",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          174
+        ],
+        [
+          "sevilla_current_1_3",
+          179
+        ],
+        [
+          "sevilla_current_1_3",
+          183
+        ]
+      ]
+    },
+    {
+      "phrase": "Thirty-one goals",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          61
+        ],
+        [
+          "sevilla_current_1_3",
+          114
+        ],
+        [
+          "sevilla_current_1_3",
+          146
+        ]
+      ]
+    },
+    {
+      "phrase": "That is an extraordinary",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          111
+        ],
+        [
+          "raphinha_training_spotlight",
+          117
+        ],
+        [
+          "raphinha_training_spotlight",
+          121
+        ]
+      ]
+    },
+    {
+      "phrase": "Three of his",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          673
+        ],
+        [
+          "raphinha_best_2025_26",
+          677
+        ],
+        [
+          "raphinha_best_2025_26",
+          681
+        ]
+      ]
+    },
+    {
+      "phrase": "A scoring rate",
+      "shots": [
+        [
+          "raphinha_group_training",
+          332
+        ],
+        [
+          "raphinha_group_training",
+          342
+        ],
+        [
+          "raphinha_group_training",
+          348
+        ]
+      ]
+    },
+    {
+      "phrase": "The stronger argument",
+      "shots": [
+        [
+          "tactics_repeatable_routes",
+          0
+        ],
+        [
+          "raphinha_training_spotlight",
+          171
+        ],
+        [
+          "raphinha_training_spotlight",
+          176
+        ]
+      ]
+    },
+    {
+      "phrase": "You can have",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          183
+        ],
+        [
+          "raphinha_training_spotlight",
+          187
+        ],
+        [
+          "raphinha_training_spotlight",
+          191
+        ]
+      ]
+    },
+    {
+      "phrase": "You can miss",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          61
+        ],
+        [
+          "raphinha_training_spotlight",
+          66
+        ],
+        [
+          "raphinha_training_spotlight",
+          71
+        ]
+      ]
+    },
+    {
+      "phrase": "That is the part",
+      "shots": [
+        [
+          "raphinha_group_training",
+          252
+        ],
+        [
+          "raphinha_group_training",
+          259
+        ],
+        [
+          "raphinha_group_training",
+          268
+        ]
+      ]
+    },
+    {
+      "phrase": "And for Real Madrid",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          462
+        ],
+        [
+          "raphinha_best_2025_26",
+          469
+        ],
+        [
+          "raphinha_best_2025_26",
+          477
+        ]
+      ]
+    },
+    {
+      "phrase": "Keep collecting",
+      "shots": [
+        [
+          "raphinha_group_training",
+          304
+        ],
+        [
+          "raphinha_group_training",
+          310
+        ],
+        [
+          "raphinha_group_training",
+          318
+        ]
+      ]
+    },
+    {
+      "phrase": "Then find a way",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          487
+        ],
+        [
+          "raphinha_best_2025_26",
+          491
+        ],
+        [
+          "raphinha_best_2025_26",
+          498
+        ]
+      ]
+    },
+    {
+      "phrase": "Madrid had won",
+      "shots": [
+        [
+          "raphinha_group_training",
+          156
+        ],
+        [
+          "raphinha_group_training",
+          162
+        ],
+        [
+          "raphinha_group_training",
+          169
+        ]
+      ]
+    },
+    {
+      "phrase": "So this is not",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          96
+        ],
+        [
+          "raphinha_training_spotlight",
+          103
+        ],
+        [
+          "raphinha_training_spotlight",
+          111
+        ]
+      ]
+    },
+    {
+      "phrase": "Every Barcelona win",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          175
+        ],
+        [
+          "sevilla_current_1_3",
+          179
+        ],
+        [
+          "sevilla_current_1_3",
+          183
+        ]
+      ]
+    },
+    {
+      "phrase": "Every different route",
+      "shots": [
+        [
+          "raphinha_group_training",
+          373
+        ],
+        [
+          "raphinha_group_training",
+          382
+        ],
+        [
+          "raphinha_group_training",
+          397
+        ]
+      ]
+    },
+    {
+      "phrase": "And earlier this month",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          134
+        ],
+        [
+          "raphinha_training_spotlight",
+          138
+        ],
+        [
+          "raphinha_training_spotlight",
+          142
+        ]
+      ]
+    }
+  ],
+  "limits_payoff": [
+    {
+      "phrase": "There are answers",
+      "shots": [
+        [
+          "tactics_compact_answer",
+          0
+        ],
+        [
+          "raphinha_group_training",
+          271
+        ],
+        [
+          "raphinha_group_training",
+          281
+        ]
+      ]
+    },
+    {
+      "phrase": "Pressure the passer",
+      "shots": [
+        [
+          "tactics_press_curve",
+          0
+        ],
+        [
+          "raphinha_group_training",
+          299
+        ],
+        [
+          "raphinha_group_training",
+          303
+        ]
+      ]
+    },
+    {
+      "phrase": "Pass runners",
+      "shots": [
+        [
+          "raphinha_group_training",
+          323
+        ],
+        [
+          "raphinha_group_training",
+          333
+        ],
+        [
+          "raphinha_group_training",
+          343
+        ]
+      ]
+    },
+    {
+      "phrase": "And when Barcelona",
+      "shots": [
+        [
+          "tactics_transition_cost",
+          0
+        ],
+        [
+          "raphinha_group_training",
+          367
+        ],
+        [
+          "raphinha_group_training",
+          374
+        ],
+        [
+          "raphinha_group_training",
+          382
+        ]
+      ]
+    },
+    {
+      "phrase": "Sevilla's first half",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          38
+        ],
+        [
+          "sevilla_current_1_3",
+          42
+        ],
+        [
+          "sevilla_current_1_3",
+          46
+        ]
+      ]
+    },
+    {
+      "phrase": "The experiment still",
+      "shots": [
+        [
+          "raphinha_group_training",
+          352
+        ],
+        [
+          "raphinha_group_training",
+          361
+        ],
+        [
+          "raphinha_group_training",
+          395
+        ],
+        [
+          "raphinha_group_training",
+          402
+        ]
+      ]
+    },
+    {
+      "phrase": "But that is",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          93
+        ],
+        [
+          "raphinha_training_spotlight",
+          99
+        ]
+      ]
+    },
+    {
+      "phrase": "Raphinha is giving",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          851
+        ],
+        [
+          "raphinha_best_2025_26",
+          855
+        ],
+        [
+          "raphinha_best_2025_26",
+          858
+        ]
+      ]
+    },
+    {
+      "phrase": "Whether this breaks",
+      "shots": [
+        [
+          "raphinha_training_spotlight",
+          140
+        ],
+        [
+          "raphinha_training_spotlight",
+          148
+        ],
+        [
+          "raphinha_training_spotlight",
+          155
+        ]
+      ]
+    },
+    {
+      "phrase": "Right now",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          146
+        ],
+        [
+          "sevilla_current_1_3",
+          150
+        ],
+        [
+          "sevilla_current_1_3",
+          174
+        ],
+        [
+          "sevilla_current_1_3",
+          178
+        ]
+      ]
+    },
+    {
+      "phrase": "So when the next",
+      "shots": [
+        [
+          "raphinha_best_2025_26",
+          775
+        ],
+        [
+          "raphinha_best_2025_26",
+          779
+        ],
+        [
+          "raphinha_best_2025_26",
+          784
+        ]
+      ]
+    },
+    {
+      "phrase": "Does he follow",
+      "shots": [
+        [
+          "sevilla_current_1_3",
+          139
+        ],
+        [
+          "sevilla_current_1_3",
+          143
+        ],
+        [
+          "sevilla_current_1_3",
+          147
+        ],
+        [
+          "sevilla_current_1_3",
+          180
+        ]
+      ]
+    }
+  ]
+}

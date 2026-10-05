@@ -1,0 +1,1008 @@
+[
+ {
+  "kind": "clip",
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 301.69,
+  "t": 0.0,
+  "sec": "q_open",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 October 2022",
+  "speaker": true,
+  "dur": 9.0
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 1401,
+  "kind": "clip",
+  "t": 9.0,
+  "sec": "q_open",
+  "dur": 5.0
+ },
+ {
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 290,
+  "kind": "clip",
+  "t": 14.0,
+  "sec": "q_open",
+  "dur": 11.133333333333333
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 43,
+  "t": 25.149999999999988,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 1.6666666666666679
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 103,
+  "t": 26.806999999999988,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 3.6666666666666643
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 130,
+  "t": 30.463999999999988,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 3.5666666666666664
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 118,
+  "t": 34.039999999999985,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 2.7333333333333343
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 3,
+  "t": 36.77999999999999,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 2.0
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 122,
+  "t": 38.77699999999999,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 5.466666666666669
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 146,
+  "t": 44.24499999999999,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 3.066666666666663
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 543,
+  "t": 47.28699999999999,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 1.9000000000000057
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 555,
+  "t": 49.19099999999999,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 1.7999999999999972
+ },
+ {
+  "file": "assets/clips/GbiW9GM9Wgg.mp4",
+  "start": 8,
+  "bw": true,
+  "t": 51.00199999999999,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 3.299999999999997
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 63,
+  "slow": true,
+  "t": 54.28799999999998,
+  "sec": "cold_open",
+  "kind": "clip",
+  "dur": 2.2333333333333343
+ },
+ {
+  "kind": "title",
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 285,
+  "t": 56.52185941043083,
+  "sec": "title",
+  "dur": 3.200000000000003
+ },
+ {
+  "file": "assets/clips/Qpv0QXZmq5A.mp4",
+  "start": 9,
+  "t": 59.72185941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 3.6666666666666643
+ },
+ {
+  "file": "assets/clips/Qpv0QXZmq5A.mp4",
+  "start": 25,
+  "t": 63.40985941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 1.1999999999999957
+ },
+ {
+  "file": "assets/clips/Qpv0QXZmq5A.mp4",
+  "start": 41,
+  "t": 64.59485941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 2.7666666666666657
+ },
+ {
+  "file": "assets/clips/Qpv0QXZmq5A.mp4",
+  "start": 57,
+  "t": 67.38085941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 3.1666666666666714
+ },
+ {
+  "file": "assets/clips/JozNmcK3Jhg.mp4",
+  "start": 9,
+  "t": 70.53885941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 4.266666666666666
+ },
+ {
+  "file": "assets/clips/JozNmcK3Jhg.mp4",
+  "start": 33,
+  "t": 74.81185941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 0.9333333333333371
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 165,
+  "t": 75.73985941043082,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 1.2000000000000028
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 147,
+  "t": 76.93585941043082,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 1.5666666666666629
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 255,
+  "t": 78.50385941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 2.7333333333333343
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 609,
+  "t": 81.24385941043083,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 2.9666666666666686
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 141,
+  "t": 84.19185941043082,
+  "sec": "dortmund",
+  "kind": "clip",
+  "dur": 2.299999999999997
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 1131,
+  "t": 86.4961678004535,
+  "sec": "ninety_seven",
+  "kind": "clip",
+  "dur": 4.966666666666669
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 1323,
+  "t": 91.47316780045351,
+  "sec": "ninety_seven",
+  "kind": "clip",
+  "dur": 2.200000000000003
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 1335,
+  "t": 93.66716780045351,
+  "sec": "ninety_seven",
+  "kind": "clip",
+  "dur": 1.9666666666666686
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 1401,
+  "t": 95.6411678004535,
+  "sec": "ninety_seven",
+  "kind": "clip",
+  "dur": 2.066666666666663
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/uh9mCg8qPKg.mp4",
+  "start": 13.760000000000002,
+  "t": 97.7131065759637,
+  "sec": "q_97",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 May 2019",
+  "speaker": true,
+  "dur": 5.0
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 1413,
+  "kind": "clip",
+  "t": 102.7131065759637,
+  "sec": "q_97",
+  "dur": 5.033333333333331
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 963,
+  "t": 107.7331065759637,
+  "sec": "pep_2019",
+  "kind": "clip",
+  "dur": 4.966666666666669
+ },
+ {
+  "file": "assets/clips/oxFG8jM4Bug.mp4",
+  "start": 10,
+  "t": 112.6991065759637,
+  "sec": "pep_2019",
+  "kind": "clip",
+  "dur": 2.200000000000003
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/oxFG8jM4Bug.mp4",
+  "start": 188.72,
+  "t": 114.90977324263037,
+  "sec": "q_pep_bother",
+  "bw": false,
+  "tag": "Pep Guardiola \u00b7 August 2019",
+  "speaker": true,
+  "dur": 7.0
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/oxFG8jM4Bug.mp4",
+  "start": 251.88,
+  "t": 121.88977324263037,
+  "sec": "q_pep_punished",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 6.966666666666669
+ },
+ {
+  "file": "assets/clips/oxFG8jM4Bug.mp4",
+  "start": 252,
+  "bw": true,
+  "slow": true,
+  "t": 128.8697732426304,
+  "sec": "pep_2019_b",
+  "kind": "clip",
+  "dur": 2.5333333333333314
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 126,
+  "slow": true,
+  "t": 131.4087732426304,
+  "sec": "pep_2019_b",
+  "kind": "clip",
+  "dur": 1.5666666666666629
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 207,
+  "t": 132.98140589569164,
+  "sec": "ban",
+  "kind": "clip",
+  "dur": 2.3000000000000114
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 213,
+  "t": 135.26540589569163,
+  "sec": "ban",
+  "kind": "clip",
+  "dur": 1.5333333333333314
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 18,
+  "t": 136.79740589569164,
+  "sec": "ban",
+  "kind": "clip",
+  "dur": 1.8333333333333144
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 23,
+  "t": 138.63140589569164,
+  "sec": "ban",
+  "kind": "clip",
+  "dur": 3.633333333333354
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 26,
+  "t": 142.25440589569163,
+  "sec": "ban",
+  "kind": "clip",
+  "dur": 2.6999999999999886
+ },
+ {
+  "file": "assets/clips/AFxTfoxe410.mp4",
+  "start": 0,
+  "t": 144.95940589569165,
+  "sec": "ban",
+  "kind": "clip",
+  "dur": 3.333333333333343
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/AFxTfoxe410.mp4",
+  "start": 21.119999999999997,
+  "t": 148.28505668934244,
+  "sec": "q_feel_pep",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 February 2020",
+  "speaker": true,
+  "dur": 5.0
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 110,
+  "kind": "clip",
+  "t": 153.28505668934244,
+  "sec": "q_feel_pep",
+  "dur": 5.199999999999989
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/AFxTfoxe410.mp4",
+  "start": 40.56,
+  "t": 158.48505668934246,
+  "sec": "q_rules",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 5.933333333333337
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 42,
+  "t": 164.44505668934247,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 1.0333333333333314
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 46,
+  "t": 165.45205668934247,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 2.933333333333337
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 62,
+  "t": 168.38905668934245,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 3.5333333333333314
+ },
+ {
+  "file": "assets/clips/F6mP5r32HK8.mp4",
+  "start": 2,
+  "t": 171.91805668934248,
+  "sec": "cas",
+  "kind": "clip",
+  "dur": 2.299999999999983
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/F6mP5r32HK8.mp4",
+  "start": 76.75,
+  "t": 174.22235827664406,
+  "sec": "q_cas",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 July 2020",
+  "speaker": true,
+  "dur": 5.0
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/itv_uefa_ban_2020.mp4",
+  "start": 46,
+  "kind": "clip",
+  "t": 179.22235827664406,
+  "sec": "q_cas",
+  "dur": 8.300000000000011
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/F6mP5r32HK8.mp4",
+  "start": 108.14999999999999,
+  "t": 187.52235827664404,
+  "sec": "q_germany",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 6.0
+ },
+ {
+  "file": "assets/clips/Qpv0QXZmq5A.mp4",
+  "start": 30,
+  "kind": "clip",
+  "t": 193.52235827664404,
+  "sec": "q_germany",
+  "dur": 7.133333333333326
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/F6mP5r32HK8.mp4",
+  "start": 128.03,
+  "t": 200.68235827664404,
+  "sec": "q_money",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 2.6000000000000227
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 146,
+  "bw": true,
+  "t": 203.28235827664403,
+  "sec": "surprised",
+  "kind": "clip",
+  "dur": 1.73333333333332
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 150,
+  "t": 204.98535827664404,
+  "sec": "surprised",
+  "kind": "clip",
+  "dur": 4.033333333333331
+ },
+ {
+  "file": "assets/clips/jPAPgMJH36c.mp4",
+  "start": 2,
+  "t": 209.03735827664403,
+  "sec": "surprised",
+  "kind": "clip",
+  "dur": 2.76666666666668
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/jPAPgMJH36c.mp4",
+  "start": 44.36,
+  "t": 211.8057823129252,
+  "sec": "q_surprised",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 August 2021",
+  "speaker": true,
+  "dur": 9.399999999999977
+ },
+ {
+  "file": "assets/broll/pl_final_five_2022.mp4",
+  "start": 1155,
+  "t": 221.1857823129252,
+  "sec": "ninety_two",
+  "kind": "clip",
+  "dur": 1.8666666666666742
+ },
+ {
+  "file": "assets/broll/pl_final_five_2022.mp4",
+  "start": 1185,
+  "t": 223.0517823129252,
+  "sec": "ninety_two",
+  "kind": "clip",
+  "dur": 2.76666666666668
+ },
+ {
+  "file": "assets/broll/pl_final_five_2022.mp4",
+  "start": 1203,
+  "t": 225.83778231292519,
+  "sec": "ninety_two",
+  "kind": "clip",
+  "dur": 2.8333333333333144
+ },
+ {
+  "file": "assets/broll/pl_final_five_2022.mp4",
+  "start": 1263,
+  "t": 228.6587823129252,
+  "sec": "ninety_two",
+  "kind": "clip",
+  "dur": 1.9333333333333371
+ },
+ {
+  "file": "assets/broll/pl_final_five_2022.mp4",
+  "start": 81,
+  "slow": true,
+  "t": 230.5867823129252,
+  "sec": "ninety_two",
+  "kind": "clip",
+  "dur": 2.0
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/IXux9uW0Zzk.mp4",
+  "start": 0,
+  "t": 232.5884807256236,
+  "sec": "q_win_big",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 May 2022",
+  "speaker": true,
+  "dur": 4.26666666666668
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/IXux9uW0Zzk.mp4",
+  "start": 20.5,
+  "t": 236.8684807256236,
+  "sec": "q_wire",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 4.299999999999983
+ },
+ {
+  "file": "assets/broll/pl_final_five_2022.mp4",
+  "start": 651,
+  "t": 241.16848072562362,
+  "sec": "haaland",
+  "kind": "clip",
+  "dur": 1.0666666666666629
+ },
+ {
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 30,
+  "t": 242.23348072562362,
+  "sec": "haaland",
+  "kind": "clip",
+  "dur": 1.8666666666666742
+ },
+ {
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 60,
+  "t": 244.10248072562362,
+  "sec": "haaland",
+  "kind": "clip",
+  "dur": 3.566666666666663
+ },
+ {
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 290,
+  "t": 247.66648072562361,
+  "sec": "haaland",
+  "kind": "clip",
+  "dur": 3.833333333333343
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 332.35,
+  "t": 251.50306122448984,
+  "sec": "q_three",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 October 2022",
+  "speaker": true,
+  "dur": 9.666666666666686
+ },
+ {
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 338,
+  "bw": true,
+  "t": 261.1630612244898,
+  "sec": "legal",
+  "kind": "clip",
+  "dur": 1.7666666666666515
+ },
+ {
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 344,
+  "bw": true,
+  "t": 262.93606122448983,
+  "sec": "legal",
+  "kind": "clip",
+  "dur": 2.1333333333333258
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 231,
+  "t": 265.0600612244898,
+  "sec": "legal",
+  "kind": "clip",
+  "dur": 2.2333333333333485
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 243,
+  "t": 267.3010612244898,
+  "sec": "legal",
+  "kind": "clip",
+  "dur": 3.1999999999999886
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 114,
+  "t": 270.4940612244898,
+  "sec": "legal",
+  "kind": "clip",
+  "dur": 1.8000000000000114
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 119,
+  "t": 272.3050612244898,
+  "sec": "legal",
+  "kind": "clip",
+  "dur": 4.033333333333303
+ },
+ {
+  "file": "assets/clips/4F7psFr__rk.mp4",
+  "start": 5,
+  "t": 276.3220612244898,
+  "sec": "legal",
+  "kind": "clip",
+  "dur": 2.3666666666666742
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/4F7psFr__rk.mp4",
+  "start": 40.940000000000005,
+  "t": 278.69582766439913,
+  "sec": "q_condemned",
+  "bw": false,
+  "tag": "Pep Guardiola \u00b7 February 2023",
+  "speaker": true,
+  "dur": 8.333333333333371
+ },
+ {
+  "file": "assets/clips/vht4LI9yXw.mp4",
+  "start": 17,
+  "t": 287.0358276643991,
+  "sec": "silent",
+  "kind": "clip",
+  "dur": 3.96666666666664
+ },
+ {
+  "file": "assets/clips/vht4LI9yXw.mp4",
+  "start": 20,
+  "t": 291.0148276643991,
+  "sec": "silent",
+  "kind": "clip",
+  "dur": 2.3000000000000114
+ },
+ {
+  "file": "assets/clips/vht4LI9yXw.mp4",
+  "start": 25,
+  "t": 293.2898276643991,
+  "sec": "silent",
+  "kind": "clip",
+  "dur": 1.599999999999966
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/vht4LI9yXw.mp4",
+  "start": 29.22,
+  "t": 294.90909297052156,
+  "sec": "q_nocomment",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 February 2023",
+  "speaker": true,
+  "dur": 2.466666666666697
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 21,
+  "slow": true,
+  "t": 297.36909297052154,
+  "sec": "beer",
+  "kind": "clip",
+  "dur": 2.8000000000000114
+ },
+ {
+  "file": "assets/clips/rxxnEI9zKh8.mp4",
+  "start": 10,
+  "t": 300.1750929705215,
+  "sec": "beer",
+  "kind": "clip",
+  "dur": 1.5666666666666629
+ },
+ {
+  "file": "assets/clips/rxxnEI9zKh8.mp4",
+  "start": 60,
+  "t": 301.7420929705215,
+  "sec": "beer",
+  "kind": "clip",
+  "dur": 4.933333333333337
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/rxxnEI9zKh8.mp4",
+  "start": 122.14,
+  "t": 306.6819954648526,
+  "sec": "q_beer",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 January 2025",
+  "speaker": true,
+  "dur": 6.0
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 207,
+  "kind": "clip",
+  "t": 312.6819954648526,
+  "sec": "q_beer",
+  "dur": 6.666666666666629
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 43,
+  "t": 319.3419954648526,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 4.600000000000023
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 3,
+  "t": 323.92399546485257,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.3999999999999773
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 127,
+  "t": 326.3389954648526,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.53333333333336
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 146,
+  "t": 328.8819954648526,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.1666666666666856
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 122,
+  "t": 331.01799546485256,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 4.599999999999966
+ },
+ {
+  "file": "assets/clips/96tsDiDPot0.mp4",
+  "start": 2,
+  "cropsubs": true,
+  "t": 335.6269954648526,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.6999999999999886
+ },
+ {
+  "file": "assets/clips/96tsDiDPot0.mp4",
+  "start": 12,
+  "cropsubs": true,
+  "t": 338.3319954648526,
+  "sec": "verdict",
+  "kind": "clip",
+  "dur": 2.5
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/96tsDiDPot0.mp4",
+  "start": 27.6,
+  "t": 340.8221541950113,
+  "sec": "q_de1",
+  "bw": false,
+  "tag": "J\u00fcrgen Klopp \u00b7 30 September 2026 \u00b7 in German",
+  "speaker": true,
+  "dur": 11.133333333333326
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/96tsDiDPot0.mp4",
+  "start": 77.6,
+  "t": 351.9721541950113,
+  "sec": "q_de2",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 12.466666666666697
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_city_appeal.mp4",
+  "start": 34,
+  "t": 364.4221541950113,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 6.166666666666686
+ },
+ {
+  "file": "assets/broll/pl_title_race_2019.mp4",
+  "start": 1131,
+  "bw": true,
+  "t": 370.5951541950113,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 2.7333333333332916
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_city_appeal.mp4",
+  "start": 46,
+  "t": 373.3231541950113,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 3.966666666666697
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_city_appeal.mp4",
+  "start": 8,
+  "t": 377.2941541950113,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 2.3999999999999773
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 75,
+  "slow": true,
+  "t": 379.68515419501125,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 2.1999999999999886
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 93,
+  "t": 381.90315419501127,
+  "sec": "fair",
+  "kind": "clip",
+  "dur": 1.7666666666667084
+ },
+ {
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 320,
+  "bw": true,
+  "t": 383.6731972789115,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 4.0
+ },
+ {
+  "file": "assets/clips/AFxTfoxe410.mp4",
+  "start": 10,
+  "bw": true,
+  "t": 387.6751972789115,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 2.5
+ },
+ {
+  "file": "assets/clips/jPAPgMJH36c.mp4",
+  "start": 45,
+  "bw": true,
+  "t": 390.1831972789115,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.3999999999999773
+ },
+ {
+  "file": "assets/clips/uh9mCg8qPKg.mp4",
+  "start": 15,
+  "bw": true,
+  "t": 391.56419727891154,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.8666666666666742
+ },
+ {
+  "file": "assets/clips/F6mP5r32HK8.mp4",
+  "start": 100,
+  "bw": true,
+  "t": 393.42219727891154,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 2.1000000000000227
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 237,
+  "t": 395.5461972789115,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.9666666666666401
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 243,
+  "t": 397.4851972789115,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 1.2333333333333485
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 261,
+  "t": 398.7391972789115,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 2.066666666666663
+ },
+ {
+  "file": "../wenger-warned-us/assets/broll/sky_fa_statement_2026.mp4",
+  "start": 106,
+  "slow": true,
+  "t": 400.8061972789115,
+  "sec": "ending",
+  "kind": "clip",
+  "dur": 3.533333333333303
+ },
+ {
+  "kind": "clip",
+  "file": "assets/clips/62zh2Vb5AZg.mp4",
+  "start": 321.2,
+  "t": 404.3174376417233,
+  "sec": "q_end",
+  "bw": false,
+  "tag": null,
+  "speaker": true,
+  "dur": 5.633333333333326
+ },
+ {
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 285,
+  "slow": true,
+  "t": 409.9574376417233,
+  "sec": "outro",
+  "kind": "clip",
+  "dur": 1.8333333333333712
+ },
+ {
+  "kind": "end",
+  "file": "assets/broll/klopp_farewell.mp4",
+  "start": 291,
+  "t": 411.79351473922895,
+  "sec": "end",
+  "dur": 4.0
+ }
+]
