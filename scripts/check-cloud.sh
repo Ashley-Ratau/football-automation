@@ -25,9 +25,9 @@ echo "Secrets"
 echo "Repo contents"
 [ -d Videos/wenger-warned-us ] && ok "Videos/wenger-warned-us present" || bad "Videos/wenger-warned-us not pushed yet"
 [ -f Videos/wenger-warned-us/build.py ] && ok "wenger build.py" || bad "wenger build.py missing"
-ls Videos/wenger-warned-us/assets/music/*.mp3 >/dev/null 2>&1 && ok "music tracks" || bad "assets/music/*.mp3 missing (git-ignored; see CLAUDE.md)"
+ls Videos/wenger-warned-us/assets/music/*.mp3 >/dev/null 2>&1 && ok "music tracks" || echo "  WARN assets/music/*.mp3 missing (git-ignored; see CLAUDE.md)"
 
-if [ "$FAILED" = 0 ]; then
+if [ -n "${YOUTUBE_COOKIES:-}" ]; then
   echo "Test download"
   tmp=$(mktemp -d)
   python3 -m yt_dlp -q --no-warnings --extractor-args "youtube:player_client=web_embedded" \
