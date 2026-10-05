@@ -1,0 +1,136 @@
+[
+ {
+  "type": "vo",
+  "name": "cold_open",
+  "text": "Sixteenth of September. Old Trafford. Twelve minutes in, Manchester United are two-nil up against Brighton. Then it all falls apart. Brighton score three. United are out of the Carabao Cup. And for the first time in fifty years, United have lost a home game after leading by two goals. Michael Carrick walks into his press conference, and he does not hide."
+ },
+ {
+  "type": "quote",
+  "name": "q_cant_accept",
+  "clip": "un8y4WoorNk",
+  "from": "So we had the game",
+  "to": "in a big way",
+  "card": "Michael Carrick · 16 Sep 2026 · Sky Sports"
+ },
+ {
+  "type": "vo",
+  "name": "the_question",
+  "text": "Eight months ago, this man was the answer. Now, after just five league games, people are asking if he is the problem. So how did Carrick's United go from the best team in the country, to this, so fast?"
+ },
+ {
+  "type": "vo",
+  "name": "the_rescue",
+  "text": "Go back to January. Ruben Amorim has just been sacked. The club is in chaos. United turn to a former player, with one job: steady the ship until the summer. Not everyone was convinced. Roy Keane certainly was not."
+ },
+ {
+  "type": "quote",
+  "name": "q_keane",
+  "clip": "q98dtA1EFnY",
+  "from": "Michael Carrick, whatever his remit",
+  "to": "he failed there",
+  "card": "Roy Keane · January 2026 · Sky Sports"
+ },
+ {
+  "type": "vo",
+  "name": "the_run",
+  "text": "What happened next surprised almost everyone. Seventeen league games. Twelve wins. Three draws. Just two defeats. Wins over City, Arsenal, Liverpool and Chelsea. Over that stretch, nobody in the league took more points. United finished third, and they were back in the Champions League."
+ },
+ {
+  "type": "quote",
+  "name": "q_calm",
+  "clip": "UFmtSYY2C3k",
+  "from": "what Michael Carrick was able",
+  "to": "outside the club",
+  "card": "Sky Sports News · May 2026"
+ },
+ {
+  "type": "vo",
+  "name": "the_deal",
+  "text": "So United gave him the job. A two-year contract, until twenty twenty-eight. And here is where the warning signs start. Because when you look closely at that run, a lot of it was built on finding a way to win, not on dominating games. Carrick has said so himself."
+ },
+ {
+  "type": "quote",
+  "name": "q_found_a_way",
+  "clip": "Qiob0M7_kCI",
+  "from": "We won last year",
+  "to": "found a way to win",
+  "card": "Michael Carrick · 16 Sep 2026"
+ },
+ {
+  "type": "vo",
+  "name": "the_summer",
+  "text": "Then came the summer. Casemiro left. The midfield was meant to be the priority. But for a club about to play in the Champions League, the window was cautious. The squad that started this season looked a lot like the squad that ended the last one. Only now, every opponent had a summer to study it."
+ },
+ {
+  "type": "vo",
+  "name": "the_slide",
+  "text": "Opening day. Newly promoted Hull City. United lose two-nil. A week later, Bruno Fernandes scores a hat-trick in a five-two win over Ipswich, and it looks like a blip. It wasn't. A two-all draw with Everton. Then the derby, at Old Trafford. City go down to ten men, and United still lose, one-nil, to a Haaland goal. Three days later, Brighton. And then a late equaliser to scrape a draw at Fulham."
+ },
+ {
+  "type": "vo",
+  "name": "the_numbers",
+  "text": "Here is the number that tells the story. In seventeen league games as interim manager, Carrick lost twice. This season, in all competitions, United have already lost three times. One win in five in the league. Twelfth in the table."
+ },
+ {
+  "type": "quote",
+  "name": "q_points",
+  "clip": "lvvojsQOkCQ",
+  "from": "it's a new season",
+  "to": "not hiding from that",
+  "card": "Michael Carrick · 13 Sep 2026"
+ },
+ {
+  "type": "vo",
+  "name": "the_why",
+  "text": "So what has changed? Last season, Carrick's United were the team nobody had planned for. They sat deep, they stayed compact, and they hurt teams on the break. This season, opponents know exactly what is coming. Teams drop off and make United have the ball, and United have struggled to break them down. Against Brighton, after going two up inside ten minutes, they did not have another shot on target until the seventy-sixth minute."
+ },
+ {
+  "type": "vo",
+  "name": "the_crowd",
+  "text": "And the crowd has noticed. At full time against Brighton, there were boos around Old Trafford. Carrick was asked if he could feel it."
+ },
+ {
+  "type": "quote",
+  "name": "q_on_me",
+  "clip": "un8y4WoorNk",
+  "from": "We have to accept it",
+  "to": "what results you get",
+  "card": "Michael Carrick · 16 Sep 2026 · Sky Sports"
+ },
+ {
+  "type": "vo",
+  "name": "the_spiral",
+  "text": "This is the part United fans know too well. A manager arrives. Results come fast. He gets the job. And then the club slides back into the same spiral that swallowed Moyes, Van Gaal, Mourinho, Solskjaer, Ten Hag and Amorim. Keane's real warning was never about Carrick. It was about the club around him."
+ },
+ {
+  "type": "quote",
+  "name": "q_world_class",
+  "clip": "q98dtA1EFnY",
+  "from": "world class manager won't come here",
+  "to": "won't he won't",
+  "card": "Roy Keane · January 2026 · Sky Sports"
+ },
+ {
+  "type": "vo",
+  "name": "fair",
+  "text": "Now, to be fair, it is five league games. United are still in the Champions League, and they started that campaign with a four-nil win. Carrick has turned this squad around once before, and he believes he can do it again."
+ },
+ {
+  "type": "quote",
+  "name": "q_direction",
+  "clip": "Qiob0M7_kCI",
+  "from": "but it doesn't have to",
+  "to": "in a different direction",
+  "card": "Michael Carrick · 16 Sep 2026"
+ },
+ {
+  "type": "vo",
+  "name": "ending",
+  "text": "After the international break, Tottenham come to Old Trafford. Win, and this becomes a bad month. Lose, and the questions get a lot louder. Eight months ago, Michael Carrick saved Manchester United's season. Now he has to save his own."
+ },
+ {
+  "type": "vo",
+  "name": "outro",
+  "text": "Is Carrick the right man, or is this the same old United story? Let me know in the comments."
+ }
+]
