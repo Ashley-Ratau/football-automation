@@ -5,6 +5,7 @@ from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
 P = Path(__file__).resolve().parent
 FF = r'C:\Users\Wendy\AppData\Roaming\Python\Python312\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe'
+if __import__('os').name != 'nt': FF = 'ffmpeg'  # cloud / Linux
 W, H, FPS = 1920, 1080, 30
 F = P/'assets'/'fonts'
 WHITE = (242, 240, 235); GREY = (165, 165, 170); RED = (219, 0, 7); GOLD = (232, 189, 82)

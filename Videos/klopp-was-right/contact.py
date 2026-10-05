@@ -3,6 +3,7 @@ import subprocess, sys, json
 from pathlib import Path
 from PIL import Image, ImageDraw, ImageFont
 FF=r'C:\Users\Wendy\AppData\Roaming\Python\Python312\site-packages\imageio_ffmpeg\binaries\ffmpeg-win-x86_64-v7.1.exe'
+if __import__('os').name != 'nt': FF = 'ffmpeg'  # cloud / Linux
 def dur(f):
     p=subprocess.run([FF,'-i',str(f)],capture_output=True,text=True).stderr
     h,m,s=p.split('Duration: ')[1].split(',')[0].split(':'); return int(h)*3600+int(m)*60+float(s)

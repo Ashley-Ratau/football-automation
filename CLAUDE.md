@@ -34,4 +34,6 @@ video workflow runs in Claude Code cloud sessions.
   Transcripts (`*.words.json`, `*.txt`, `*.info.json`) are committed, so you don't need to re-transcribe.
 - Cloud sessions are temporary. Commit and push scripts and notes. To keep a finished video, send it to the user, because MP4s are not in git.
 - Run `bash scripts/check-cloud.sh` first. It checks tools, network access (YouTube, Hugging Face) and that the repo contents are present.
-- API keys (e.g. the voiceover provider used by `produce_audio.py`) come from environment variables set in the cloud environment settings. Never commit them.
+- Voiceover is ElevenLabs (`produce_audio.py`, voice "Liam"). On the PC the key is read from `work\secrets\.env.local`. On the cloud, `produce_audio.py`, `gfx.py` and `contact.py` fall back to the `ELEVENLABS_API_KEY` environment variable and the system `ffmpeg`. Never commit keys.
+- `.gitignore` excludes all `*.mp3/*.wav/*.mp4`, so the music tracks (`assets/music/*.mp3`, e.g. "Dark Times", "Echoes of Time v2", "Lasting Hope"), the VO audio and the footage are not in the repo. Regenerate the VO and re-download the footage. Ask the user to supply the music.
+- Hosts the network policy must allow: `www.youtube.com`, `youtubei.googleapis.com`, `*.googlevideo.com`, `i.ytimg.com`, `huggingface.co`, `*.hf.co`, `api.elevenlabs.io`.
