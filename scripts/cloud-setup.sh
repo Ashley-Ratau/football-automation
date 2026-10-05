@@ -17,6 +17,21 @@ fi
 
 # Python packages the pipeline uses: yt-dlp (clips), faster-whisper (transcripts), Pillow (graphics).
 pip install -q --disable-pip-version-check --root-user-action=ignore -r requirements.txt 2>&1 | grep -v -i "warning" || true
+# YouTube changes often; the newest (pre-release) yt-dlp keeps up best.
+pip install -q -U --pre --disable-pip-version-check --root-user-action=ignore "yt-dlp[default]" 2>&1 | grep -v -i "warning" || true
+
+# yt-dlp defaults for the cloud: Node solves YouTube's player challenge, and cloud IPs
+# need a signed-in session, so use cookies from the YOUTUBE_COOKIES env var (Netscape cookies.txt text).
+mkdir -p ~/.config/yt-dlp
+{
+  echo "--js-runtimes node"
+  echo "--remote-components ejs:github"
+  if [ -n "${YOUTUBE_COOKIES:-}" ]; then
+    printf '%s\n' "$YOUTUBE_COOKIES" > ~/.config/yt-dlp/cookies.txt
+    chmod 600 ~/.config/yt-dlp/cookies.txt
+    echo "--cookies $HOME/.config/yt-dlp/cookies.txt"
+  fi
+} > ~/.config/yt-dlp/config
 
 # The PC scripts call assets/clips/ffmpeg.exe; on Linux point that at the system ffmpeg.
 if [ -d Videos ]; then

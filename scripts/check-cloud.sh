@@ -20,6 +20,7 @@ echo "  INFO *.googlevideo.com (YouTube video files) is checked by the test down
 
 echo "Secrets"
 [ -n "${ELEVENLABS_API_KEY:-}" ] && ok "ELEVENLABS_API_KEY set" || bad "ELEVENLABS_API_KEY not set (add it in the environment settings)"
+[ -n "${YOUTUBE_COOKIES:-}" ] && ok "YOUTUBE_COOKIES set" || bad "YOUTUBE_COOKIES not set (YouTube blocks cloud downloads without a signed-in session)"
 
 echo "Repo contents"
 [ -d Videos/wenger-warned-us ] && ok "Videos/wenger-warned-us present" || bad "Videos/wenger-warned-us not pushed yet"
@@ -27,11 +28,11 @@ echo "Repo contents"
 ls Videos/wenger-warned-us/assets/music/*.mp3 >/dev/null 2>&1 && ok "music tracks" || bad "assets/music/*.mp3 missing (git-ignored; see CLAUDE.md)"
 
 if [ "$FAILED" = 0 ]; then
-  echo "Test download (15s of a clip)"
+  echo "Test download"
   tmp=$(mktemp -d)
   python3 -m yt_dlp -q --no-warnings --extractor-args "youtube:player_client=web_embedded" \
-    -f "b[height<=360]/b" --download-sections "*0-15" -o "$tmp/t.%(ext)s" \
-    "https://www.youtube.com/watch?v=62zh2Vb5AZg" && ok "YouTube download" || bad "YouTube download failed"
+    -f "b[height<=360]/bv*[height<=360]+ba/b" -o "$tmp/t.%(ext)s" \
+    "https://www.youtube.com/watch?v=jNQXAC9IVRw" && ok "YouTube download" || bad "YouTube download failed"
   rm -rf "$tmp"
 fi
 
