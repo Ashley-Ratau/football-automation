@@ -8,7 +8,7 @@ FF = r'C:\Users\Wendy\AppData\Roaming\Python\Python312\site-packages\imageio_ffm
 if __import__('os').name != 'nt': FF = 'ffmpeg'  # cloud / Linux
 env = dict(x.strip().split('=', 1) for x in SECRET.read_text().splitlines() if '=' in x and not x.lstrip().startswith('#')) if SECRET.exists() else dict(__import__('os').environ)  # cloud: key from environment
 KEY = env['ELEVENLABS_API_KEY'].strip().strip('"').strip("'")
-VOICE = 'bu5eKETbFKC8G702EAU4'
+VOICE = 'c6SfcYrb2t09NHXiT80T'
 
 def speech(s):
     out = P/'assets'/'vo'/f'{s["name"]}.wav'; meta = out.with_suffix('.json')

@@ -193,11 +193,9 @@ def timeline():
                               t=t, sec=sec['name'], lines=sec['lines'], credit=sec['credit']))
             events.append(('card', t, sec['name']))
             t += sec['dur'] + 0.3
-        if sec['name'] == 'cold_open':
-            shots.append(dict(kind='title', file=FAREWELL, start=588, t=t, sec='title')); events.append(('title', t, 'title')); t += 3.2
-    t += 4.0  # end card
-    shots.append(dict(kind='end', file=FAREWELL, start=600, t=t - 4.0, sec='end'))
+    t += 1.0  # short tail, no title or end card
     shots.sort(key=lambda s: s['t'])
+    for x in shots: x.pop('txt', None)
     for x, y in zip(shots, shots[1:] + [dict(t=t)]):
         x['dur'] = round(y['t'] * FPS) / FPS - round(x['t'] * FPS) / FPS
         L = clip_len(x['file'])
@@ -254,7 +252,7 @@ def music_bed(total, events):
         if not w.exists(): subprocess.run([FF, '-y', '-i', str(src), '-ar', str(SR), '-ac', '2', str(w)], check=True, capture_output=True)
         return wav_read(w)
     n = int(total * SR) + SR; bed = np.zeros((n, 2), np.float32)
-    title_t = [e[1] for e in events if e[0] == 'title'][0]
+    title_t = next((e[1] for e in events if e[0] == 'title'), 0.0)
     end_t = [e[1] for e in events if e[2] == 'fair'][0]
     def place(name, s, e, gain, fi=1.0, fo=2.5, offset=0):
         a = load(name)
